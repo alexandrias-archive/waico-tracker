@@ -206,7 +206,7 @@ def bing_news(searches: list[dict], days: int | None) -> list[dict]:
         try:
             found = parse_bing_news(resp.text, market)
         except ET.ParseError as exc:
-            log(f"    could not read feed: {exc}")
+            log(f"    could not read feed: {exc}; it starts with {resp.text[:200]!r}")
             continue
         log(f"    {len(found)} results")
         results.extend(found)
@@ -243,7 +243,8 @@ def gdelt(searches: list[dict], days: int | None) -> list[dict]:
                f"&maxrecords=250&sort=datedesc&timespan={span}")
         log("  GDELT")
         time.sleep(6)  # GDELT asks for at most one request every 5 seconds
-        resp = fetch(url, pause=8)
+        # GitHub's shared servers often hit GDELT's rate limit, so retry slowly.
+        resp = fetch(url, tries=4, pause=30)
         if resp is None:
             continue
         try:
