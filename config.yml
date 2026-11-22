@@ -61,18 +61,19 @@ searches:
     - query: '世界人工智能合作組織 OR 世界人工智能合作组织'
       edition: zh-HK
 
-  # Bing News, as a second engine. "market" works like Google's edition.
+  # Bing News: switched off. On 22 Nov 2026 it returned no feed to GitHub's
+  # servers. Remove the # signs below to try it again.
   bing_news:
-    - query: '"World AI Cooperation Organization" OR WAICO'
-      market: en-US
-    - query: '世界人工智能合作组织'
-      market: zh-CN
+  #  - query: '"World AI Cooperation Organization" OR WAICO'
+  #    market: en-US
+  #  - query: '世界人工智能合作组织'
+  #    market: zh-CN
 
-  # GDELT, an open database of world news in 65 languages. It translates
-  # non-English coverage, so one English query also catches Chinese,
-  # Russian, Spanish, French and Arabic articles.
+  # GDELT (open database of world news in 65 languages): switched off. It
+  # blocks requests from GitHub's servers as too frequent. It works if you run
+  # the crawler on your own computer: remove the # signs below.
   gdelt:
-    - query: '("World Artificial Intelligence Cooperation Organization" OR "World AI Cooperation Organization" OR WAICO)'
+  #  - query: '("World Artificial Intelligence Cooperation Organization" OR "World AI Cooperation Organization" OR WAICO)'
 
 # --- Categories ---------------------------------------------------------------
 # An article gets every category whose keywords appear in its headline or

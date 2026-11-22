@@ -4,8 +4,7 @@ Collects English and Chinese news about the World AI Cooperation Organization (W
 
 **What it searches**
 - Google News: US, UK, Kenya and Nigeria English editions; mainland China, Taiwan and Hong Kong Chinese editions
-- Bing News: English and Chinese
-- GDELT: an open database of world news that also catches Russian, Spanish, French, Arabic and other coverage
+- Bing News and GDELT are built in but switched off, because neither answers requests from GitHub's servers. See `config.yml` to turn them back on.
 
 **What you get**
 - A dashboard with filters for language, date, category and keyword, plus a CSV download
@@ -17,7 +16,7 @@ Collects English and Chinese news about the World AI Cooperation Organization (W
 1. **Create a repository.** On GitHub, click **New repository**. Name it `waico-tracker` and make it **Public** (free GitHub Pages needs a public repo). Don't add a README.
 2. **Upload the files.** On the empty repo page, click **uploading an existing file** and drag in everything from this folder, including the hidden `.github` folder. On a Mac, press `Cmd + Shift + .` in Finder to show hidden folders. Click **Commit changes**.
    - If the `.github` folder didn't upload: click **Add file → Create new file**, type `.github/workflows/crawl.yml` as the name, paste in the contents of that file, and commit.
-3. **Run it the first time.** Go to the **Actions** tab (click the green button to enable workflows if asked). Choose **Crawl WAICO news → Run workflow**, tick **backfill**, and run. It takes a minute or two. The first run collects everything the sources still have (roughly the last three months for GDELT and up to 100 articles per Google search).
+3. **Run it the first time.** Go to the **Actions** tab (click the green button to enable workflows if asked). Choose **Crawl WAICO news → Run workflow**, tick **backfill**, and run. It takes a minute or two. The first run collects everything Google News still has (up to 100 articles per search).
 4. **Turn on the website.** Go to **Settings → Pages**. Under *Build and deployment*, pick **Deploy from a branch**, then branch **main** and folder **/docs**. Save. After a minute your dashboard is at `https://YOUR-USERNAME.github.io/waico-tracker/`.
 5. **Optional: follow the feed.** Add `https://YOUR-USERNAME.github.io/waico-tracker/feed.xml` to a feed reader (Feedly, Inoreader, NetNewsWire, or Slack's RSS app).
 
