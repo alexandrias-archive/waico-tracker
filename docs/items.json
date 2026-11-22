@@ -1,13 +1,13 @@
 {
- "generated": "2026-11-22T19:58:25Z",
+ "generated": "2026-11-22T20:00:11Z",
  "stats": {
-  "last_run_new": 156,
+  "last_run_new": 13,
   "by_source": {
-   "google_news": 316,
+   "google_news": 287,
    "bing_news": 0,
    "gdelt": 0
   },
-  "total": 156
+  "total": 169
  },
  "categories": [
   {
@@ -287,6 +287,27 @@
    }
   },
   {
+   "id": "7aaf594153d7",
+   "title": "大國外交｜中方：積極推進人工智能合作組織實體化運行 讓各國共享紅利",
+   "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQTmlMVlU3a2NKNUVOSU54U1dYaXhYUzluRjB2NFdzRXNqWmxfNjdYYml2WkphcTZwd3B6d19yLU12ci1ObERpaDN5elZTSE41T0ZuYlBpSjJyX2RaQklEeXdaclpJODdXTVNPSGYyQ2paNHppMU85VVl6a1NEelozb21TSmduaHhUbzFxVUhNcDhENmI0YVctZ2FMOERtbWkwMXJmZG9EQ2VIVVdXaFRURVlhOWdBVU8zUmM5aFV1S3dveXRBNjZyZ2JsZVM5Q3BIbHhYNUNyTGtqV0YxMks1ZTRDYXdva0o3c01HV283UnBWVG5IdE9TXzc0Z1BOTVB0NGhSUkVicXdfY0NrMnlBM0F3QmVRZ1h4dlo2UUQyc2RDbGFfN05lYXM3T0ZMYUpITENoN2psZUt2WEZWdlVvY3E3eEFRTTJtXzFiQ3h6M25JeUUzbHJhN19hOUNteUxUaTZ3ZklXcmxaUDM4dkxJMVJITzdWVVAzbHFyaVZZTGdWTG9HQWdGamRwbVl6dzBzSGhSbkN3aDFmNF9rTmE0c0RSenM2V2x5R1plS1ZKZw?oc=5",
+   "outlet": "TVB",
+   "outlets": [
+    "TVB"
+   ],
+   "published": "2026-11-09T08:00:00Z",
+   "first_seen": "2026-11-22T20:00:11Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
    "id": "c068e0a6eb06",
    "title": "China passes law against cross-border corruption, ratifies agreement on establishing World AI Cooperation Organization",
    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YU1UyRm04bi1lZnhCZm43bjMzSVhfQS1HTG1yX1BWdVBScUJlY1F4U3pMRGFqVXZYTjRkcTJwZ2liVUJUQXlLa0FSRFFGRGJ3NlJfdzFTZzhYWGcteHRQak9DbE4?oc=5",
@@ -450,6 +471,35 @@
    }
   },
   {
+   "id": "9930dd70e8c2",
+   "title": "外交部： 歡迎各國加入世界人工智能合作組織",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBzWHFZRGtpT2dGMlZUYUJDM2wyazd5eXdaUTJCdVRJbmdrQXY5bTRwMVBHMU9hV1Z3Uk13bk9YazZjMm1WdTQyTmcxdGMtVWNvZm1kMFR1UDNLRkt6ZEQ2MG1oU0NrSXVVdkRmdDJia2pJZUVGS2wzWE85S0FyNEk?oc=5",
+   "outlet": "台灣中評網",
+   "outlets": [
+    "台灣中評網"
+   ],
+   "published": "2026-10-26T07:00:00Z",
+   "first_seen": "2026-11-22T20:00:11Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "membership",
+    "official"
+   ],
+   "matched": {
+    "membership": [
+     "加入"
+    ],
+    "official": [
+     "外交部"
+    ]
+   }
+  },
+  {
    "id": "f5e9d525dc66",
    "title": "Why Kazakhstan Joined Both the American and Chinese AI Initiatives",
    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMmsxNld5RlFGVWJ2UURwbFQ3eW5NZ0I5enpaWWJNLXBLandHT0NiQi1HclNMMlM3YVpfdnNDdHNseG53TlJBdEhWNFRhVnpHc1dRRUMtQXVGMV83VWs2Y2RNOWM2czJOOElxaXpJcy00dHNBZFpxRGkybDJ0WWVHd0xaZ0l0aDJyZ3dCZnBSNWotN3ZKellNMnQ4X0FJMGkySVE?oc=5",
@@ -524,6 +574,31 @@
    "matched": {
     "global_south": [
      "Latin America*"
+    ]
+   }
+  },
+  {
+   "id": "4cfe8ba2507d",
+   "title": "吉爾吉斯斯坦總理支持中國成立世界人工智能合作組織",
+   "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOVGdnamxPazJrSkFNMjNrbzVuZUsydWh4eTJiejdkXzNUQzA1dmsxTWE2SFVtSm5ZR3lEQjBudlNKWW5GYjV4WThUd2V0ajNUVlpFc0xwbFFOMnB6SFNaVTliSWY2Qm1keEZsZTZweFBOQ05RUktwSGdPcWRNMEFZOHhnZ0lLNm4xcU01QmFLZEx4NFdDVVNlcy1FaTJqd29sM19QUko5dWJORnk0MHFVZGJxSzRpYkRvSE9henFoSDh2TmdfclFkWkQyREVUQnpwNkpYLW5BX3MyM21qMEx1eEkzckxJWlluai1fRzJOVGlnWnozdzlEQmdOS2V3cmMyWVZDUjF1Z1oyWDV5WlM4bV8xT3dNZVRlLU91ZGllSEpKa0t2OVhDU241UXFVRm5CT0lyUzBtQXNnRVRyV0lwX2Qzb29qcGF2MmhVNk5fa1RpQUNUeldqMXQ0WEhHeWdVMTdJZG8tMGgyX3hpX3c?oc=5",
+   "outlet": "巴士的報",
+   "outlets": [
+    "巴士的報"
+   ],
+   "published": "2026-09-26T07:00:00Z",
+   "first_seen": "2026-11-22T20:00:11Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "institution"
+   ],
+   "matched": {
+    "institution": [
+     "成立"
     ]
    }
   },
@@ -1287,6 +1362,27 @@
    }
   },
   {
+   "id": "051c77377287",
+   "title": "世界人工智能合作組織（WAICO）成員",
+   "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxNdFBhU3o1VjVGdHplbzZRX2dsbDRaUDhzU19iSlNtUjBNdEZwU01lZHpqY040SFZtMEVHTXZXWEc1RURheDBSX2RpVEVodnh5WkgzeUxFTDFzTENhcW9pZHRkdU5uUGxiX3VQRS1vbU90aVFJMDFqQjJSdXpnbjVidEwzenJ3VUprT0s0VGJGYXZ1TDJBZ25uSS1hUV94MndWdEFYRlpLbEhwdmlITlNVSEZqc0N3cGpxQXhaS3Q4R09fbEt3eUpSZ01vdzA5ajJxbjJJX1pqNDFIZVJnaXhGd0VkODZpaHlaTkpZWkVBa3lnbmdnQ0VTM0FwRmhYTjV1ZTNCU2Q5STQteks4NU9MYk15ckxOdmR1MTNnLU9OQWF5ejlOekRkZGpySVVIUUZRblMxa05JQTNwWmZVTU1uSzJnQldNeFVEbWVBVVEwbHQzWHM?oc=5",
+   "outlet": "亞洲週刊",
+   "outlets": [
+    "亞洲週刊"
+   ],
+   "published": "2026-07-28T07:06:19Z",
+   "first_seen": "2026-11-22T20:00:11Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
    "id": "5794ccd265b9",
    "title": "China Launches WAICO In Shanghai As West Sits Out AI Governance",
    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWks0bVI0bVVEbXBaWWxjMVJuZERaWjF3M1JTMnhMOUNHN1ZyRDlDb2hybEI0R3poY2FLTV85S2dMMmNUTW8xZFdDMFVuRGYydHBCbF9jZktrR21kcmJ5VnM3OGVlSml5bzZmRzh6VWE2eUZJMHU2WVZZWk1xcVVjakpqMHVnRXJ5SzJJVnhjU1FoeHhoSVpFZkY4S2xOcWdxNWpUeTBnMU4wazJmZ19IV2pqZWV5dw?oc=5",
@@ -1302,7 +1398,8 @@
    "found_via": [
     "google_news:en-US",
     "google_news:en-GB",
-    "google_news:en-NG"
+    "google_news:en-NG",
+    "google_news:en-KE"
    ],
    "categories": [
     "institution",
@@ -1501,7 +1598,8 @@
    "summary": "",
    "focus": "headline",
    "found_via": [
-    "google_news:en-GB"
+    "google_news:en-GB",
+    "google_news:en-KE"
    ],
    "categories": [
     "governance"
@@ -1528,7 +1626,8 @@
    "found_via": [
     "google_news:en-US",
     "google_news:en-GB",
-    "google_news:en-NG"
+    "google_news:en-NG",
+    "google_news:en-KE"
    ],
    "categories": [
     "other"
@@ -1831,7 +1930,8 @@
    "found_via": [
     "google_news:en-US",
     "google_news:en-GB",
-    "google_news:en-NG"
+    "google_news:en-NG",
+    "google_news:en-KE"
    ],
    "categories": [
     "membership",
@@ -2052,7 +2152,8 @@
    "found_via": [
     "google_news:en-US",
     "google_news:en-GB",
-    "google_news:en-NG"
+    "google_news:en-NG",
+    "google_news:en-KE"
    ],
    "categories": [
     "events"
@@ -2239,7 +2340,8 @@
    "found_via": [
     "google_news:en-US",
     "google_news:en-GB",
-    "google_news:en-NG"
+    "google_news:en-NG",
+    "google_news:en-KE"
    ],
    "categories": [
     "official",
@@ -3284,6 +3386,52 @@
    }
   },
   {
+   "id": "0ffd744a97f9",
+   "title": "29國上海簽約 成立世界人工智能合作組織",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNalBiS2x0dXRGaktRYXEwdnRKejZpclVLMVJnZWJtc0ExT1AteEhrUGVPYm1RaHEwakV0QzJNQ2lIaFUzcjl4WUNGQi12MTU4QVlwbXo2dkNDbEkwblRrZ01zSGE4Q3hpMjJhTGRObTZoUE9vM2M0RjFURFp1ZUlFVw?oc=5",
+   "outlet": "Singtaousa",
+   "outlets": [
+    "Singtaousa"
+   ],
+   "published": "2026-07-17T07:00:00Z",
+   "first_seen": "2026-11-22T20:00:11Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "institution"
+   ],
+   "matched": {
+    "institution": [
+     "成立"
+    ]
+   }
+  },
+  {
+   "id": "0a0c3fa0f860",
+   "title": "習近平出席上海 AI 大會，攜 29 國簽署人工智慧合作協議",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfQ0hROVIxTDhYWmtlZ1FSRnd0T1RuX2ZReXljMU1SaUZhS2pjSHBSN2wya2hORm83cVZ3enZwNU53Q2ZrdTh6QUJMR0NtaDBsUzUtSFJubzM0SDg?oc=5",
+   "outlet": "鏈新聞 ABMedia",
+   "outlets": [
+    "鏈新聞 ABMedia"
+   ],
+   "published": "2026-07-17T07:00:00Z",
+   "first_seen": "2026-11-22T20:00:11Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
    "id": "080503dd7d08",
    "title": "29 Countries Sign Agreement Establishing World AI Cooperation Organization",
    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeDA1V0Z3Tk5GNEF0NkxKVmlTamFEcURtaUxsRERjNll5aFhsdEdBdVBoQzN5aEtYVDRrYWtoeE9HRTE3UzZUOUh3eEpYNVVYZjNFOHRQV3RfamE5N2N3SlhCdDBnVkRfN01OZ25DYkZDREJINWpyS3psbkdyVkV3N0ZsWmVqRmp6amwwQWNMbENxTk42TnRBMzVmMnBYS3BuU2xQeEVMMHB3TnFPNlk2U0xn?oc=5",
@@ -3508,7 +3656,8 @@
    "focus": "headline",
    "found_via": [
     "google_news:en-US",
-    "google_news:en-NG"
+    "google_news:en-NG",
+    "google_news:en-KE"
    ],
    "categories": [
     "other"
@@ -3530,7 +3679,8 @@
    "focus": "headline",
    "found_via": [
     "google_news:en-US",
-    "google_news:en-NG"
+    "google_news:en-NG",
+    "google_news:en-KE"
    ],
    "categories": [
     "membership"
@@ -3873,6 +4023,56 @@
    }
   },
   {
+   "id": "c81ca8a03966",
+   "title": "29國簽署協議 成立世界人工智能合作組織",
+   "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxOTEpyTHRzQzB5MW9Ra2ZqaC1ZeWQzNGtNX2F3MTA4N3pwaUtIRnh5Z1JPV0FFbFpFUmRyVWVrSEJtcHRISklZLTQyZGwwMjRXT04zWVFBX3J0MVdWWGtFRDFscjNTVWJLTDRNQUNuNDRsN3l0SFhUOC0xUnV1akNoSDB0d045STg5R1FTN3VQMHRIeHpJQk1LanhfQkJVZGY2M2dCUjhjVTBuVUJSenQ2Mlc5RkROLWZhMjFvT2pFSkxFYVN2STNsOEVFcnM2WWRqMk1GbmM1aEQ0eC0wbTVxUkJIcS1UUnlmZmRQOVpVa2F5SktnV3AxMFVHeW80UEM3VGVQLWc1Ul9JTlN0aFR3dU5xbE4zOEo1c19TZWV3dWozQWFSaTQzZ2ZZdUtBcXBwNGlydF93?oc=5",
+   "outlet": "巴士的報",
+   "outlets": [
+    "巴士的報"
+   ],
+   "published": "2026-07-16T07:00:00Z",
+   "first_seen": "2026-11-22T20:00:11Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "institution"
+   ],
+   "matched": {
+    "institution": [
+     "成立"
+    ]
+   }
+  },
+  {
+   "id": "ceb82b1976ad",
+   "title": "全球人工智能合作組織於上海成立 29國簽署創始協定",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcWdzTjZRbFF5N1VEWXlPVk9uWWU5Q0liT1ZXRk9CZVhQbS1WbzdQNWt3X3FDVTh0ZUw0NnZySmdReTNsSmpQTDlaaTFVbEQ4YlN4eV9iUFhFMjlSOTdfVFJKaXZJVUhHcjhYcV9ySUNwYkxoVHBtMWUySU00YXhFVjc4YU9uQllQaXl2QkMwWVVrTmU3N2sxOGFGSQ?oc=5",
+   "outlet": "Singtaousa",
+   "outlets": [
+    "Singtaousa"
+   ],
+   "published": "2026-07-16T07:00:00Z",
+   "first_seen": "2026-11-22T20:00:11Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "institution"
+   ],
+   "matched": {
+    "institution": [
+     "成立"
+    ]
+   }
+  },
+  {
    "id": "4a05ff233df9",
    "title": "China accelerating establishment of World AI Cooperation Organization",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTG5fNnkwNTJuaFpYYndHaHZSby0yR21yRDc3WnR4Q1N0Zzl3Yng1NlRhQklQTGQ3QlRXMVZTajREZDc5bUJMS1hXaS1DY29DU0NaUHN3eUZza2RxU1kycFVRb0JPNnl2QWhkV0EzR2FMVXdTbkltaXFaSTNydkkzMmw3NkV5aWJ4bTNOVXk4Y2xZZTE4cUUzcW95eFluY1U0NV9WWDVFY0h6UzI0V0gxNjhPSFNTRWtMMTU2djdKbXFmcUlk?oc=5",
@@ -3887,7 +4087,8 @@
    "focus": "headline",
    "found_via": [
     "google_news:en-US",
-    "google_news:en-NG"
+    "google_news:en-NG",
+    "google_news:en-KE"
    ],
    "categories": [
     "institution"
@@ -3964,7 +4165,8 @@
    "found_via": [
     "google_news:en-US",
     "google_news:en-GB",
-    "google_news:en-NG"
+    "google_news:en-NG",
+    "google_news:en-KE"
    ],
    "categories": [
     "other"
@@ -3987,7 +4189,8 @@
    "found_via": [
     "google_news:en-US",
     "google_news:en-GB",
-    "google_news:en-NG"
+    "google_news:en-NG",
+    "google_news:en-KE"
    ],
    "categories": [
     "governance"
@@ -4008,6 +4211,52 @@
    ],
    "published": "2025-11-01T07:00:00Z",
    "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "institution"
+   ],
+   "matched": {
+    "institution": [
+     "成立"
+    ]
+   }
+  },
+  {
+   "id": "12511caa999c",
+   "title": "深圳接棒明年辦APEC峰會 習近平倡設世界人工智能合作組織",
+   "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxNdHQybDVOVERGU1JIQjJEOExKaFRqWm51YjJ0X3RadXJFNG9TbjNPVVI3dERPNmlyNUVsTV9iUmVPeWVlV2M5NXZzQlpjOUJobmZHQnpnQmRRUm1fTE1PTWdHSVljRlBzcGZaZ3E1clYyNFFpN2RudEk2MlVJa3ZaaF9Oek5saXZ5bGxyOFBSQjduSGFRXzZuVEg4X2RpN1YtS19uUDFnMDgySjBEMTlVRFIwdXFWNFoxYVFvZll4X2NxTEZPSjFucG05aktaMk5KZU9ad1BZa09sYmJsbFktbkl6WUg1dUVKcFpPQzA0ZTQwTkVzcmNLaWpnMWUyQnZRUW1FajlNVzV6Rlp6WHFPSFVudVRnYVJmTnVKMU9NaUt5MWVNRjdTRWpHZHoxZE8xdjlfaF95a0tYWjkwZ2l3V2tMRDl1SkpDOXgzYTFUUkZVZm1WNTJhQWwzQkZBaUZZTVg4VGVsWVRaSHc?oc=5",
+   "outlet": "TVB",
+   "outlets": [
+    "TVB"
+   ],
+   "published": "2025-11-01T07:00:00Z",
+   "first_seen": "2026-11-22T20:00:11Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
+   "id": "8cdf7cb978ee",
+   "title": "習近平倡成立世界人工智能合作組織 下屆APEC峰會明年11月深圳舉行",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1WElxSTlQSXZoZHFNUWc3Yk1xczlHLURVel93bWdoNV82YjNxYW1SaVYtd1JRYzJHck1uYjcyOUZLNkRxSW9ISno0RXZaVzRNNDVIRjF4MzR4Z1ZzU2xseXRB?oc=5",
+   "outlet": "Now 新聞",
+   "outlets": [
+    "Now 新聞"
+   ],
+   "published": "2025-11-01T07:00:00Z",
+   "first_seen": "2026-11-22T20:00:11Z",
    "lang": "zh",
    "summary": "",
    "focus": "headline",
@@ -4118,7 +4367,8 @@
    "summary": "",
    "focus": "headline",
    "found_via": [
-    "google_news:en-GB"
+    "google_news:en-GB",
+    "google_news:en-KE"
    ],
    "categories": [
     "governance"
@@ -4299,6 +4549,81 @@
    ],
    "published": "2025-07-26T07:00:00Z",
    "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "institution"
+   ],
+   "matched": {
+    "institution": [
+     "成立"
+    ]
+   }
+  },
+  {
+   "id": "146e2cc35c4c",
+   "title": "李強出席世界人工智能大會提3點建議 倡議成立世界AI合作組織",
+   "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxPWTVKcU9HYklJaUp3d19WTDh5STN3RHNJX0dUNE1mWmxRRXF4N1djLUhIMWVVY185dkg3UFpaY1ZxWHVhaC1iSC1PYUI1V25RdUJTeU5UWlFkTF9Gd3VPaUc4aHl0bzZDdHZLVlV1VVZycFFLMnBwQ1ZQNWtWbmQyN2dhMlhoR2NSUjNPN21VY2t6Szd6eUYtY1ByOWJUM2ZLRUlmNnpDSDIxdmItb2IxOTItV1VPVzRXOFUzWXBBN1ZVbS12U0lKTHNac3BWV2U1aGNOWGlvUlBXU1dHUkw0OTdZZG52TWpLdzFCODFHdE1KZXZZSWJKcVVUeWx1Q3pFR19zRDhtNmpTaHJ0WkR0RWJvaU9zSUdWVU9pU3RTVWwxMTV1M2dkSzVjTmlZOHJFdVcyTnlPOXZOYXA5X1FoUWZqQVowSXJOWU1sVGU4SE9JazZWekJ3Yk9YUFhvc3FrUWFsTnU0TVJMWGZZX3c4RUFqVTZobW5DTWwtM2NXamtzcnpWNWVZSDJLUDg3Z2lSVURHV3lfQ0RaQ0tyTVRRTjhYSWo3R2tNMG5FbXo5WlItN1k?oc=5",
+   "outlet": "香港01",
+   "outlets": [
+    "香港01"
+   ],
+   "published": "2025-07-26T07:00:00Z",
+   "first_seen": "2026-11-22T20:00:11Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "institution"
+   ],
+   "matched": {
+    "institution": [
+     "成立"
+    ]
+   }
+  },
+  {
+   "id": "3ee92a4eab8d",
+   "title": "WAIC 2025︱中國擬將世界人工智能合作組織總部設在上海",
+   "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNM2VlZ3NTTVFJYlhnQmZPLTdWRVd6VkpsdjZ1NWU1alh5eElVOF9rSlRQVmN5bFdKVWg2WXFCRHl6bE5xZ195aTY1bTNjcGdUbXV4Vm1weG5pM19BQzNOOFdINXBXbHN5YlRKZGRLbFU4VlZVTEp4cVplT3UweXJTM2NwUGt3WUlGOWtuMWtzUEVuMEU5RTRZYlotLTlqSnBMN3EwalgtRm0tTGNaUXpCWll5UC1oaWRzXzRjNnF3ZlV1ZTlyYUlLWlgyV3c1ZTJmdDlZZGVnc0c1VjNfeFVDeTNWZGMtZDVVQlN4dlZJWE9HVFdLU0VSRkwxZU1DWjJTWGFBZlZxVGk2TlZtRndHdVJfLWpicHBGX1Vxc2hid0lhakx1SEVLaEc4OXVtM0ZFaVVOR1hFdlZDd2Z6endKcHc0Nzlhb0tJeHoxelBwRjJGbFdqc0pfTEhQaw?oc=5",
+   "outlet": "星島頭條",
+   "outlets": [
+    "星島頭條"
+   ],
+   "published": "2025-07-26T07:00:00Z",
+   "first_seen": "2026-11-22T20:00:11Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "events"
+   ],
+   "matched": {
+    "events": [
+     "WAIC"
+    ]
+   }
+  },
+  {
+   "id": "31167ea43451",
+   "title": "北京希望「貢獻中國智慧」 倡議成立世界人工智能合作組織| 德國之聲",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Rb0JqM3NBazd0ajA5M2RwbFo2Q0g3by1Sbnc3U21JYlR0eUVqQ25EMS1QeEZEUmpnQkpISV80bF80NzRwOXg4QTJCeWZIaUgtbTRDZkRR?oc=5",
+   "outlet": "LINE TODAY",
+   "outlets": [
+    "LINE TODAY"
+   ],
+   "published": "2025-07-26T07:00:00Z",
+   "first_seen": "2026-11-22T20:00:11Z",
    "lang": "zh",
    "summary": "",
    "focus": "headline",
