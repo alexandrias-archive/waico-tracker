@@ -1,0 +1,376 @@
+# WAICO tracker settings
+# Edit this file to change what gets searched and how articles are sorted.
+# Changes to categories apply to the whole archive on the next run.
+
+# --- What counts as "about WAICO" -------------------------------------------
+# An article that names one of these in its headline is marked "headline".
+# Same matching rules as the category keywords further down
+# (so "WAICO" must be in capitals and "Waico" does not count).
+match_terms:
+  - WAICO
+  - World AI Cooperation Organization
+  - World AI Cooperation Organisation
+  - World Artificial Intelligence Cooperation Organization
+  - World Artificial Intelligence Cooperation Organisation
+  - 世界人工智能合作组织
+  - 世界人工智能合作組織
+  - 世界AI合作组织
+  - 世界人工智能合作組织
+
+# Search engines sometimes return articles that only name WAICO deep in the
+# text, or not at all. Those are kept only if the headline or snippet mentions
+# AI in some language. This drops unrelated "Waico" companies and similar.
+context_terms:
+  - AI
+  - A.I.
+  - artificial intelligence
+  - 人工智能
+  - 智能
+  - ИИ
+  - искусственн*
+  - IA
+  - inteligencia artificial
+  - intelligence artificielle
+  - inteligência artificial
+  - الذكاء الاصطناعي
+
+# Drop any article whose headline or snippet contains one of these
+# (useful if "WAICO" turns out to clash with an unrelated company).
+exclude_terms: []
+
+# How many days back each scheduled run searches. The first run (or a manual
+# run with "backfill" ticked) searches as far back as the sources allow.
+lookback_days: 7
+
+# --- Where to search ----------------------------------------------------------
+searches:
+  # Google News. "edition" picks the country/language edition of Google News.
+  google_news:
+    - query: '"World AI Cooperation Organization" OR "World Artificial Intelligence Cooperation Organization" OR WAICO'
+      edition: en-US
+    - query: '"World AI Cooperation Organisation" OR "World Artificial Intelligence Cooperation Organisation" OR WAICO'
+      edition: en-GB
+    - query: 'WAICO OR "World AI Cooperation Organization" OR "World Artificial Intelligence Cooperation Organisation"'
+      edition: en-KE
+    - query: 'WAICO OR "World AI Cooperation Organization" OR "World Artificial Intelligence Cooperation Organization"'
+      edition: en-NG
+    - query: '世界人工智能合作组织'
+      edition: zh-CN
+    - query: '世界人工智能合作組織 OR 世界人工智能合作组织'
+      edition: zh-TW
+    - query: '世界人工智能合作組織 OR 世界人工智能合作组织'
+      edition: zh-HK
+
+  # Bing News, as a second engine. "market" works like Google's edition.
+  bing_news:
+    - query: '"World AI Cooperation Organization" OR WAICO'
+      market: en-US
+    - query: '世界人工智能合作组织'
+      market: zh-CN
+
+  # GDELT, an open database of world news in 65 languages. It translates
+  # non-English coverage, so one English query also catches Chinese,
+  # Russian, Spanish, French and Arabic articles.
+  gdelt:
+    - query: '("World Artificial Intelligence Cooperation Organization" OR "World AI Cooperation Organization" OR WAICO)'
+
+# --- Categories ---------------------------------------------------------------
+# An article gets every category whose keywords appear in its headline or
+# snippet. The category with the most hits is its main one. Articles with no
+# hits go under "Other".
+#
+# Keyword rules:
+#   - Chinese keywords match anywhere in the text.
+#   - English keywords match whole words. Put * at the end to match the start
+#     of a word: ratif* matches ratify, ratified, ratification.
+#   - Short all-capital terms (US, EU, UN, WAIC, WAICO) only match in
+#     capitals, so "US" does not match "us".
+categories:
+  - id: membership
+    label: Membership & ratification
+    label_zh: 成员与批准
+    keywords:
+      - member*
+      - join
+      - joins
+      - joined
+      - joining
+      - accede*
+      - accession
+      - ratif*
+      - sign
+      - signs
+      - signed
+      - signing
+      - signator*
+      - treaty
+      - 29 countries
+      - 29 nations
+      - 成员
+      - 加入
+      - 批准
+      - 签署
+      - 缔约
+      - 签约
+      - 创始成员
+
+  - id: institution
+    label: Founding, structure & operations
+    label_zh: 成立与机构运行
+    keywords:
+      - establish*
+      - launch*
+      - intergovernmental
+      - inaugurat*
+      - secretariat
+      - secretary-general
+      - director-general
+      - council
+      - charter
+      - headquarter*
+      - budget*
+      - staff*
+      - operational*
+      - working group*
+      - preparatory
+      - legal personality
+      - 成立
+      - 启动
+      - 设立
+      - 揭牌
+      - 政府间
+      - 秘书处
+      - 秘书长
+      - 理事会
+      - 总部
+      - 章程
+      - 筹建
+      - 运转
+      - 预算
+      - 工作组
+      - 附属机构
+      - 法律人格
+      - 制度
+
+  - id: official
+    label: Official statements & diplomacy
+    label_zh: 官方表态与外交
+    keywords:
+      - foreign ministry
+      - ministry of foreign affairs
+      - spokesperson
+      - spokesman
+      - spokeswoman
+      - Xi Jinping
+      - Xi
+      - Li Qiang
+      - Wang Yi
+      - State Council
+      - statement
+      - minister*
+      - ambassador*
+      - embassy
+      - press conference
+      - 外交部
+      - 发言人
+      - 习近平
+      - 李强
+      - 王毅
+      - 国务院
+      - 声明
+      - 部长
+      - 大使
+      - 记者会
+      - 全国人民代表大会
+      - 全国人大
+
+  - id: africa
+    label: Africa
+    label_zh: 非洲
+    keywords:
+      - Africa*
+      - African Union
+      - Kenya*
+      - Nigeria*
+      - Ethiopia*
+      - Egypt*
+      - South Africa*
+      - Uganda*
+      - Rwanda*
+      - Zambia*
+      - Zimbabwe*
+      - Ghana*
+      - Senegal*
+      - Morocc*
+      - Algeria*
+      - Tanzania*
+      - FOCAC
+      - 非洲
+      - 非盟
+      - 肯尼亚
+      - 尼日利亚
+      - 埃塞俄比亚
+      - 埃及
+      - 南非
+      - 乌干达
+      - 卢旺达
+      - 赞比亚
+      - 津巴布韦
+      - 加纳
+      - 塞内加尔
+      - 摩洛哥
+      - 阿尔及利亚
+      - 坦桑尼亚
+      - 中非合作论坛
+
+  - id: global_south
+    label: Global South & capacity building
+    label_zh: 全球南方与能力建设
+    keywords:
+      - Global South
+      - developing countr*
+      - developing nation*
+      - capacity building
+      - capacity-building
+      - training
+      - digital divide
+      - AI divide
+      - Latin America*
+      - ASEAN
+      - Belt and Road
+      - inclusive
+      - 全球南方
+      - 发展中国家
+      - 能力建设
+      - 培训
+      - 数字鸿沟
+      - 智能鸿沟
+      - 拉美
+      - 东盟
+      - 一带一路
+      - 普惠
+
+  - id: governance
+    label: Governance, standards & safety
+    label_zh: 治理、标准与安全
+    keywords:
+      - governance
+      - standard*
+      - regulat*
+      - safety
+      - ethic*
+      - UN
+      - United Nations
+      - Global Digital Compact
+      - norm*
+      - framework*
+      - rules
+      - AI Act
+      - 治理
+      - 标准
+      - 规则
+      - 安全
+      - 伦理
+      - 联合国
+      - 全球数字契约
+      - 规范
+      - 监管
+
+  - id: tech_industry
+    label: Tech & industry cooperation
+    label_zh: 技术与产业合作
+    keywords:
+      - open source
+      - open-source
+      - open-weight
+      - compute
+      - data center*
+      - data centre*
+      - chip*
+      - semiconductor*
+      - compan*
+      - industr*
+      - invest*
+      - infrastructure
+      - AI model*
+      - language model*
+      - DeepSeek
+      - Qwen
+      - Huawei
+      - Alibaba
+      - 开源
+      - 算力
+      - 数据中心
+      - 芯片
+      - 企业
+      - 产业
+      - 投资
+      - 大模型
+      - 基础设施
+      - 人工智能+
+      - 华为
+      - 阿里
+      - 深度求索
+      - 通义千问
+
+  - id: events
+    label: Events & meetings
+    label_zh: 会议与活动
+    keywords:
+      - WAIC
+      - World Artificial Intelligence Conference
+      - World AI Conference
+      - summit*
+      - forum*
+      - conference*
+      - meeting*
+      - ceremony
+      - workshop*
+      - 世界人工智能大会
+      - 峰会
+      - 论坛
+      - 会议
+      - 仪式
+      - 研讨会
+      - 大会
+
+  - id: analysis
+    label: Analysis & reactions
+    label_zh: 分析与反应
+    keywords:
+      - analysis
+      - opinion
+      - commentary
+      - op-ed
+      - explainer
+      - what is
+      - why
+      - critic*
+      - concern*
+      - rival*
+      - geopoliti*
+      - United States
+      - US
+      - U.S.
+      - Washington
+      - West
+      - Western
+      - EU
+      - Europe*
+      - think tank
+      - soft power
+      - influence
+      - 分析
+      - 评论
+      - 解读
+      - 观察
+      - 专家
+      - 学者
+      - 美国
+      - 欧盟
+      - 西方
+      - 地缘
+      - 博弈
+      - 竞争
+      - 影响力
+      - 智库

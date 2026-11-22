@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WAICO tracker · 世界人工智能合作组织动态</title>
+<link rel="alternate" type="application/rss+xml" title="WAICO tracker" href="feed.xml">
+<style>
+  :root {
+    --bg: #f7f6f3; --panel: #ffffff; --ink: #1c1c1e; --muted: #6b6b70;
+    --line: #e4e2dc; --accent: #0e5a63; --accent-soft: #e2eff0; --new: #b3401b;
+    --chip: #efede8;
+    --sans: system-ui, -apple-system, "Segoe UI", "PingFang SC", "Noto Sans SC", "Microsoft YaHei", sans-serif;
+    --serif: "Iowan Old Style", Georgia, "Songti SC", "Noto Serif SC", serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #141416; --panel: #1c1c1f; --ink: #ececee; --muted: #9a9aa1;
+      --line: #2e2e33; --accent: #6cc3cc; --accent-soft: #1d3436; --new: #f08a64;
+      --chip: #26262a;
+    }
+  }
+  * { box-sizing: border-box; }
+  [hidden] { display: none !important; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.5 var(--sans); }
+  .wrap { max-width: 980px; margin: 0 auto; padding: 32px 20px 64px; }
+  header h1 { font: 600 30px/1.15 var(--serif); margin: 0; letter-spacing: -0.01em; }
+  header .zh { display: block; font: 500 17px/1.4 var(--sans); color: var(--muted); margin-top: 4px; }
+  .meta { color: var(--muted); font-size: 13px; margin-top: 10px; }
+  .meta a { color: var(--accent); }
+
+  .controls { position: sticky; top: 0; z-index: 2; background: var(--bg);
+    padding: 16px 0 12px; border-bottom: 1px solid var(--line); margin-top: 20px; }
+  .row { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+  .row + .row { margin-top: 10px; }
+  input[type=search] { flex: 1 1 260px; font: inherit; padding: 8px 12px; border-radius: 8px;
+    border: 1px solid var(--line); background: var(--panel); color: var(--ink); }
+  .seg { display: inline-flex; border: 1px solid var(--line); border-radius: 8px; overflow: hidden; background: var(--panel); }
+  .seg button { font: inherit; font-size: 13px; border: 0; background: none; color: var(--ink);
+    padding: 7px 11px; cursor: pointer; }
+  .seg button + button { border-left: 1px solid var(--line); }
+  .seg button[aria-pressed=true] { background: var(--accent); color: var(--panel); }
+  label.toggle { font-size: 13px; color: var(--muted); display: inline-flex; gap: 6px; align-items: center; cursor: pointer; }
+  .btn { font: inherit; font-size: 13px; padding: 7px 11px; border-radius: 8px; cursor: pointer;
+    border: 1px solid var(--line); background: var(--panel); color: var(--ink); }
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; }
+  .chip { font: inherit; font-size: 12.5px; border: 1px solid transparent; background: var(--chip);
+    color: var(--ink); padding: 4px 10px; border-radius: 999px; cursor: pointer; }
+  .chip .n { color: var(--muted); margin-left: 4px; }
+  .chip[aria-pressed=true] { background: var(--accent-soft); border-color: var(--accent); color: var(--accent); }
+  .chip[aria-pressed=true] .n { color: var(--accent); }
+  .chip:disabled { opacity: .45; cursor: default; }
+
+  .count { color: var(--muted); font-size: 13px; margin: 14px 0 6px; }
+  ol.items { list-style: none; padding: 0; margin: 0; }
+  .item { display: grid; grid-template-columns: 92px 1fr; gap: 16px; padding: 16px 0; border-bottom: 1px solid var(--line); }
+  .date { color: var(--muted); font-size: 13px; font-variant-numeric: tabular-nums; padding-top: 2px; }
+  .item h2 { font: 600 16.5px/1.4 var(--sans); margin: 0; }
+  .item h2 a { color: var(--ink); text-decoration: none; }
+  .item h2 a:hover { color: var(--accent); text-decoration: underline; }
+  .sub { font-size: 13px; color: var(--muted); margin-top: 3px; display: flex; flex-wrap: wrap; gap: 4px 10px; align-items: center; }
+  .badge { font-size: 11px; font-weight: 600; letter-spacing: .03em; padding: 1px 6px; border-radius: 4px;
+    border: 1px solid var(--line); color: var(--muted); }
+  .badge.new { color: var(--new); border-color: var(--new); }
+  .summary { margin: 6px 0 0; font-size: 14px; color: var(--ink); opacity: .85;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+  .tags { display: flex; flex-wrap: wrap; gap: 5px; margin-top: 8px; }
+  .tag { font-size: 12px; padding: 1px 8px; border-radius: 999px; background: var(--chip); color: var(--muted); cursor: help; }
+  .tag.primary { background: var(--accent-soft); color: var(--accent); font-weight: 600; }
+  .empty { padding: 48px 0; text-align: center; color: var(--muted); }
+  .more { display: block; margin: 20px auto 0; }
+  footer { margin-top: 40px; font-size: 13px; color: var(--muted); }
+  footer a { color: var(--accent); }
+  @media (max-width: 560px) {
+    .item { grid-template-columns: 1fr; gap: 4px; }
+    header h1 { font-size: 25px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>WAICO tracker <span class="zh">世界人工智能合作组织动态</span></h1>
+    <div class="meta" id="meta"></div>
+  </header>
+
+  <div class="controls">
+    <div class="row">
+      <input type="search" id="q" placeholder="Search headlines, outlets, summaries · 搜索" aria-label="Search">
+      <div class="seg" id="lang" role="group" aria-label="Language">
+        <button data-v="all" aria-pressed="true">All</button>
+        <button data-v="en" aria-pressed="false">English</button>
+        <button data-v="zh" aria-pressed="false">中文</button>
+        <button data-v="other" aria-pressed="false">Other</button>
+      </div>
+      <div class="seg" id="range" role="group" aria-label="Time range">
+        <button data-v="7" aria-pressed="false">7 days</button>
+        <button data-v="30" aria-pressed="false">30 days</button>
+        <button data-v="90" aria-pressed="false">90 days</button>
+        <button data-v="0" aria-pressed="true">All</button>
+      </div>
+    </div>
+    <div class="row">
+      <div class="chips" id="cats" aria-label="Categories"></div>
+    </div>
+    <div class="row">
+      <label class="toggle"><input type="checkbox" id="headline"> Only headlines that name WAICO</label>
+      <label class="toggle"><input type="checkbox" id="onlynew"> Only new since my last visit</label>
+      <span style="flex:1"></span>
+      <button class="btn" id="csv">Download CSV</button>
+    </div>
+  </div>
+
+  <div class="count" id="count"></div>
+  <ol class="items" id="list"></ol>
+  <button class="btn more" id="more" hidden>Show more</button>
+
+  <footer>
+    Sources: Google News (EN and Chinese editions), Bing News and GDELT.
+    Categories come from keyword rules in <code>config.yml</code>; hover a tag to see which words matched.
+    <br><a href="feed.xml">RSS feed</a> · <a href="items.json">Raw data (JSON)</a>
+  </footer>
+</div>
+
+<script src="data.js"></script>
+<script>
+(function () {
+  var data = window.WAICO || { items: [], categories: [], generated: null };
+  var items = data.items || [];
+  var cats = data.categories || [];
+  var catLabel = {};
+  cats.forEach(function (c) { catLabel[c.id] = c; });
+
+  var store = {
+    get: function (k) { try { return window.localStorage.getItem(k); } catch (e) { return null; } },
+    set: function (k, v) { try { window.localStorage.setItem(k, v); } catch (e) {} }
+  };
+  var lastVisit = store.get("waico:lastVisit");
+  store.set("waico:lastVisit", data.generated || new Date().toISOString());
+
+  var state = { q: "", lang: "all", range: 0, cats: new Set(), headline: false, onlyNew: false, shown: 60 };
+
+  function $(id) { return document.getElementById(id); }
+  function esc(s) {
+    return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+    });
+  }
+  function when(it) { return it.published || it.first_seen || ""; }
+  function isNew(it) { return lastVisit && it.first_seen && it.first_seen > lastVisit; }
+  function fmtDate(s) {
+    if (!s) return "";
+    var d = new Date(s);
+    return d.toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" });
+  }
+
+  // Meta line
+  var meta = [];
+  if (data.generated) meta.push("Last checked " + new Date(data.generated).toLocaleString("en-GB", { dateStyle: "medium", timeStyle: "short" }));
+  meta.push(items.length + " articles in archive");
+  if (data.stats && data.stats.last_run_new != null) meta.push(data.stats.last_run_new + " new in last run");
+  if (lastVisit) {
+    var n = items.filter(isNew).length;
+    if (n) meta.push("<strong>" + n + " new since your last visit</strong>");
+  }
+  $("meta").innerHTML = meta.join(" · ");
+
+  function passes(it, skipCats) {
+    if (state.lang !== "all" && it.lang !== state.lang) return false;
+    if (state.headline && it.focus !== "headline") return false;
+    if (state.onlyNew && !isNew(it)) return false;
+    if (state.range) {
+      var t = Date.parse(when(it));
+      if (!t || t < Date.now() - state.range * 864e5) return false;
+    }
+    if (!skipCats && state.cats.size) {
+      var hit = (it.categories || []).some(function (c) { return state.cats.has(c); });
+      if (!hit) return false;
+    }
+    if (state.q) {
+      var hay = (it.title + " " + (it.summary || "") + " " + (it.outlets || []).join(" ")).toLowerCase();
+      if (hay.indexOf(state.q.toLowerCase()) === -1) return false;
+    }
+    return true;
+  }
+
+  function renderChips() {
+    var counts = {};
+    items.forEach(function (it) {
+      if (!passes(it, true)) return;
+      (it.categories || []).forEach(function (c) { counts[c] = (counts[c] || 0) + 1; });
+    });
+    $("cats").innerHTML = cats.map(function (c) {
+      var n = counts[c.id] || 0;
+      var on = state.cats.has(c.id);
+      return '<button class="chip" data-id="' + esc(c.id) + '" aria-pressed="' + on + '"' +
+        (n || on ? "" : " disabled") + ">" + esc(c.label) +
+        (c.label_zh ? " · " + esc(c.label_zh) : "") + '<span class="n">' + n + "</span></button>";
+    }).join("");
+  }
+
+  function renderItem(it) {
+    var outlets = it.outlets && it.outlets.length ? it.outlets : [it.outlet];
+    var outletText = esc(outlets[0] || "");
+    if (outlets.length > 1) {
+      outletText += ' <span title="' + esc(outlets.slice(1).join(", ")) + '">+' + (outlets.length - 1) + " more</span>";
+    }
+    var langBadge = { en: "EN", zh: "中文", other: "OTHER" }[it.lang] || it.lang;
+    var tags = (it.categories || []).map(function (c, i) {
+      var label = catLabel[c] ? catLabel[c].label : c;
+      var why = it.matched && it.matched[c] ? "Matched: " + it.matched[c].join(", ") : "No keywords matched";
+      return '<span class="tag' + (i === 0 ? " primary" : "") + '" title="' + esc(why) + '">' + esc(label) + "</span>";
+    }).join("");
+    var focus = it.focus === "headline" ? "" :
+      '<span class="badge" title="WAICO is not named in the headline; the search engine matched the article text">mention</span>';
+    return '<li class="item"><div class="date">' + fmtDate(when(it)) + "</div><div>" +
+      '<h2 lang="' + (it.lang === "zh" ? "zh" : "en") + '"><a href="' + esc(it.url) + '" target="_blank" rel="noopener">' + esc(it.title) + "</a></h2>" +
+      '<div class="sub">' + (isNew(it) ? '<span class="badge new">NEW</span>' : "") +
+      '<span class="badge">' + langBadge + "</span>" + focus + "<span>" + outletText + "</span></div>" +
+      (it.summary ? '<p class="summary">' + esc(it.summary) + "</p>" : "") +
+      '<div class="tags">' + tags + "</div></div></li>";
+  }
+
+  var current = [];
+  function render() {
+    renderChips();
+    current = items.filter(function (it) { return passes(it, false); })
+      .sort(function (a, b) { return when(b) < when(a) ? -1 : when(b) > when(a) ? 1 : 0; });
+    $("count").textContent = current.length === items.length
+      ? current.length + " articles"
+      : current.length + " of " + items.length + " articles";
+    if (!items.length) {
+      $("list").innerHTML = '<li class="empty">No articles yet. They appear after the first run of the crawler.</li>';
+    } else if (!current.length) {
+      $("list").innerHTML = '<li class="empty">Nothing matches these filters.</li>';
+    } else {
+      $("list").innerHTML = current.slice(0, state.shown).map(renderItem).join("");
+    }
+    $("more").hidden = current.length <= state.shown;
+  }
+
+  function segment(id, key, parse) {
+    $(id).addEventListener("click", function (e) {
+      var b = e.target.closest("button"); if (!b) return;
+      state[key] = parse(b.dataset.v); state.shown = 60;
+      Array.prototype.forEach.call($(id).children, function (x) { x.setAttribute("aria-pressed", x === b); });
+      render();
+    });
+  }
+  segment("lang", "lang", String);
+  segment("range", "range", Number);
+  $("cats").addEventListener("click", function (e) {
+    var b = e.target.closest("button"); if (!b || b.disabled) return;
+    var id = b.dataset.id;
+    if (state.cats.has(id)) state.cats.delete(id); else state.cats.add(id);
+    state.shown = 60; render();
+  });
+  $("q").addEventListener("input", function (e) { state.q = e.target.value.trim(); state.shown = 60; render(); });
+  $("headline").addEventListener("change", function (e) { state.headline = e.target.checked; render(); });
+  $("onlynew").addEventListener("change", function (e) { state.onlyNew = e.target.checked; render(); });
+  $("more").addEventListener("click", function () { state.shown += 60; render(); });
+
+  $("csv").addEventListener("click", function () {
+    var cols = ["published", "lang", "title", "outlets", "categories", "focus", "url", "summary", "first_seen"];
+    var rows = [cols.join(",")].concat(current.map(function (it) {
+      return cols.map(function (c) {
+        var v = it[c];
+        if (Array.isArray(v)) v = v.map(function (x) { return catLabel[x] ? catLabel[x].label : x; }).join("; ");
+        return '"' + String(v == null ? "" : v).replace(/"/g, '""') + '"';
+      }).join(",");
+    }));
+    var blob = new Blob(["﻿" + rows.join("\n")], { type: "text/csv;charset=utf-8" });
+    var a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = "waico-articles.csv";
+    document.body.appendChild(a); a.click(); a.remove();
+  });
+
+  render();
+})();
+</script>
+</body>
+</html>
