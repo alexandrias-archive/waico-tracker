@@ -1,0 +1,4318 @@
+window.WAICO = {
+ "generated": "2026-11-22T19:58:25Z",
+ "stats": {
+  "last_run_new": 156,
+  "by_source": {
+   "google_news": 316,
+   "bing_news": 0,
+   "gdelt": 0
+  },
+  "total": 156
+ },
+ "categories": [
+  {
+   "id": "membership",
+   "label": "Membership & ratification",
+   "label_zh": "成员与批准"
+  },
+  {
+   "id": "institution",
+   "label": "Founding, structure & operations",
+   "label_zh": "成立与机构运行"
+  },
+  {
+   "id": "official",
+   "label": "Official statements & diplomacy",
+   "label_zh": "官方表态与外交"
+  },
+  {
+   "id": "africa",
+   "label": "Africa",
+   "label_zh": "非洲"
+  },
+  {
+   "id": "global_south",
+   "label": "Global South & capacity building",
+   "label_zh": "全球南方与能力建设"
+  },
+  {
+   "id": "governance",
+   "label": "Governance, standards & safety",
+   "label_zh": "治理、标准与安全"
+  },
+  {
+   "id": "tech_industry",
+   "label": "Tech & industry cooperation",
+   "label_zh": "技术与产业合作"
+  },
+  {
+   "id": "events",
+   "label": "Events & meetings",
+   "label_zh": "会议与活动"
+  },
+  {
+   "id": "analysis",
+   "label": "Analysis & reactions",
+   "label_zh": "分析与反应"
+  },
+  {
+   "id": "other",
+   "label": "Other",
+   "label_zh": "其他"
+  }
+ ],
+ "items": [
+  {
+   "id": "3a57f52fc810",
+   "title": "第五期人工智能能力建设研讨班开班式在华东师大举行",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Jc3BkZzVsYVpyVmV4dGpLN0ZsRDRLbTlMVUxvUjZfUG1qUUttNzdBald4ZWdpWGpacks0OFRSb0ZNaGc3eWJBcmk4OWlQQnZkUm9CYkZR?oc=5",
+   "outlet": "华东师范大学",
+   "outlets": [
+    "华东师范大学"
+   ],
+   "published": "2026-11-20T08:49:20Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:zh-CN"
+   ],
+   "categories": [
+    "global_south"
+   ],
+   "matched": {
+    "global_south": [
+     "能力建设"
+    ]
+   }
+  },
+  {
+   "id": "6a9e64c591b3",
+   "title": "Xi Offers Indonesia Key Roles in WAICO AI Alliance",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUkJ6U3g2RGhGRGFDN0tDXzd5RFZCbEllN3NPYW45Nzh1d21KanlUOXJjNG9uU1pyM1pQYm1ZZGJaUU9wQ2VNYTBDUWdORWtSRFotVDdSRzloQmZHSDZTUkpmUmhXTWk1TlFqcTA0OXpudi1wbEpsQjVGZXlaUjFfWHlqcGR5Zw?oc=5",
+   "outlet": "Jakarta Globe",
+   "outlets": [
+    "Jakarta Globe"
+   ],
+   "published": "2026-11-20T08:29:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "official"
+   ],
+   "matched": {
+    "official": [
+     "Xi"
+    ]
+   }
+  },
+  {
+   "id": "2ca6a66d9b32",
+   "title": "Indonesia set to join US-led Pax Silica despite founding role in China-backed WAICO",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeUF4Wjdqa3lsa3NwTmI5ZWI2d0M0UVk0bmtIa0daT2p1VG1xNHFYR1RvdlkzczJ4TmQxZUZnMF9MM29pVF9YT19pVWFKZnU3WWs1LVhkd3JjZ0NaSDV2ak8xRDdDZFRtTWFhd0xBT3ZzbkdlYjVxd1J2T1JmNV9qa1owOGhqYWs0OXU0VzN6NUlsczh4Vk9CbGw4VzlJTUdlRzFzY2IzdUJUTjhyckFIbU10TXh5cVd4NkFpZGEzOUJNY05zSV82ZHFlYkZ1SU0?oc=5",
+   "outlet": "Indonesia Business Post",
+   "outlets": [
+    "Indonesia Business Post"
+   ],
+   "published": "2026-11-17T12:19:16Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "membership",
+    "analysis"
+   ],
+   "matched": {
+    "membership": [
+     "join"
+    ],
+    "analysis": [
+     "US"
+    ]
+   }
+  },
+  {
+   "id": "22dbb0bb3149",
+   "title": "China calls for AI cooperation with the US ahead of Shenzhen Apec summit",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT1NHVXdIdFNQNThiVVp4RTltM0U5WjM3LVhKbkMwYWJDR3liTzJrQTRrYkdxRHZsRVRFLVJYbURfQnhkOWdGUF9DZGhkT2xac2pvNG9HdVVNb3Q5VDhITG80RC14cUViTC12dUttVE9CWDE2TzdyNlU3ZEZPVTAySUwxSTZHVjQ0R1JseG1QejR6NTJVNjg4Ump2Rm40dTg1Vnk1RV91dHBKeF9sX0NDczl6bjPSAbQBQVVfeXFMTnpRamhRUGxRLXBLZy1UWW00T3hzNm0yX3I0MTN3ZU9Cdmc1UnZnNjd6eHB6d3BuY1dCcUpvcGVLMUpSS2tzWlZVTUFBN21YcmVZNkxVTV8taDVUbU1wdG1ack16RkxuWjFJMmVmSU9ZYmx2MWtNRk8tU19ONC1kb2JncExSMnBubnF3a194Z3BKSHRvVU9NN0ptY3RKTEpobVcydHVxbVF2em92ZmNmakM5T3Vi?oc=5",
+   "outlet": "South China Morning Post",
+   "outlets": [
+    "South China Morning Post"
+   ],
+   "published": "2026-11-15T09:00:10Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "events",
+    "analysis"
+   ],
+   "matched": {
+    "events": [
+     "summit*"
+    ],
+    "analysis": [
+     "US"
+    ]
+   }
+  },
+  {
+   "id": "ced19607a3a6",
+   "title": "Iran proposes WAICO to establish specialized department on AI ethics",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOT1hHcHJvbnN1MnZldzZ3dGdWcGRmX0tBZmZJY2w5eklPN2pZUm82T0ZtNl9RYnNQbnQ1V29kb09zNVR6Q1NKdm9wRy1BN1BMaVZpMzNreUtlN0RzZTQwQkFtR3I4RVR2d1hsX1Z4YUdTbmdGak5QSmNSdzdzYlB6VHFJLTFWQ1poek9XUmNIcFJUcDIzOXhReUpFMlNzTHpWRkU0?oc=5",
+   "outlet": "Tehran Times",
+   "outlets": [
+    "Tehran Times"
+   ],
+   "published": "2026-11-13T11:27:13Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "institution",
+    "governance"
+   ],
+   "matched": {
+    "institution": [
+     "establish*"
+    ],
+    "governance": [
+     "ethic*"
+    ]
+   }
+  },
+  {
+   "id": "006187de2ed4",
+   "title": "中國率先批准世界人工智能合作組織協定- 內地",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ISHU0NG1wZzJLeVNLX3ZOejA4eXhxcGhYd1hsNDdWMmYtMXFIYkZaRFlBN2FueWdWUU9nd09MLUd0WFhxeGhDUy00U0ExWS15ajZManBucUNLR1JJdm5NVC0zT2xrZ0pYUEloazExeGk1a1hZV2Vn?oc=5",
+   "outlet": "香港文匯報",
+   "outlets": [
+    "香港文匯報"
+   ],
+   "published": "2026-11-10T08:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-TW",
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "membership"
+   ],
+   "matched": {
+    "membership": [
+     "批准"
+    ]
+   }
+  },
+  {
+   "id": "01ec6c61ea45",
+   "title": "中方歡迎並期待更多國家加入世界人工智能合作組織",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vbG9UXzlVTzVHd3VPSVR0dUlROFlzSWk3RWsxNjM2N2ZueWhJcFZUMUZNTjM2anRkekJaSzBVZmNQVUI4dHRERTV6RklQemdnZG9jZ3pKNmVaWFBoSjJqNzBXbTI3Q3BqMEdkVTI2Yw?oc=5",
+   "outlet": "www.hkcna.hk",
+   "outlets": [
+    "www.hkcna.hk"
+   ],
+   "published": "2026-11-10T01:30:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-TW",
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "membership"
+   ],
+   "matched": {
+    "membership": [
+     "加入"
+    ]
+   }
+  },
+  {
+   "id": "5b773457d2fa",
+   "title": "China welcomes more countries to join World AI Cooperation Organization: spokesman",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcEpORjJ2VlNrbFVnNmp5eVI5a0MxdFZ5UVFaUEZId25vUUNjdGJhdXFNV1lqZWQxeVQ5MUJ5TE92NlIybWxobGJ3Tl94aGtFUHI4bmJzUDZMNjJiVEowYjBMNFQ1a1FZTmVub2lDMFlhMXl4ejJVTkJYS3VxT3hDYy1od3llOHV5NHVGUWl1R0dTNk5yNG4xLVZWYWlVeVh2UHdVUVRpZlA3WFpmTzY4ZnByR04tZC0wVkJOQ1RnRUJZZTdNUmVXdlE4YW00Zw?oc=5",
+   "outlet": "巴士的報",
+   "outlets": [
+    "巴士的報"
+   ],
+   "published": "2026-11-09T08:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "membership",
+    "official"
+   ],
+   "matched": {
+    "membership": [
+     "join"
+    ],
+    "official": [
+     "spokesman"
+    ]
+   }
+  },
+  {
+   "id": "c068e0a6eb06",
+   "title": "China passes law against cross-border corruption, ratifies agreement on establishing World AI Cooperation Organization",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YU1UyRm04bi1lZnhCZm43bjMzSVhfQS1HTG1yX1BWdVBScUJlY1F4U3pMRGFqVXZYTjRkcTJwZ2liVUJUQXlLa0FSRFFGRGJ3NlJfdzFTZzhYWGcteHRQak9DbE4?oc=5",
+   "outlet": "People's Daily Online",
+   "outlets": [
+    "People's Daily Online"
+   ],
+   "published": "2026-11-07T01:26:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "membership",
+    "institution"
+   ],
+   "matched": {
+    "membership": [
+     "ratif*"
+    ],
+    "institution": [
+     "establish*"
+    ]
+   }
+  },
+  {
+   "id": "b3eea6956db8",
+   "title": "38 countries have joined as founding members of World AI Cooperation Organization: official",
+   "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeHpkQjEyS3NvcU9PN2ZUWVlpNGozUm9qYllrQkZ2UEtndHVic1AzOHVETkwzN3BJaWtIVlFqVGZqR3Z6dHdYWnNZelhLNlhvcWZLaW5VQWJ3MmVYcVFPRG1DX1NJSEo1dkFaLVFudFBqaUJkZVkyeHFOYVNNa0wwZnNCVjJYamlzRlZnQ24zNEg1b0tud20yZjEyS2xSLS05amFHR3RkS3NRZERiWlFPYzNDb3lnUUl5Zms1anpqa0lOQ2MyanJsQklaNGh1bm5tM09aZEVYVnBnQQ?oc=5",
+   "outlet": "巴士的報",
+   "outlets": [
+    "巴士的報"
+   ],
+   "published": "2026-11-04T08:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "membership"
+   ],
+   "matched": {
+    "membership": [
+     "member*",
+     "joined"
+    ]
+   }
+  },
+  {
+   "id": "1e8d031475cb",
+   "title": "王毅:歡迎更多湄公河國家加入世界人工智能合作組織",
+   "url": "https://news.google.com/rss/articles/CBMigANBVV95cUxObmxQQzNFcWpaQmxEczdyUk1YNWNObkU2RGNsbzg1a3ZnblNBZXl5cjl1bV9LdjJJZHZxb2gxcWR3VEh4dGVFclVPYVpJb0d0SDdTZW1mLXNWU2ZHUjRwbEhuOWNuOUJ1Qjd2U0tJWEpZem15Z25FMjhtY1BpV1AyRXgyWVpBZ0RDOHdjaGZ6czRwdDhHc0NyZTJrMVpPazNTOFZ2MFZOcEhScmFOU2NzTnR3NGpNNGM4bDgxTllyR0hNbktqNUxTRGUtdnhPZDZEdkRLTk9DVWtrMU5CcW9uMkdPNFRCaktGbC1kd1VqWlV2a1J5d1hXV1hXcm10SW1UYnlsVktFVmtLaW1tZnZ1WXNiNXNiU25TQ0RhRzdUTFFXcWNOZXpzMmV2Q0hBOW0yN2dOMm5MQmpIeVpETnVUSzVJQnhwdTZLQWZOTk9ZV2kwcVNjSGRJYlJQNG02YXZyNlBPZWp2NWI3d1RIQXNwNENfeDdWaXJ0SXZqTFJrMTc?oc=5",
+   "outlet": "信報網站",
+   "outlets": [
+    "信報網站"
+   ],
+   "published": "2026-11-04T08:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "membership",
+    "official"
+   ],
+   "matched": {
+    "membership": [
+     "加入"
+    ],
+    "official": [
+     "王毅"
+    ]
+   }
+  },
+  {
+   "id": "bf95c8162791",
+   "title": "Beyond the AI Race: China’s Bid to Shape Global Rules",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPdVh5S3hQcnZZeHlsT2FWSFRVa1FNSXFDcjItRVZpb0w1ejdGeGxrLXhvaHZ0SE1TSlhhU0RQSjFYekJYUm1veERvRUtySnl5TnJlQ3N2YlRQMERuUXVtYmNocnRERXRsSk9fbGxycVJxZnoxYkFDYjRIYnFOTl81bzdFZl82cU8xSVJKN3MwLVBocExxLXc?oc=5",
+   "outlet": "orfonline.org",
+   "outlets": [
+    "orfonline.org"
+   ],
+   "published": "2026-10-26T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "governance"
+   ],
+   "matched": {
+    "governance": [
+     "rules"
+    ]
+   }
+  },
+  {
+   "id": "ffdf9239120d",
+   "title": "As the U.S. and China Form AI Blocs, Countries Are Increasingly Torn Between Them",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZlZnOEpFUEhHV0RMN2hYdWlSNC16cEdCZGtHZ2FJZEptT2lMeW5SRjRBYWR1SnFqY3FXX3JtRDBGZm91Y3lzaFUwZmR0bmpkZDdyc2FxZEt2RUJKUzRJQ294bjBIVk1hbkItdktHUHVQQXh5SGZhMzJTbzRZYW5GeDhRdExfanVkcUdiNUFpYVRkeE5uZnJUbi1yNUx1bV92Qm9NRTNFLU80OXpzN0QyTg?oc=5",
+   "outlet": "Broadband Breakfast",
+   "outlets": [
+    "Broadband Breakfast"
+   ],
+   "published": "2026-10-26T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "analysis"
+   ],
+   "matched": {
+    "analysis": [
+     "U.S."
+    ]
+   }
+  },
+  {
+   "id": "93bfadc0e90e",
+   "title": "外交部：歡迎更多國家加入世界人工智能合作組織",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ON0duckVWaVR5M0U2bjVWZGVtcFZlQWVmV21TOXgzSFRMNFJPY1M4dE8xMHlpUEhkQWd6S2hYam5tLU5IejdVT2t1ekk2SDRody1ZTWVsRHZWTHVtbHk3VS1qVTU?oc=5",
+   "outlet": "觀點網",
+   "outlets": [
+    "觀點網"
+   ],
+   "published": "2026-10-26T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "membership",
+    "official"
+   ],
+   "matched": {
+    "membership": [
+     "加入"
+    ],
+    "official": [
+     "外交部"
+    ]
+   }
+  },
+  {
+   "id": "f5e9d525dc66",
+   "title": "Why Kazakhstan Joined Both the American and Chinese AI Initiatives",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMmsxNld5RlFGVWJ2UURwbFQ3eW5NZ0I5enpaWWJNLXBLandHT0NiQi1HclNMMlM3YVpfdnNDdHNseG53TlJBdEhWNFRhVnpHc1dRRUMtQXVGMV83VWs2Y2RNOWM2czJOOElxaXpJcy00dHNBZFpxRGkybDJ0WWVHd0xaZ0l0aDJyZ3dCZnBSNWotN3ZKellNMnQ4X0FJMGkySVE?oc=5",
+   "outlet": "Royal United Services Institute (RUSI)",
+   "outlets": [
+    "Royal United Services Institute (RUSI)"
+   ],
+   "published": "2026-10-22T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "membership",
+    "analysis"
+   ],
+   "matched": {
+    "membership": [
+     "joined"
+    ],
+    "analysis": [
+     "why"
+    ]
+   }
+  },
+  {
+   "id": "7780d7f2121c",
+   "title": "The real purpose of Waico, China’s AI club",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTHR1RkE3Ry03WFpmaTFHZnlXS25TUEYxU185VjMyazgxR3ZYYmxvT2R2TVBXa3NTcWI0VWlRcnlZX1BrRjJ4VXpqQkF2cGNzMEhROENncmhhQnUyQWYxNHlpdHdNUG5uVXBWLXBOdW5YR25yaGthdXJGcnJmVmxfaVBpS3FqQjlwcGw0?oc=5",
+   "outlet": "The Business Times",
+   "outlets": [
+    "The Business Times"
+   ],
+   "published": "2026-10-20T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
+   "id": "ea4665a01697",
+   "title": "Between Pax Silica and WAICO: Latin American States’ Place in the AI Order",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UMmhBOVV1QmJHdjhMWEtJVmU2emFYMVdHVk51aVJzS045RzZ3Z0w3VlpFNW1TRDNOSENlamcxMjJNbDRHRlBiRnkwLWdwNDQ4cEZ1WHdJTDVwQVM1c0ZoUw?oc=5",
+   "outlet": "E-International Relations",
+   "outlets": [
+    "E-International Relations"
+   ],
+   "published": "2026-10-11T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "global_south"
+   ],
+   "matched": {
+    "global_south": [
+     "Latin America*"
+    ]
+   }
+  },
+  {
+   "id": "e72dae9f3b44",
+   "title": "The State of AI Global Governance and Its Implications for the U.S.-China Summit",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbFFBMHFLWG9laklSXzVCN1QwN2NSbTVpQjNNcFE2NVJ4c3FxeFJLMWxZaVNNcmEwV0pwN1U5bEJvSnVCa3hPM0Y3Y3ltbTJ5RDgtT01FVThFWkpCT3RpUlQtT3dCZjZxcVFONUxsVmlzVzlSVFJXTEttX2FPbENrRVp1cHlPMXZOWllLT1ZXcjRwNDJxQ2pZUw?oc=5",
+   "outlet": "CSIS | Center for Strategic and International Studies",
+   "outlets": [
+    "CSIS | Center for Strategic and International Studies"
+   ],
+   "published": "2026-09-21T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "governance",
+    "events",
+    "analysis"
+   ],
+   "matched": {
+    "governance": [
+     "governance"
+    ],
+    "events": [
+     "summit*"
+    ],
+    "analysis": [
+     "U.S."
+    ]
+   }
+  },
+  {
+   "id": "74379b75760c",
+   "title": "Was Nigeria absent or excluded from WAICO?",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWGswQ0lqdWNZU3MzcS14TmNFbnRLS19zMFh1dy1zVFRVY2JXS3Vnd1ZtM0hqdFlWckI2M0V0OUxhbGJYTDNqZ0hqUy1kMFVjYVdFU0N4WkdKUzVoTTctcDBOUllSZ3cyVnBwUkgyeFQtR0hqRFpqa0hjTWZaNHVBU1Rvc3JuUVlBVUNZLXJfdDJzZVE?oc=5",
+   "outlet": "Financial Nigeria",
+   "outlets": [
+    "Financial Nigeria"
+   ],
+   "published": "2026-09-14T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "africa"
+   ],
+   "matched": {
+    "africa": [
+     "Nigeria*"
+    ]
+   }
+  },
+  {
+   "id": "e8e769862a60",
+   "title": "In US-China AI Race, Kazakhstan Faces Pressure To Pick A Side",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMmNHOEV2TVh3ejRGMEkzWnV2RFBmV29tWGpzZTV5OXFCOGljdWR5Q244Mkt0WWRfS2QweVJaN25aN1E0bjY3Sl9SekNrV1d2Sjd3YjBTc2RhUEpjVWRTMmF0TndLTDJJVTJSTzRPcldEeGs3OTZyeEM0Tzl2NEJNc2FB0gGEAUFVX3lxTFB6NEx0RDZDZ3JaMnFlNzY2N0ZXUmtwQzdBbHhMM0VvcjltV3JqWXJOZ0twRjREZUgtUXQ5bGVtTnpIdVpMemNvMzVtQ2owZVVzbGgxekJrOU9sYkVaNnpqRUFDdHh4ZUI1LTFTakpJa0NnNGdsbk9RQ2F1RUdIcWtWSkNteA?oc=5",
+   "outlet": "Radio Free Europe/Radio Liberty",
+   "outlets": [
+    "Radio Free Europe/Radio Liberty"
+   ],
+   "published": "2026-09-13T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "analysis"
+   ],
+   "matched": {
+    "analysis": [
+     "US"
+    ]
+   }
+  },
+  {
+   "id": "375b64417bfa",
+   "title": "Singapore considering invitation to join China-led AI bloc",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQkJxNnB6MXhGeGxZRlkxYV9hM3FseXQ2blZva2x6YV92VXJ4SExrVFVtb0I4SDR0TDc4TXEydVBBYzc2dDVXbDJBUkc5T2RjX1hxRTQ2TVNEc0c1UDNydGVJV0Z5cG1vNEFBLUpSb3pBR2JIRkpKclIzUlJyUkVuc3A4TGhJTWFYblJ3MHAtOTFHYzQyRGVWRVRncDFiQkYxTF9HZmVsT0R5Zw?oc=5",
+   "outlet": "The Straits Times",
+   "outlets": [
+    "The Straits Times"
+   ],
+   "published": "2026-09-09T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "membership"
+   ],
+   "matched": {
+    "membership": [
+     "join"
+    ]
+   }
+  },
+  {
+   "id": "d24ffe1dccf1",
+   "title": "Pax Silica vs WAICO: Will Central Asia Have to Pick a Side?",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYnJud3lVZUkwSWpFVHF6T0M1RUI1Mjk2Q195TnlCMW02b05QQms4WkZ3NUNWZXJmS1pPOEhMNmdERlFJYkUxQURxQWNoNXRUNmdxbWZwdk0yY2pUT0Rjdzc3b3NRdVd0V2w1N0NHcE14d1B5YUVBVFB5Tmg4V3JvTzlSZWVzeXgxXzZrR1ZfWFVwTDdM?oc=5",
+   "outlet": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+   "outlets": [
+    "The Diplomat – Asia-Pacific Current Affairs Magazine"
+   ],
+   "published": "2026-09-08T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
+   "id": "064c4822feb8",
+   "title": "China-backed WAICO aims to reshape global AI cooperation",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVjVYb2l3eE4zNDBlcVBHbWs3RF9zbDhtVlFyVXlZejlJYk92eno5SVd2UEItMThmdEljUUt3RlNaVG5PYTBTb2h4aG5TSnp6eEFoaXkxY0FKS3dwb1VIZ3Q1N0Q3WnhHQ3hMM0pfVEExR0YtRmxLREZidmk3MkZJa0xoR1FpZHdQTmpONEU4aU8wTHRUazFIZzZHSzIwRk5WZTlsOE9R?oc=5",
+   "outlet": "IOL",
+   "outlets": [
+    "IOL"
+   ],
+   "published": "2026-09-03T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
+   "id": "cc51e8bd2c9b",
+   "title": "Pax Silica and WAICO: The Struggle for Global AI Narrative Between US and China",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVW42bVZzWTZJZjFUVEZTamZfaDBWS2tQWU1Yb1lpM2RQZDIwN0RZZHZYYTdJcnFNS1RpOVFrMXBkRjhVcFdPWk9XbnhmbzIyZTVoX19SNTBsREZFMXg1NGRHNm42Q0dyVFRYNGF2WGN6cE9OTjJuZTY2SlRkc3pVWnprc294dw?oc=5",
+   "outlet": "The Diplomatic Insight",
+   "outlets": [
+    "The Diplomatic Insight"
+   ],
+   "published": "2026-08-29T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "analysis"
+   ],
+   "matched": {
+    "analysis": [
+     "US"
+    ]
+   }
+  },
+  {
+   "id": "37261b125d4a",
+   "title": "WAICO And The U.S.-China Chip War",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uQjZpbG8yMGhndlJqaHBwZ1NyQnQ1X053aVdGNncxQl9uSk0yUy1DYm9jOGw3RzVFemFFeEVsR1p3WEx2UGQ4RVhPb3RRaWNmM1N2S2pxUmRHc2tXLVlxRFdB?oc=5",
+   "outlet": "The Organization for World Peace",
+   "outlets": [
+    "The Organization for World Peace"
+   ],
+   "published": "2026-08-26T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-GB",
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "tech_industry",
+    "analysis"
+   ],
+   "matched": {
+    "tech_industry": [
+     "chip*"
+    ],
+    "analysis": [
+     "U.S."
+    ]
+   }
+  },
+  {
+   "id": "7a926e261ddf",
+   "title": "US effort to pressure Central Asian states on AI development falling flat",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObFlkOHpHdDlnQlZrVHdwT1ZXUEZQUGY1YWxhZVo4eF9ub2ZLQnFfVHpDZC1wN25nRTdhV0l1aGc5QUdsVlAteWpicG5BVnhSWEJCUmxRSjc5b1pWSzdURVM4aXZKQjNmdjgxMHhZc0NkNmNzVGl6ZVdQa1R4YkZVWkFHeWhWSDRhaVgwTlBCV0J5cWZ6RThvSkJKT08?oc=5",
+   "outlet": "Eurasianet",
+   "outlets": [
+    "Eurasianet"
+   ],
+   "published": "2026-08-26T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "analysis"
+   ],
+   "matched": {
+    "analysis": [
+     "US"
+    ]
+   }
+  },
+  {
+   "id": "997c4ed7b2db",
+   "title": "Issue Brief on “World Artificial Intelligence Cooperation Organization (WAICO): Promoting Inclusive Global AI Governance and International Cooperation”",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWTdBN0QwZnVVdHBUeGh3M2E1aUpYQnc2Q0owdTlNZDBudTNwZzVlS2dzTlh3ZVdlckFiVVFZLWQ4RVNLd2VJOGo4TC1zZDJrRU1Xb1RCZEtUVWRfRjV6eW9uTUMydWZSbkQ5RHJKLUJ4SXpKSkVXMUtyTWVDb1RHV1BaUDJBTXAteHNCZUNOaVhVcHAtUERYa1FzMzA0MnZrNWc3cEROQUNVR2xLVUhNaWRiNENNQV81akNzeC1JbC1LZzA1cVZTVTZ0ZTlzVVlqVGI4NmFrTmFYTVk1NGtLZW1fMi01dlRLc1B2YUVqZ0dmZERaT08yWC16OA?oc=5",
+   "outlet": "Institute of Strategic Studies Islamabad (ISSI)",
+   "outlets": [
+    "Institute of Strategic Studies Islamabad (ISSI)"
+   ],
+   "published": "2026-08-25T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "global_south",
+    "governance"
+   ],
+   "matched": {
+    "global_south": [
+     "inclusive"
+    ],
+    "governance": [
+     "governance"
+    ]
+   }
+  },
+  {
+   "id": "aae297893219",
+   "title": "WAICO and the Struggle to Shape the Global AI Order",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TdWttTG8zVGxaM2hVeGM3emlrWUlveVY5a0pFS0tTQ3F0eUZqWjIyNldaSXNIZnBya0hFaENZNThLOEx2SW9IRENnQ2pTNk1ZSjBnUVhWRjU?oc=5",
+   "outlet": "www.inss.org.il",
+   "outlets": [
+    "www.inss.org.il"
+   ],
+   "published": "2026-08-24T12:04:53Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
+   "id": "ba9a299cff53",
+   "title": "China urges Indonesia to back global AI initiative amid US rivalry",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMWxrQ3B2NGdKRTVyaWh5WjJ4a2xiam5lTjIxbWJPdUhmRmFMSEJyaHVPSi1aRmVCcnREbjZoRmwxc2dsNExwRi14SHJBVGtmUmw2TTQ0U3N1QnRMZHNTWVlEemtGMkJ4cERFTkllY09OOG1ublNQSWtjd2lHLW1IckpCRFdONFVxeXNrbTBfTVpEWS1jSFpfNzRXRmxhVFVnSU50aTc0RGVHYUEzWUdJeVdn?oc=5",
+   "outlet": "Anadolu Ajansı",
+   "outlets": [
+    "Anadolu Ajansı"
+   ],
+   "published": "2026-08-22T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "analysis"
+   ],
+   "matched": {
+    "analysis": [
+     "rival*",
+     "US"
+    ]
+   }
+  },
+  {
+   "id": "dcbe2c3f6735",
+   "title": "China Wants Indonesia to Back AI Club WAICO as US Rivalry Heats Up",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRGVSMU1fRTdBTE9tWXNSUEVJR0FSdW1TcUhpcDV6VXVqQkp0aGJodFBBZF9zam1DUEtpNzZybHh5TWJyaVZwMDJjODZkS041SmRtTm5XREtsaC1IeHpsNTBXdDVQTkRlWmpYUG9aQ2Q2QzI1ZFpjODVwb1pnTUxlUzRwdHp5enhaNXBubGxsVlFWSXVYbTl4djZhcw?oc=5",
+   "outlet": "Jakarta Globe",
+   "outlets": [
+    "Jakarta Globe"
+   ],
+   "published": "2026-08-22T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "analysis"
+   ],
+   "matched": {
+    "analysis": [
+     "rival*",
+     "US"
+    ]
+   }
+  },
+  {
+   "id": "6e557e12b9ce",
+   "title": "Kazakhstan’s Role in Pax Silica After WAICO",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80Y2RPYkRNSUZ3MEtzR1F4TW9paUR0UXhnRGc4cDVmV1VnY0RfQWRSR2YySXNEbkptakJQcGxhcmJ2Y1NmRzFpQ1p4N2xhcXVxbUtBcnpvUmRsNVg5bDI0N1UtZFhvbGZmd0FldHBCc2g?oc=5",
+   "outlet": "The Times Of Central Asia",
+   "outlets": [
+    "The Times Of Central Asia"
+   ],
+   "published": "2026-08-21T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
+   "id": "f8925de34178",
+   "title": "News Analysis: Kazakhstan in pickle created by US-China AI race",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWDU4UmxvN04ydk1LNEdyd1ZBcHQ5S1kwSF81a01CQ0RTMEpCNWlVVTNJTjlLQXkyckFlcDIwWFQ5R19vaEdkUHlVcVh4NXktN0liMEhKSVloTFNPTDhMcXJUT0Z0ZnZZc3RuWGRHak1USWlVelg0T2h6bElJVmNEbW1fdENwNExIT1hhazdn?oc=5",
+   "outlet": "Eurasianet",
+   "outlets": [
+    "Eurasianet"
+   ],
+   "published": "2026-08-19T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "analysis"
+   ],
+   "matched": {
+    "analysis": [
+     "analysis",
+     "US"
+    ]
+   }
+  },
+  {
+   "id": "909bb1f8ff9c",
+   "title": "Two visions: WAICO, Pax Silica and the future of AI supply chains in the Asia-Pacific",
+   "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMThPQjE5SldRRzFDU0U0ajZkVl9YbENGR2NESDhCWlJ4U0MxWGxDVEhqWU5IWUszNmJ3NFZ4ZU9PejFhZmM0VDdUdTlKU3pjeXdqT1FwSHEzT0R5elpqdWtVQ1o3bWljTktTM25LelhEX2RFM3gySWFqSzBGT1hONHloWFlnWU1IaWpIb2k5bldKbFlZVGhrMFo0OUVEOHZIaV9tbXFLNlR0STRkRWFXMFg5MElXZ3l2cmtxOS1xNkJPQmZWemc2SHU0RFI0cHV6NXhSb2E1dUJBOVVYTFdSUVRvVTBTR1FLTUE?oc=5",
+   "outlet": "Norton Rose Fulbright",
+   "outlets": [
+    "Norton Rose Fulbright"
+   ],
+   "published": "2026-08-18T00:11:29Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
+   "id": "de1ee5175333",
+   "title": "China’s Bid for an AI World Order: What’s Behind WAICO",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWEpuTThUdlMyMVY3c2VBY1ByQWNrbHNhVkg2Ykc2YTFSSi1yNWZrRmIwbF9qOVl3aEdoWjcxOWpKNnBPb3Rvckw2Vjhzb2s5UElsZlVibF9ib0xUbms5X2pzMndSN3J0U1NhVGt3MFFjRUllNC04TS0tWjY2c3FWNVZ5cUhfTFZVak5tWQ?oc=5",
+   "outlet": "The Astana Times",
+   "outlets": [
+    "The Astana Times"
+   ],
+   "published": "2026-08-17T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
+   "id": "c02376dece7f",
+   "title": "China urged to avoid ‘us or them’ split with US over AI governance",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUEJDRTJYaTRPZ3FMUkRkZnA0aV8zcGI5dHRZQXU4SWcxUlA1eVFNWGQzY0VEbDFIVUhaNUVoNDRUWF9wN3YteEh6MWVkZUFqYmFNdDVuVnJuOHI5ek15aHRuVnFJdjI2RzJxY1NGbHhRY3VZRjBBMWhVVHcxVG5oRnZfcm1DZlUwUzlVdm1oMUZZbzdUZENRSWxFWGRSemwyNmdUblhYOEtyUlFidlZXQU1JUlnSAbQBQVVfeXFMT3hTRGdqUGo2X3duRVpYMDZMUWFiVWc5dmxlRDlsRGpEdWlZZ1JnVmZ3S2hVdVRrWWR2cTU0djgzbjdITWlfc2o3T3BFTzdyVWoza2lkYUZfYVVLQVNIVDNVMnZ0a0FONmppcU9lVVJ2MTU5QVlRMHpQSnQwWGlWZVJTQVdsdUs0MU9LM3V3Qk5vRldQellubHBsZzBxMkxURU1NU3ZNa0NvTWVFUDhDeEFBLXE3?oc=5",
+   "outlet": "South China Morning Post",
+   "outlets": [
+    "South China Morning Post"
+   ],
+   "published": "2026-08-14T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "governance",
+    "analysis"
+   ],
+   "matched": {
+    "governance": [
+     "governance"
+    ],
+    "analysis": [
+     "US"
+    ]
+   }
+  },
+  {
+   "id": "0234a8a073d9",
+   "title": "China, Kimi K3 and WAICO: Can Beijing win the AI race and make the rules too?",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRi1lMDFZUXN4TEloVGU2YVJmQ3J6QW5MRHdnX2ROVVk0NkJCbmh5MVJDWmNJMGNuNklnb3VDN0ZlWFNUZk5oMklBQ2dRaHc5YmRybEZhMFkyYmFBXzBWMTlsb1lNbHlOdXFDcGpxLVdBa3U2T3AzdWk1UFNLWXgzTXpZcml4UloxNF9qa1V2MG1hVUV0Vnc2SmVUdFprcjdpR0dreFpB?oc=5",
+   "outlet": "Chatham House",
+   "outlets": [
+    "Chatham House",
+    "Wired Gov"
+   ],
+   "published": "2026-08-13T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "governance"
+   ],
+   "matched": {
+    "governance": [
+     "rules"
+    ]
+   }
+  },
+  {
+   "id": "1a92289f2181",
+   "title": "Kenya is a founding member of China’s new global AI body, WAICO",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ085NVlyV095VmNCSUlnNTI1Vk83cUhKb1NRbVFQUmlGRDYwOHNyREIxZ3hjU0RubWswV2Z6MnJZRUVzZkRoZG9MQTFqSXpPSXJlRWtRbUh3NXhadUtHREJEV3hybWNRb0dFMGxHNTQwb0hrZHB3a3dkM04xMjMzNktQRzZySUF4SVM2NU4xQkdpY1hZYzYtR2Z3?oc=5",
+   "outlet": "Techish Kenya",
+   "outlets": [
+    "Techish Kenya"
+   ],
+   "published": "2026-08-10T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "membership",
+    "africa"
+   ],
+   "matched": {
+    "membership": [
+     "member*"
+    ],
+    "africa": [
+     "Kenya*"
+    ]
+   }
+  },
+  {
+   "id": "7b650e4a7442",
+   "title": "China’s World AI Cooperation Organization Agenda",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZTBPUFlINm1zUFJWWVFzcEVNTEIzNjVOQURCRC1vcTBfU1RkUlNtRi1lNFNZaHY2YU0wX25CRlpyaGc3cmwzWFNfbVpYLV9EWmZXV1F4TS1iWlU3MXNDQ2FzZ3lKWWRWMzh3M2NOMzRaeGRFdUI0eEpjQk82VC1MaUNRelQwNXM?oc=5",
+   "outlet": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+   "outlets": [
+    "The Diplomat – Asia-Pacific Current Affairs Magazine"
+   ],
+   "published": "2026-08-05T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
+   "id": "15015e507328",
+   "title": "WAICO and the Future of a More Inclusive AI Order",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaGh1T0JjUjNtNFBmcWpxaGduUU1lSXZDOEZYSmlISUZnZHN1U0Etdl9OLUZEN2Rvb2k5c1haZ2c3ZWJVanphdGZzdzdnMUNuanJqMEVNcnhDemVQbWI1MVNIWF9sM0lpUUpmekdKVFdUeFdCNEd4bW1kQ0ZuTF9BM1pwNA?oc=5",
+   "outlet": "The Diplomatic Insight",
+   "outlets": [
+    "The Diplomatic Insight"
+   ],
+   "published": "2026-08-01T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "global_south"
+   ],
+   "matched": {
+    "global_south": [
+     "inclusive"
+    ]
+   }
+  },
+  {
+   "id": "fd61b2133dec",
+   "title": "Iran becomes a founding member of WAICO",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVFBkYUdpeHIwZ0xHLXdGRXctdHdVcVFndlNkTFpya2NmQkNBY3JSYlRsWkNXNEVvdjBaSDR0ZzdTMmdtU3Q3ajQ3OEhyODRSMV8yeFFLa29qODhueGMtOFA4ZVFOZVNmQjZOa0Y1V0ZVTUZJeC11cmF1TzR0bVA4R2YxelRUZw?oc=5",
+   "outlet": "Tehran Times",
+   "outlets": [
+    "Tehran Times"
+   ],
+   "published": "2026-08-01T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "membership"
+   ],
+   "matched": {
+    "membership": [
+     "member*"
+    ]
+   }
+  },
+  {
+   "id": "e63e3af6e24f",
+   "title": "Will China Keep Its AI Models Open Source? WAICO and Kimi K3 Suggest Yes — for Now",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUExwTmhrcmVURU5vTTBVNzE0WEpFUTNmbTBZVk91d244Y2NHQ1pmeVY0MHUzeURKRmVNMHVLQjViYlh1a01uQ2s4a2Z4SWFGd21uWndVRDk4anNKdXVKVWtOWWh1SmpXTUlMRWVoWnBLWjJRTGp6QW9RSGxNc3pYMy1MWWM1Z2NjOWZud1MweVZVd3Y3S1kzdE9DSUd2aGZRZ3dPcFdETTJfbzdvX3dFdHJPN1NGZ0E?oc=5",
+   "outlet": "Centre for International Governance Innovation",
+   "outlets": [
+    "Centre for International Governance Innovation"
+   ],
+   "published": "2026-07-30T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "tech_industry"
+   ],
+   "matched": {
+    "tech_industry": [
+     "open source",
+     "AI model*"
+    ]
+   }
+  },
+  {
+   "id": "39c78e06cca0",
+   "title": "The World Artificial Intelligence Cooperation Organisation is tailor-made for the Global South",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWGJWLWZHckpkbXVYdVRJSENQMDl5MUNicTdFNndfdUl5eFgzbFBqbHZ0S2duUFV4NGJzZG14TkNjVUNuT2gtaW9qLXZuZzM3SWhKeVZHRFluMmpFSjM1TF9EbnFGaWNjc0RyMzU5UnBjV1dFd3l6emc1dWF3X1lQNXluMElZR1RtSHhZd25NVEdXOVkycjRjZTV6N3Qyc0JvRW13VDNsY3pkaVliTVhhbTNJeDlvTUVQRjQwN2dQZHJlbi12SmhiN1BSOHY3QQ?oc=5",
+   "outlet": "Friends of Socialist China",
+   "outlets": [
+    "Friends of Socialist China"
+   ],
+   "published": "2026-07-30T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-GB",
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "global_south"
+   ],
+   "matched": {
+    "global_south": [
+     "Global South"
+    ]
+   }
+  },
+  {
+   "id": "6caa54272ae0",
+   "title": "WAICO confronts Pax Silica: Why AI states won't choose sides | Daily Sabah",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYXJVU0hRR01GMWw5RkFldmFIOGhQRkNOWWJaSnNXZlBhaHFMTndrYWh0WjcxckZHLUN5ek9sRWtpS1VxQ29STTNMWDlPTVlTMlp6RTRvUkhxSEMteDlteXdhX3FsWmpSNGtHdzFkZFNSYnJReF9VRThBTTF0VVluY1FtZXA3cS1Vd1JjUlkwdW5jTHotQnB5dko5Uk9nR3N60gGmAUFVX3lxTE1KSUEyWk9nWUw5bFNnb1dhTzRfaG95bWs2SHNiNEU2b29IaEY0MXBSSTE2U1pySkd2QUczQ082MDhHYWlabWV1VDd4QXAyeVk1bV94dkJVTUtnZlg3dnk2NTNiVXdSQWpvWjFRdnE5SFNPMmRtUVh3VFMyOFE0NDcyZk9GZlZYMmVsRDhKSHBuN3BSbS04SjBBdXREamVGSkktdTA0eUE?oc=5",
+   "outlet": "Daily Sabah",
+   "outlets": [
+    "Daily Sabah"
+   ],
+   "published": "2026-07-30T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "analysis"
+   ],
+   "matched": {
+    "analysis": [
+     "why"
+    ]
+   }
+  },
+  {
+   "id": "f2be9e818a2f",
+   "title": "What the new World Artificial Intelligence Cooperation Organization means for businesses in Asia",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNU2k2Ulp6bkRSQ19yaDM4Q0s1LXlFNTZDQWFCekhSMXQ2eERiV0ZvOWkxSVVsZGlCNkNlUDBUOTlzQm9sQ3FUSWI2THRwRkFlUEU0bVg1Vk1QS0FJcG5rMjZaQ1NkcmgzVFp6dVYtcTNVTGRKdnlld0NLdUFQblE2RTNpT0h2dVY4Ny1aVEktX0lGVFBObmpramItd0lXN3I0akVlWjM3WXJJd1N1alU3SEoxWlhLM1IxdVJUb2NFY3N6dXYwaDBNYmJXbHllQWdO?oc=5",
+   "outlet": "The Business Times",
+   "outlets": [
+    "The Business Times"
+   ],
+   "published": "2026-07-29T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
+   "id": "4745a35f4f1c",
+   "title": "中亚专家：世界人工智能合作组织成立是“里程碑”",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBodnRXWElaRTZHT2hqbjJTYTQxWnlDY3VsRUNJYXpCN1JVMUN2RTdoeXk3TnJoS0gwWXB1MkJmbnd4T1dUcEJ2U2FMbDF4V0lFUjhncHZ2eHVpVUU2LXlRYXZFZWhON2l6LVpSVHFzWWg?oc=5",
+   "outlet": "中国科技网",
+   "outlets": [
+    "中国科技网"
+   ],
+   "published": "2026-07-29T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-CN"
+   ],
+   "categories": [
+    "institution",
+    "analysis"
+   ],
+   "matched": {
+    "institution": [
+     "成立"
+    ],
+    "analysis": [
+     "专家"
+    ]
+   }
+  },
+  {
+   "id": "c8a8e8ff28a2",
+   "title": "中国为什么倡议成立世界人工智能合作组织？｜鲁传颖",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VcXFGZGk1RDM2TDEtOFA5NzhLVmJkZW5idFFuZTJCdm55bzRFR3JTc2Ryb1QyVFAwOUhRZkx1UTJmNU9NYVhHNUR4bDBpaG5OSTgtbjF2bnJKUQ?oc=5",
+   "outlet": "上观新闻",
+   "outlets": [
+    "上观新闻"
+   ],
+   "published": "2026-07-29T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-CN"
+   ],
+   "categories": [
+    "institution"
+   ],
+   "matched": {
+    "institution": [
+     "成立"
+    ]
+   }
+  },
+  {
+   "id": "5794ccd265b9",
+   "title": "China Launches WAICO In Shanghai As West Sits Out AI Governance",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWks0bVI0bVVEbXBaWWxjMVJuZERaWjF3M1JTMnhMOUNHN1ZyRDlDb2hybEI0R3poY2FLTV85S2dMMmNUTW8xZFdDMFVuRGYydHBCbF9jZktrR21kcmJ5VnM3OGVlSml5bzZmRzh6VWE2eUZJMHU2WVZZWk1xcVVjakpqMHVnRXJ5SzJJVnhjU1FoeHhoSVpFZkY4S2xOcWdxNWpUeTBnMU4wazJmZ19IV2pqZWV5dw?oc=5",
+   "outlet": "Forbes",
+   "outlets": [
+    "Forbes"
+   ],
+   "published": "2026-07-28T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "institution",
+    "governance",
+    "analysis"
+   ],
+   "matched": {
+    "institution": [
+     "launch*"
+    ],
+    "governance": [
+     "governance"
+    ],
+    "analysis": [
+     "West"
+    ]
+   }
+  },
+  {
+   "id": "2c23d1cc74db",
+   "title": "China pledges expanded AI cooperation with Kenya",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ETDVoNnNwN1JNLXJ6bFR3SVF0bTJoME5uNHktWks3YkRIU1JWYVdEMjBUWDVoaU9qS1QwbGlvMGYyUS1YTzdqaHQ5dkpheUZUTTF2V3lpQjFXSVp3SEhCa21teUs0a2Y1Q0hNQlhxYWxESTA1TmsxMDFhZw?oc=5",
+   "outlet": "KBC Digital",
+   "outlets": [
+    "KBC Digital"
+   ],
+   "published": "2026-07-28T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "africa"
+   ],
+   "matched": {
+    "africa": [
+     "Kenya*"
+    ]
+   }
+  },
+  {
+   "id": "015ea699f692",
+   "title": "Indonesia Joins the Global Push for Responsible AI",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX0wwZ2RweEMyN1UydnNscllWbEllYm1aNTY5cTJlNDRxRC1kWGoxT2ZnUHJTdEt0c2V3YUgzdkJ4TkxxbENiRGo4WHRiWjJ0SDhjSTZrZGhxTW1OQTlGTWM5SkxiNW5QX2FucjRrUnRVSmF6ZWhDNUdrSmdSSkhtUWZDQzhydlluVnJleEl3Q3BaNG0xY0tSYkJfQjFZVnZtdmdGZnRkNnhJMjkwNVA5T3ltcG1UTDRNemRWRERR?oc=5",
+   "outlet": "citynewsservice.cn",
+   "outlets": [
+    "citynewsservice.cn"
+   ],
+   "published": "2026-07-28T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "membership"
+   ],
+   "matched": {
+    "membership": [
+     "joins"
+    ]
+   }
+  },
+  {
+   "id": "d7d1c4d35623",
+   "title": "Why Kazakhstan’s WAICO Membership Matters for Its AI Ambitions",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVU5FM01fakljeFo1cHVBcWlYQ2JVWHN0R3oybWhzbDJZd20zT29yRGdJYm9YSmcyUURrUEh1LU5ueVZZUlNtb2RkRWNFNEZobUcxWHBkLVNPZHlEa0RrTWVQVW03QTljVnoyZTRUZlUzZDdJeGRGSnlBcGdod21mSm9ySHBUT3FiMmR3elR6SDlHeUdIbkdBNlR3?oc=5",
+   "outlet": "The Astana Times",
+   "outlets": [
+    "The Astana Times"
+   ],
+   "published": "2026-07-27T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "membership",
+    "analysis"
+   ],
+   "matched": {
+    "membership": [
+     "member*"
+    ],
+    "analysis": [
+     "why"
+    ]
+   }
+  },
+  {
+   "id": "23d5b1404259",
+   "title": "Mozambique becomes founding member of World AI Cooperation Organization (WAICO)",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWS1UMVhYSThNcHZiTXVCLTZ0OGx2bVMtdHV1amI2M295aGhLZEswSG1PVm40ZmVvb0Z5clkxUlVxbmo4YlAycldfVnhnQXBLVmZMc2hNQTRrSWpKRC11bldCTFBZV0VfQUhITXBMODJCd1MtcnpJNTNrNm5HYURfNFdvSk1ZSmxXbXlURFNtbnRESlRkN1hkY01iMVBvajJZSDJrYnpSbU5qWHdBcUgxWEp3?oc=5",
+   "outlet": "Club of Mozambique",
+   "outlets": [
+    "Club of Mozambique"
+   ],
+   "published": "2026-07-27T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "membership"
+   ],
+   "matched": {
+    "membership": [
+     "member*"
+    ]
+   }
+  },
+  {
+   "id": "4a13ce0e46e1",
+   "title": "Explainer: China’s WAICO and the Contest to Shape the Global AI Order",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOFNPZ1pXYUJNM0Z2Y3VvMXc0SjlFUjN3SE5YZHRWTGZDdGZXY3h1WEh4QjRETTVMOWM3dVJ0TzNQQ3NtTDlkNGxQYWhMUXk3VU1peEY2OXlQYlJRUXQ4bXVuX3VpY2ZMdHlSU1dEY2kyakJzV0U3SW1MdnZURmxwWE1BZVNLRmNCSl9aVnlPSzZLRFlhNkE?oc=5",
+   "outlet": "India's World",
+   "outlets": [
+    "India's World"
+   ],
+   "published": "2026-07-27T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-GB",
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "analysis"
+   ],
+   "matched": {
+    "analysis": [
+     "explainer"
+    ]
+   }
+  },
+  {
+   "id": "1a7b8ef821bd",
+   "title": "China’s New AI Alliance: Why WAICO Could Reshape Global AI Governance",
+   "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV2dNYW1uN0JieXUwQkM2RDl3cFl0XzdoQWp4SzZwcHp0MzdlY2JVNHhrSXIxb093TXVac0pVaGNBYmw3T0FReE9oME51MUt1aEpVUzVrTkZKdjRnRDJfbEEwREFiNVpsd3VBMkRtQ052Q3htNHBvVmtZVTV3ZWM0SkJBM2QtQWt5cENfNUU4NFhQNmo0RlNRdWlKbjZKT2dxeFVhNmdEVkZyQQ?oc=5",
+   "outlet": "Modern Diplomacy",
+   "outlets": [
+    "Modern Diplomacy"
+   ],
+   "published": "2026-07-26T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-GB",
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "governance",
+    "analysis"
+   ],
+   "matched": {
+    "governance": [
+     "governance"
+    ],
+    "analysis": [
+     "why"
+    ]
+   }
+  },
+  {
+   "id": "e9ca3675900f",
+   "title": "WAICO: “China wants to take a leading role in global AI regulation”",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMWxqQS0zdXRZT0pmYUxCZjVtZVowcmRfRGVEcDdqNWNJaUpXa1pSUUxkOGpma3d3b0RlR1hNS1RUeC12VGJUaXJ0QTNjVG1hMXN6dlMyU3JyTFBjcnRmT0Z3VmZWTUxZUTZTOURjZjVBaXlOSVZMWlZTVEdPSWxZSm9ibHNQaDZ2TVAtR3k1UU1SOHh0Q0IxT1B6dEZVd3Q3bVZzTVdn?oc=5",
+   "outlet": "Table.Briefings",
+   "outlets": [
+    "Table.Briefings"
+   ],
+   "published": "2026-07-26T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-GB"
+   ],
+   "categories": [
+    "governance"
+   ],
+   "matched": {
+    "governance": [
+     "regulat*"
+    ]
+   }
+  },
+  {
+   "id": "9702480424d1",
+   "title": "What the UK should learn from Kimi K3, WAICO and the Hugging Face incident",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNHBSZi1UVGhwNXM5VWo0d0phTkcyazZpX1pFUDd0UlRkWnBtLUJ6LU82am4yYnV2cU9PQlJTZ1BXWS11SVd1Z2Z4Mi1nVFlJUUFvaVZZdEFkT0pmLWd3ZlhYY3RRMFp1aVlxQ3pSSnpfUWNKek51T3NnTUttTm9YcEFrYzJZWEI3dnJfeWlMTTF2d0wyd0s5MFZnMDI5UQ?oc=5",
+   "outlet": "Chatham House",
+   "outlets": [
+    "Chatham House"
+   ],
+   "published": "2026-07-24T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
+   "id": "c47c7f22784c",
+   "title": "How Waico is democratising AI",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBRDAzUnhRel90Nm1MS2xjWDVMWnRkMGNFLVJIbldkQTZ5N0xMbzdKdFd1MHhNZnFkNEppRzZnbnVvTnplMnFsd0M0dlpHWmR2SWJfS0drVDlnMWpHRmt1dVFpeHQ3ZERENENXaXBoZzZ4V0VkOFViYUdrQm9vQQ?oc=5",
+   "outlet": "Mail & Guardian",
+   "outlets": [
+    "Mail & Guardian"
+   ],
+   "published": "2026-07-24T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
+   "id": "0d5dba63cd6c",
+   "title": "WAICO: Towards a more inclusive global AI governance architecture",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXhhUjNqQzREbUJldWVnVjduUkd1V0Nkc3FTMlJkdktoYk1kRkpaSGo5c2djbXhWS3hIWDFwRkZDeWZ5YVpFR1A1MmNkZVBTRHMxbkVnOVUyRkMweGp3ZHdNVnRHQmRyRFV3YWVQYXZVV0pIWDFMb0pDTUwwM3hkdFV3ZjZBd1hnb3ZEc29wb3pCQVVrLVhzeEE5VU1mOXVNR1hQQ201SUoyanBKVUhMMXM2Vk83Vm9hQjl4bEJR?oc=5",
+   "outlet": "CGTN",
+   "outlets": [
+    "CGTN"
+   ],
+   "published": "2026-07-24T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "global_south",
+    "governance"
+   ],
+   "matched": {
+    "global_south": [
+     "inclusive"
+    ],
+    "governance": [
+     "governance"
+    ]
+   }
+  },
+  {
+   "id": "22e7a6873362",
+   "title": "The new AI blocs: Are China’s WAICO and America’s Pax Silica splitting the tech world?",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUE1Kdkg1X3UwSV9hb2cxTTVfQ1d5WmdnelR3X3hudFVibkF4UzdEWGpiZ2xEaHRpaU4zQUctSzFlTjZVR2Z4akhpNlBpQ2E5TWdMNWVhTklEeTAxSnhSVXNtbGZncU9HLVNDVzFjeVhwenRtN0VqZ2lhRTh0YmJ3dlZVMXpzZG1wMTJVSzBQOTJaYnhPOTJRNTN5T1VTbURvMmhZcTFXNk5UcHFMVlE?oc=5",
+   "outlet": "ThinkChina",
+   "outlets": [
+    "ThinkChina"
+   ],
+   "published": "2026-07-23T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
+   "id": "80f1c3aea881",
+   "title": "WAICO redefines AI governance for the Global South",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZUs0TnVWVEUxdnZrRVhOd19RLUNPT3hUMnVHdWxxN01aVy1OVjl6TjBRdmYzRWMzU3dkV0c5M1R2dU9JaWdlRENWbFN6dnl1UzU4Z0oyTW5lbkI5RzlGdml5bWdmWFFncnRUWVUyaGduZDhYVXgtajFwRWMzOGdubUVn?oc=5",
+   "outlet": "China Daily Global Edition",
+   "outlets": [
+    "China Daily Global Edition"
+   ],
+   "published": "2026-07-23T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-GB",
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "global_south",
+    "governance"
+   ],
+   "matched": {
+    "global_south": [
+     "Global South"
+    ],
+    "governance": [
+     "governance"
+    ]
+   }
+  },
+  {
+   "id": "9a6b90cec0ea",
+   "title": "Ethiopia Joins World AI Cooperation Organization as Founding Member",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ1pqMDU4R3dmdHZxUlpaMkZlNG9iclFtOWRpM1VoU0VtaTdZRXkwNmc4V1RrS1prQjl5OGRMSFRmY1gyZkd2V1FWR3ZpSDktdjNtbVVvZ0pjbWxCTXMybXhFZEx4Y2FXY2ZTUS1xZVdqTlpmSUxZNWJzNmxMR1RjZUwxSWw4a29zTUQ1dG9zc09lS2NaOVlSOFhvR3ZFc1FlMTM0SzdxdmE?oc=5",
+   "outlet": "Medafrica Times",
+   "outlets": [
+    "Medafrica Times"
+   ],
+   "published": "2026-07-22T10:40:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "membership",
+    "africa"
+   ],
+   "matched": {
+    "membership": [
+     "member*",
+     "joins"
+    ],
+    "africa": [
+     "Ethiopia*"
+    ]
+   }
+  },
+  {
+   "id": "30d2f55a354a",
+   "title": "China Launches WAICO as Xi Makes His First Appearance at World AI Conference",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONHlFbVNZM3dINE5pdHZQT2kwQWx3dEpLclBuenFWQjRxaW9BeHItb1REX1c0SDZmQVVtSW1vajN3ZGlkLW1NR2NSbDZ6WE4xU0NDekQ0d1RJQ09sTzN1andDdUFUbEZHSUdtZ2FQMEpmcXdvQkc5Q0NGei11cVhKdjB5b3c3RWZidVIwbDBPQ0R3TnUwbFd0VG53N1BkUTlWV25VT014WDk?oc=5",
+   "outlet": "LinkedIn",
+   "outlets": [
+    "LinkedIn"
+   ],
+   "published": "2026-07-22T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-GB",
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "events",
+    "institution",
+    "official"
+   ],
+   "matched": {
+    "institution": [
+     "launch*"
+    ],
+    "official": [
+     "Xi"
+    ],
+    "events": [
+     "World AI Conference",
+     "conference*"
+    ]
+   }
+  },
+  {
+   "id": "d2a807df9ca6",
+   "title": "China’s New AI Club: The World Artificial Intelligence Cooperation Organization",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWTVCOGtaNF9OeHM5cU5JRUpZb3dmUnBvODNUaXR4Ui1rSUdsUUtvZjVSWkRPTElhN0ZRTHY5WXlxV0tGdzZlWjVWdm5nUUd2cFJZTF9CSDBPZ3E3NUhGcUF6NG43QVU2cW5zLTkzWktaVnY3c1g2TmhQeGNKVlJfdG55S3dfY1ZBdkg4V0J5enNRX3Y4djloQmpBZERob3NkcHJIbkduVDB5bGQzYXZz?oc=5",
+   "outlet": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+   "outlets": [
+    "The Diplomat – Asia-Pacific Current Affairs Magazine"
+   ],
+   "published": "2026-07-21T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
+   "id": "451561d26dab",
+   "title": "With New AI Governance Organization, China Seeks to Formalize Its Global AI Influence",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUDg2cENPdlJQUVhjVlZHSnZ4LWxSZlNuYTZTdW1QdHNpc3ppX0RPbFFkWW5zQWpUc1E3US1YdmRvS0JxZ3oyNm4zWG1HcmhsdzNNQlNBNjZjcGtWaUh4MGZHVklxQzRkM01aS29CNy1ObnhkTHJ6VFVxYTFNSGdSQXEtWUJ0WEJsc05hN182alZNcVNUSFI3MDN1UHpPWG8tMHJ4RlJoU0NQSVVuMjBHN3htem1NZVdv?oc=5",
+   "outlet": "The Diplomat – Asia-Pacific Current Affairs Magazine",
+   "outlets": [
+    "The Diplomat – Asia-Pacific Current Affairs Magazine"
+   ],
+   "published": "2026-07-21T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "governance",
+    "analysis"
+   ],
+   "matched": {
+    "governance": [
+     "governance"
+    ],
+    "analysis": [
+     "influence"
+    ]
+   }
+  },
+  {
+   "id": "054c86d1d1fb",
+   "title": "World AI Cooperation Organization",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOXR0MHJZTVdVU3JpbmNwbmo0dVZsYlJYbGdTMDIxNkZwSGxDNmwyRUd5WHRaZkRmYTI1b3ZuS0ZyTXd4bHR5LVp6ZTVHd0phaEJPZU1VekF2UlJoTmkxdG12R2NKbk5MckpDQ2ZjR3dBck1uU250dWtnZ3RGUVBOem1yOFpBbTFocVhLUmtQRjZfSnVjeTVSWGhB?oc=5",
+   "outlet": "Drishti IAS",
+   "outlets": [
+    "Drishti IAS"
+   ],
+   "published": "2026-07-21T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
+   "id": "f61d51a00889",
+   "title": "Cameroon joins WAICO as founding member, boosts AI governance",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZXZjcExTMHJEZ015dXlDbTF5Zk9uZGVnaHdpZ1FTZlRCT3RyTGk4MFd0c1lSdVZ5MTVLd0lSVXM4OFBlRXpDWHdFNVV5ckZVOG16QWJjdzF3eTAtd0EtUDJ6VzFMdS1OXzBiVVBNcGZybVA0WFl3UmNZM2ZWUjhCRVE4V1JXX2JDODV6U2NjbW9SMTB0bTFYV0w0TXhYQjFnVnZRcl95UEVEU2VQZmRHZGxBWkphOVdjZnM3cmNIR3AyWVBvN2pRNlNnaFI?oc=5",
+   "outlet": "Wansom AI",
+   "outlets": [
+    "Wansom AI"
+   ],
+   "published": "2026-07-21T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "membership",
+    "governance"
+   ],
+   "matched": {
+    "membership": [
+     "member*",
+     "joins"
+    ],
+    "governance": [
+     "governance"
+    ]
+   }
+  },
+  {
+   "id": "9b6809b5fec3",
+   "title": "World Artificial Intelligence Cooperation Organization -- WAICO) where Ethiopia is a founding member. It has been established.",
+   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxONG9DXzBHRThpVmowemY4aVREekVuSEw3SGdrTzFCU2NXMmhvdE5kaF9xcERkQVFONzVIYlNNbXN2cnRXTTRFYmFxT1NUVVhNZ1dJV0NDYTQyVnhieTFyWFpUYW5rWEZXOHp3aFVrbm9YUTJ5bGhEZkxkbWlqTU9BVnNlX3puSmdyTEx6YTd1OXREVzYzWlUtbmZRSVBrck1mYmRYclhoOGpRaW5NSVliWHFGLWJBS0I2d3hpVi0yaHRvdnZxaVBMRFZCajRyY1VKcmNPajVWNWlQUGZHQ25hUQ?oc=5",
+   "outlet": "www.mint.gov.et",
+   "outlets": [
+    "www.mint.gov.et"
+   ],
+   "published": "2026-07-20T11:30:46Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "membership",
+    "institution",
+    "africa"
+   ],
+   "matched": {
+    "membership": [
+     "member*"
+    ],
+    "institution": [
+     "establish*"
+    ],
+    "africa": [
+     "Ethiopia*"
+    ]
+   }
+  },
+  {
+   "id": "70981fb0625e",
+   "title": "China’s Bid to Reshape the Global AI Order",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaWpYV2F2VmQtRHZSaGduVllSZm1mbDBRejNta3hLN21HLVpURGpWRjNJNGpRVjB6UnA4ZHdQNDNMOHlQVUVZbE83dlRHbVo4alVoc0lGRjhFeXB2NnhYRUpNVmVBbjdsZUx2ZjUtNDVxYTROczlyNXMtS3dubjZpNlVoTURfMkdP?oc=5",
+   "outlet": "orfonline.org",
+   "outlets": [
+    "orfonline.org"
+   ],
+   "published": "2026-07-20T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
+   "id": "446e0a6362b8",
+   "title": "Agreement signed to establish World Artificial Intelligence Cooperation Organization",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSjFheEU2TUNtcUtsdlYzbHVFcWZheHZERy02elhUQWsyRnNWZ0l6czZQVlBkaTUySWo3TUNkc2wyT2k2U2dhMVMxYVN4b1RkbER6TUV0aGFjTFNEMFM1dlpCX2FONmlia2FPNWtsZHZnU1BHT1I4RnZoVXZ5SEE0ZlVaSDB2SVZvOGJVVU5wRm9lUElYeGFF?oc=5",
+   "outlet": "Yahoo Finance Singapore",
+   "outlets": [
+    "Yahoo Finance Singapore"
+   ],
+   "published": "2026-07-20T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "membership",
+    "institution"
+   ],
+   "matched": {
+    "membership": [
+     "signed"
+    ],
+    "institution": [
+     "establish*"
+    ]
+   }
+  },
+  {
+   "id": "0cad6baab5d4",
+   "title": "Kenya’s move to join AI body is strategic",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTWZoWE82ZDg3RFlwRFA2TlFETE9DSHN0aUZyYzM4NTRUTVVCWVJpa2pqNG9UYXRiNDFWWlpuaE1lazNYVzZ0Tzk3aVJkZHVJQ3VxQWlmamU5YW9pYWJkWWc2cEZHVHU5VFRKTVJFVEpZM2pGaHdCYjFwOVZmU2xFYm16aDI4dDJlTy1VRFF0elFCWFhvNExJd3dIMWNidw?oc=5",
+   "outlet": "Daily Nation",
+   "outlets": [
+    "Daily Nation"
+   ],
+   "published": "2026-07-20T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "membership",
+    "africa"
+   ],
+   "matched": {
+    "membership": [
+     "join"
+    ],
+    "africa": [
+     "Kenya*"
+    ]
+   }
+  },
+  {
+   "id": "34d8f090cc34",
+   "title": "For China, the Race for AI Supremacy Runs Through the Global South",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTlMzWUpTV2Q3SWlWejg4emNyQmhXNjc5VjVUNUZ2SW16NklMMmxRM2w0dXJNV2ZsaVVQeDhFck9HWnhoUDlWVzdUcnY4Ty1WaTdzUjJGeTdPUm5TZ3FRelVDTEVfUm9NSkVLaU9GWUJMOXFLY3ZENEI0SVRZS0hrZFcwM1ZlVVhIOXc?oc=5",
+   "outlet": "The China-Global South Project",
+   "outlets": [
+    "The China-Global South Project"
+   ],
+   "published": "2026-07-20T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "global_south"
+   ],
+   "matched": {
+    "global_south": [
+     "Global South"
+    ]
+   }
+  },
+  {
+   "id": "0c8bc64e0b82",
+   "title": "29 countries sign agreement to establish World Artificial Intelligence Cooperation Organisation in Shanghai",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNFV4R296alVRMk5QQ3FZZzRFcDBvT3ZsT0dKNjJ6LV9WSmI2Y05TdGZVdmp4NXhvdk03Y0RmV19sbEFCd1BsZnc3anFoeDFyZGFvVGc1S3FDa3k4MkZiY0ZtZy02cUUzRzJCMVVUalA2eG90QUg2bDViV0hTLXMtazhZVVNlU0ZWYkJDVkJ4REQtaXVPdDJRY3pPdFBldmUtNGVsSHNWaGRzaWRlenhqaUpDckVaSnd0RENUSGpEeXBkMk0yWUJZNw?oc=5",
+   "outlet": "TV BRICS",
+   "outlets": [
+    "TV BRICS"
+   ],
+   "published": "2026-07-20T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "membership",
+    "institution"
+   ],
+   "matched": {
+    "membership": [
+     "sign",
+     "29 countries"
+    ],
+    "institution": [
+     "establish*"
+    ]
+   }
+  },
+  {
+   "id": "1b6c8d8e6144",
+   "title": "世界人工智能合作组织(WAICO)推进会成功召开",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGQTJ5ZC04MkJKYTBxZ255b3JmLTg3ZFJGYnJIQWFMQWtYSFNJQ29lU0p4TjkwS2ZNRVNIWGJMd1U0dk9RTWI3dHA2SXJlMTJxcGdEa2Zzek90bEE2RXI0MURFSnpCc3pjVVE?oc=5",
+   "outlet": "中华人民共和国国家发展和改革委员会",
+   "outlets": [
+    "中华人民共和国国家发展和改革委员会"
+   ],
+   "published": "2026-07-20T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-CN"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
+   "id": "2a8b2a4a3abf",
+   "title": "WAICO: A Milestone for Global AI Governance",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2TDBwM1hPRmJ0aXd3UlpyM3lrb19uN0NNa21KWFJxakY1Y1A4bFc0eDU0VERQZWNJN0M2M2RhVkNieU9VMUt1WDB2MWozWWNtNEF1amhOQkRBdDhUQThYSTJNbjZ2dExyZ0NxRkN6bGtFaDFr?oc=5",
+   "outlet": "中国科技网",
+   "outlets": [
+    "中国科技网"
+   ],
+   "published": "2026-07-19T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "governance"
+   ],
+   "matched": {
+    "governance": [
+     "governance"
+    ]
+   }
+  },
+  {
+   "id": "9ec0c3057b42",
+   "title": "The World Artificial Intelligence Conference Opens in Shanghai",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sb3BzQUZfMFR5Q1RveGYxNUUwVXVZbjYxcWJSMnBrMHR0LXRITGQ1T2JFMndTUmt5aUFvNXVtaWI3NFpRcWR2bXl0QWgyRURlUDZRWDluSEQ?oc=5",
+   "outlet": "sectsco.org",
+   "outlets": [
+    "sectsco.org"
+   ],
+   "published": "2026-07-19T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "events"
+   ],
+   "matched": {
+    "events": [
+     "World Artificial Intelligence Conference",
+     "conference*"
+    ]
+   }
+  },
+  {
+   "id": "c4edbfe00bec",
+   "title": "First global intergovernmental AI cooperation organization",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVjZkdUdaVzVUcXg4d3FTYVZWWlZyRHFYTlR5RHk4NWYtV3lNZjBiT1lLV2tUZ2tEWDg3Yl9HaC1iWVJ6V0JCU29SRWtCeW1sZ1ozU0M3QXhiaThQVk1rc3dyZWsyeTJzRE5kb0p4LWVSOXN4dlpHUTNLRWdqOWR6Y3VxbmdNV0gw?oc=5",
+   "outlet": "KBC Digital",
+   "outlets": [
+    "KBC Digital"
+   ],
+   "published": "2026-07-19T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "institution"
+   ],
+   "matched": {
+    "institution": [
+     "intergovernmental"
+    ]
+   }
+  },
+  {
+   "id": "31a4071a599e",
+   "title": "Xi Jinping’s 2026 World AI Conference Speech: What It Means for China and the Future of AI",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQd3NidzlMWDFxb0x3ak1jQi1icnJyMFVOb3V3eXNZN0loeHU4VUNxYUNBWUJfdWxiT1Bhci0xbEhyYmw4RGR5QXBFR3ZiLVBfUURPbThKQWZzUlFXZXYxVml2OGtZTkxZN3Z1c1BQYllhT1RwTDROS2M1ZEg2TzRTOGZxYkgyZXJOQnlVY0FXT1YxNzJyV3lZOU5jRmdXamV5Y2JvdTB1R3ZkR1hIVVhtMnhMWWh6MkIyM2ZQRHMyNm5KLXo5R0E?oc=5",
+   "outlet": "Modern Diplomacy",
+   "outlets": [
+    "Modern Diplomacy"
+   ],
+   "published": "2026-07-19T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "official",
+    "events"
+   ],
+   "matched": {
+    "official": [
+     "Xi Jinping",
+     "Xi"
+    ],
+    "events": [
+     "World AI Conference",
+     "conference*"
+    ]
+   }
+  },
+  {
+   "id": "009d678b53ec",
+   "title": "WAIC 2026: China proposes a new era in global AI governance with WAICO",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOV1F5VDgzS2xIVEFycFpQaDlndFpFTVpXNXh0aTdJdUM1SFJwNFJVV1p5Z0JkbGZfdkhjVGFpTlBYU3o2THZxZzljTWNFQkhzTjJobGhZS3hobnlWVFpaM0FaUDZ3VmZyZnFiTTBzUHpqUWZrQTBWbkJQQkFzSlpreEl0SEJCMjBCMWd0dFctdlBmcjFpbHZ2Z1M1bHdTbktsZ2RLaHJsOTAxY3drUFFuSWVaWnh3WDZJX0hST2pzWWFqeVgycmZUNXhn?oc=5",
+   "outlet": "CGTN",
+   "outlets": [
+    "CGTN"
+   ],
+   "published": "2026-07-19T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "governance",
+    "events"
+   ],
+   "matched": {
+    "governance": [
+     "governance"
+    ],
+    "events": [
+     "WAIC"
+    ]
+   }
+  },
+  {
+   "id": "93043f72d08b",
+   "title": "2026世界人工智能大会暨人工智能全球治理高级别会议在上海举行",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKeEFYcE0yckxsZEdINFZLWlc3SmpuVFF6M2l2U2NkdElpU0ZIMWhrOE9DM1lHbDFmdHJmYzQzdUZqSnhNVTBJNlVoQTlETHBoQjdzV21FaXM?oc=5",
+   "outlet": "sectsco.org",
+   "outlets": [
+    "sectsco.org"
+   ],
+   "published": "2026-07-19T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:zh-CN"
+   ],
+   "categories": [
+    "events",
+    "governance"
+   ],
+   "matched": {
+    "governance": [
+     "治理"
+    ],
+    "events": [
+     "世界人工智能大会",
+     "会议",
+     "大会"
+    ]
+   }
+  },
+  {
+   "id": "468f7f3df2c5",
+   "title": "新华社消息丨世界人工智能合作组织未来将重点开展三方面工作",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yY1ZibFdZQ0F0ZVhNVjBTeTVpaDNlNm5zZlowbnZ1cThCM1ZMaDhmZXR6UV85aWZTNGRybzV2SzJfeVlFWG9GVzFZRXd0TjN0eWtjOVBpY3NRMHAwOHBFWmF3WVM2RGRsSC1ueGZCRUNpQ0pNbU93?oc=5",
+   "outlet": "新华网",
+   "outlets": [
+    "新华网"
+   ],
+   "published": "2026-07-19T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-CN"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
+   "id": "8f0946cb31dc",
+   "title": "中方表示將與世界人工智能合作組織創始成員國 推動組織盡早啟動",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXVThGeHE2QmZldl80em5ySmQyMHI1WFhnTmFKZ0RvM1hvcWxwc3Q1TU0yREJNSjh2VHJyZFg2UTRwNnhFdjF1bjJxdlY0bHdtcTU0WkVJdV9DUldWZC1weWxYVkdldU1fNVEzd0FFWQ?oc=5",
+   "outlet": "RTHK News",
+   "outlets": [
+    "RTHK News"
+   ],
+   "published": "2026-07-19T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-TW",
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
+   "id": "64f3f8b4194d",
+   "title": "Xi calls for equitable global AI governance, unveils new cooperation body",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdVdiT3JGS1RxcUlGbWJ3aDY1R2dlNWRBcVF1RS1hZERERFBpMk1ZSEtxNE8zT1lacjdaalVZZXgtcXhnN0xuLXY5TjJNUXZaRVRVUEQ1dm9wOFQ0V3B4RFBfUUxjY3MxaVM3T1V1RzdYS1VCVERQc3d4YTl2NTZaN2MtRW1TcVFJ?oc=5",
+   "outlet": "English.gov.cn",
+   "outlets": [
+    "English.gov.cn"
+   ],
+   "published": "2026-07-18T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "official",
+    "governance"
+   ],
+   "matched": {
+    "official": [
+     "Xi"
+    ],
+    "governance": [
+     "governance"
+    ]
+   }
+  },
+  {
+   "id": "a85d4e3127da",
+   "title": "China’s WAICO or US-Led Pax Silica? Indonesia Stays Neutral",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZy1EeDR6bFhWSXplTmtENm9HRTVZYXlwN3ZITThMRklia2NRemhJODFURkw4UFI4WWNCYmlweG5WbzFEVXUyWUlraUtFN1NDdFgzM0JXalBqNy1OSk52cWt3RzhYTWtCVVZUc0txQjNsRXQyZ3B6TDQzVHdMTG1nbVRYREJHMDEwR3dNNy1B?oc=5",
+   "outlet": "Jakarta Globe",
+   "outlets": [
+    "Jakarta Globe"
+   ],
+   "published": "2026-07-18T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-GB"
+   ],
+   "categories": [
+    "analysis"
+   ],
+   "matched": {
+    "analysis": [
+     "US"
+    ]
+   }
+  },
+  {
+   "id": "4f9d70a1d541",
+   "title": "The World Artificial Intelligence Cooperation Organisation (WAICO)",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObEx4R19GcTEyUzFteFpsVjBVZ0FfUU9aX0pRMFQtdTgyX1IwWW9sLUY0Z2p3UnVxMWU4dWR2UjdpUE1YdGV3UGNUUy12WXEyaEpRRGNGaUprUVpUTmJjR3A0VlNkaGRqMEluMDZWUU9kVzZsSEV5QTBGTmt3WkthaXVqd0hsSDJvblJ5TmFUSnFLdEp2a1R2blpGaGJ5dC1jbHo3TFlMUl9VbXVw?oc=5",
+   "outlet": "INSIGHTS IAS",
+   "outlets": [
+    "INSIGHTS IAS"
+   ],
+   "published": "2026-07-18T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-GB"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
+   "id": "68e12967bf9c",
+   "title": "Indonesia Joins China’s AI Push Across the Global South",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Ha0NaeHNXc0JqZGlMVEJ4RnczQzVNYVhYNTQwTlNmcXJWczJXU28tYmd3Nkx6MXpIVWxTMzVfblBwbTYweGVNMXdrWVJLYk1YZDhSRUdCemkzWWc5TUFtVWwzc1RrbFdKYThtWDRJNy1KeEZpUUczYg?oc=5",
+   "outlet": "The China-Global South Project",
+   "outlets": [
+    "The China-Global South Project"
+   ],
+   "published": "2026-07-18T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "membership",
+    "global_south"
+   ],
+   "matched": {
+    "membership": [
+     "joins"
+    ],
+    "global_south": [
+     "Global South"
+    ]
+   }
+  },
+  {
+   "id": "c594386834fc",
+   "title": "29 countries join World AI Cooperation Organization in Shanghai",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQmFvcE9MWnFiTENKSkoyRUs4ZjA5ajZIVFRGbUxPWTlZeDVtNDUyb2plQ0N2NUNMYzdZVlBGTkh2OUp6YWJfUEtnX2p5elFRQXVzYXpfdTU3Z1NueUNLSFNkeTNSdGctdHFxbEpQcEd3YTMzSXJsOUF0LUl3eTREeTRMRDNrTDg3d3R4VDFnR1dkZVF0VEgwOG5nMzhJSHRMRWJ2eEhmMFdXcG1HdElPQlpjUW5YamJLeEVONQ?oc=5",
+   "outlet": "CGTN",
+   "outlets": [
+    "CGTN"
+   ],
+   "published": "2026-07-18T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "membership"
+   ],
+   "matched": {
+    "membership": [
+     "join",
+     "29 countries"
+    ]
+   }
+  },
+  {
+   "id": "137f1cbccf12",
+   "title": "China Launches World AI Cooperation Organization as 29 Countries Sign",
+   "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeDUwNjd1eXJ1WG9xWFdVQlRjUlNTV19ZRGxrQkVwVU5ZZ0I3TUIxNEZPSTRtb3dKY3BLeWMzVmVBSXJtOFZaNXQ0a2FYSF9jNUJQT2ZUZ1dkczljVGVFM015ZkJOUmEzSm45RVNZUGZ1VmdGNE1JM05YcUpCeVAzRGdIZE1KZFZDLW5BbG5sMkdTSXdXWjdlejl2dExXUzZjOHVBQUxPRWZ2YlY0aGI1dzVyZGVTbXhyeFNjZHVlYjVDZTJIRzd0Xy1YaG0?oc=5",
+   "outlet": "Konsulteer",
+   "outlets": [
+    "Konsulteer"
+   ],
+   "published": "2026-07-18T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "membership",
+    "institution"
+   ],
+   "matched": {
+    "membership": [
+     "sign",
+     "29 countries"
+    ],
+    "institution": [
+     "launch*"
+    ]
+   }
+  },
+  {
+   "id": "1175d05a41bb",
+   "title": "Mankind creates first global intergovernmental AI cooperation organization",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvUzBlcTQ0a09NTzhWNGM1aEZ2WDZkeWUzbUFuWkN0bHAtcDRlTE9KbGdmak5tVnRBTkMzSEtjQWRIMUxyeG82WUt4X1B0UXd0QVdKMGtKcTBRV3diU09RZUJXM3A5MjFsa1Y2aGpXSjd2ZDAwWmt6aFo5Qkc?oc=5",
+   "outlet": "CCTV.com English",
+   "outlets": [
+    "CCTV.com English"
+   ],
+   "published": "2026-07-18T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "institution"
+   ],
+   "matched": {
+    "institution": [
+     "intergovernmental"
+    ]
+   }
+  },
+  {
+   "id": "98c3afb0839b",
+   "title": "29國在上海簽署成立世界人工智能合作組織",
+   "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPU2FWb1ozRkd0NXdsUkhyV2lIa0w0SmpUWGpyT0VSdmxaNkxTWVBTbEtnS2FfX1BVa3Z6dWtyU215VlNKenBXRGZJNVRQNENKa2pWSERyeGxhMGtZeHdyU2hadmd2dkpOZXpCa1FDb1l3a3lLUXJFR2RQRjl5eGdFcEFmYkRTUUpQX01zZUVLUUFyeWsxdHh6ZGh5bkx0bTk3WnFrYw?oc=5",
+   "outlet": "TDM",
+   "outlets": [
+    "TDM"
+   ],
+   "published": "2026-07-17T11:32:01Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-TW",
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "institution"
+   ],
+   "matched": {
+    "institution": [
+     "成立"
+    ]
+   }
+  },
+  {
+   "id": "11d63b31a658",
+   "title": "President Xi Jinping Attends the Opening Ceremony of the 2026 World AI Conference and High-Level Meeting on Global AI Governance and Delivers Keynote Address",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5KenhEemNoX2pGeFgyX09OWkVJNS1qQmh2ZEVKdGs3SXE4TlV3ZW80NHdkTjhCQTZCNzNmeGNWdEFzZ0czNXBMdzU4V1JCZ1o5T2dsVGc0dGRTdV9MQVRLcXViRlN2ZUVtd010cllfT1pYZW8?oc=5",
+   "outlet": "www.mfa.gov.cn",
+   "outlets": [
+    "www.mfa.gov.cn"
+   ],
+   "published": "2026-07-17T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "events",
+    "official",
+    "governance"
+   ],
+   "matched": {
+    "official": [
+     "Xi Jinping",
+     "Xi"
+    ],
+    "governance": [
+     "governance"
+    ],
+    "events": [
+     "World AI Conference",
+     "conference*",
+     "meeting*",
+     "ceremony"
+    ]
+   }
+  },
+  {
+   "id": "66c7bb1f4fba",
+   "title": "China’s Xi Jinping launches new AI alliance: What is it?",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRlU0UE9IRjBrSkVJbDhpVlptQmRGRE9RV0dqLW04UjVoRU8yV041QmYyZVZ6bXNVaFkyQ205WUVCWnZObHdWNzl6ek5qVHFoV1UydkF1RlZ6RzBJTXBvcm5YYmlMdHN6ZFpsamFJbFk4Y21qSjBickc4THh2ajFOdDFIVWZyMUpRd2xlMTJ4SEVfbzRXR3daYUdn0gGfAUFVX3lxTFBxeFFLYTdKYXBrVDU2R3ZKNUR3aVc4aVFGTWw4VUtmanM5ZWd2cFlSRkI0bjZoSUJsY1VkR1drdFJBTmRVdTlWRDV5ajNQaHZ4MkFYQmRHZFdHeEVhMWlaT3Z5UGgxd3VpZWQtR1NyXzJvYzVkOTFnYlRreXdzRmo5aU4xQnl3bVctUHF6UHpLak0zSVN3WmthS01aOTdWYw?oc=5",
+   "outlet": "Al Jazeera",
+   "outlets": [
+    "Al Jazeera"
+   ],
+   "published": "2026-07-17T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "official",
+    "institution",
+    "analysis"
+   ],
+   "matched": {
+    "institution": [
+     "launch*"
+    ],
+    "official": [
+     "Xi Jinping",
+     "Xi"
+    ],
+    "analysis": [
+     "what is"
+    ]
+   }
+  },
+  {
+   "id": "bdd6045f8c58",
+   "title": "World AI Cooperation Organization established in Shanghai",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ldmtNVDRab1c1dTRjUm1yMWVSQ3pvS09lMzQ3MlMzX1BaMzVlZG50RFZXVFdVWHFDa3RGWml3VTUxU1BaZGZ0MGRHRTZFdFgtNU5kNGtyaV9uSVdLRm1sdHlYYjEtbkNjQkVYZGN6TkkzTXc0OWZF?oc=5",
+   "outlet": "Digital Watch Observatory",
+   "outlets": [
+    "Digital Watch Observatory"
+   ],
+   "published": "2026-07-17T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "institution"
+   ],
+   "matched": {
+    "institution": [
+     "establish*"
+    ]
+   }
+  },
+  {
+   "id": "449d5b3a47f8",
+   "title": "China’s Xi calls for more global efforts to guide AI, chides US for its curbs on tech sharing",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQT0pKR0VpLVlYMUl3b3BmemUwckM0UW84WDhrMWRUb1FPd2h0dWdZYlRKRnJzV1IwS3BpR2toR3JMYUM1XzdNX1lJQW9GZWFKUElTMlZVdGdqMUVZemRPSmFKTDl3OERBY2NHVUd4OXZGVWhEZ0xLWGxhRmVZU0VvcEZ0dHlkZVh1OWwzcUxn?oc=5",
+   "outlet": "AP News",
+   "outlets": [
+    "AP News"
+   ],
+   "published": "2026-07-17T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "official",
+    "analysis"
+   ],
+   "matched": {
+    "official": [
+     "Xi"
+    ],
+    "analysis": [
+     "US"
+    ]
+   }
+  },
+  {
+   "id": "48dfc4ffd590",
+   "title": "29 countries sign agreement in Shanghai to establish World AI Cooperation Organization",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORFFXX3QxQ0JQZzN3eW01ajNBQTJ2Z1Z1ZHVUQk9PSFlSS2FuTHhpOXRkajR2QzJoUENCemNxcS04Y1VKdGh2NXNvanNEMVlyUXlVczJlQzFDT1Juem9oZzB0VTZSdWlNOHdrN3ZwRWhPZzh4YVVuaDhXMTc1TnhlWmFoY21sdmFhSHlZX1FzeHluUnpNUUJzWmpZYTdJVFY2N01kMUtQUURhenU1bHRpMTRLbHJ1THhJTUl6VFB0OGk?oc=5",
+   "outlet": "Human Resources Online",
+   "outlets": [
+    "Human Resources Online"
+   ],
+   "published": "2026-07-17T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "membership",
+    "institution"
+   ],
+   "matched": {
+    "membership": [
+     "sign",
+     "29 countries"
+    ],
+    "institution": [
+     "establish*"
+    ]
+   }
+  },
+  {
+   "id": "84fe9f5a7c0b",
+   "title": "Xi pitches China as leader of new global AI order, challenging US dominance",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVpoVTlwUHY0LXNXd19nbFlNWVZoWDdQeVVFSi1ISkZzYVI1YUlzQTR6OXd3XzNhWDhsaTRkdnByczNqMlE4bm1JTHhyaEk2VXhrUDRFdmVjdHN3RW9FZU1OTW5aMnMzTmk1VW5sMUNGTkhYYVc1LUN5bUJJWkNBdUJFSU0wNUZyMDdtZklkRkJPLXBTRlhHQmZ1S1dQSVdTZ3l4OC13TE5aVWNBSUZfeHpfRVRwTG9hdzFKWkdVa2RfaVoxeWpr?oc=5",
+   "outlet": "Reuters",
+   "outlets": [
+    "Reuters"
+   ],
+   "published": "2026-07-17T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-GB",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "official",
+    "analysis"
+   ],
+   "matched": {
+    "official": [
+     "Xi"
+    ],
+    "analysis": [
+     "US"
+    ]
+   }
+  },
+  {
+   "id": "907f0f01668c",
+   "title": "Indonesia Says WAICO to Help Drive Global Development",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWU1ITEJlWDA4SjBXcEhnZHVzQVMxMzViUWhEUkxqdHM5NmoxNDJ5WUdMR3lpRmI0MGRzMDNXWlNzNmxrWU5GNzNEc3BGZGpfckpWaGdXUnJEMDJiMUF6R3o5X29zdlJyUENJYXUxRDlQTjZEUjJjQ0kzenQtSExQRGRpdkdCc1pMRFBiSTRybVk5azJPSHROcg?oc=5",
+   "outlet": "Jakarta Globe",
+   "outlets": [
+    "Jakarta Globe"
+   ],
+   "published": "2026-07-17T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-GB"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
+   "id": "397192094405",
+   "title": "Xi Jinping: WAICO will mark an important milestone in AI development",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMnRIWUk1WWJxUDFRSXZTUG8zNGlsNm9EbFVoaFN2R1hFc3E5WnNnRDF3MEtMSHBkTFlsWWdrNF83NFhxaHNtVUdaQnlCMHg2c3dfdUF4YlVQN2xobzFTWk9ma1VzWm13TENfTE80TncwSzUxdWRBeHh3bFVPeFF2R2loaTQ1QWNMYjc4SXVWQXZBQkZ5bEE1YTJRaWhMaHl5RDNkeWhzNjloWkZVWktLRmhkZFFPdHE1N3RJSlUyalVvQQ?oc=5",
+   "outlet": "CGTN",
+   "outlets": [
+    "CGTN"
+   ],
+   "published": "2026-07-17T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "official"
+   ],
+   "matched": {
+    "official": [
+     "Xi Jinping",
+     "Xi"
+    ]
+   }
+  },
+  {
+   "id": "4e98ffde39c4",
+   "title": "Xi Jinping has stated that China aims to shape global rules for AI",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbWNfNWtxN3hYcjZJdkZrRXh2b19OVVJSemNlYWxEQnMwQUV5Z0ZVVENDRHNra2R4eGJmZzBaZVM4VWRLY0VTYnMzbVZxdGZqT1pnRWhna01fbHo4MXBTNzlkSGstWUlHTG5kUjJiaV8yVWhDQ0lWajFBU2FndTh3Vg?oc=5",
+   "outlet": "UkrMedia News",
+   "outlets": [
+    "UkrMedia News"
+   ],
+   "published": "2026-07-17T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "official",
+    "governance"
+   ],
+   "matched": {
+    "official": [
+     "Xi Jinping",
+     "Xi"
+    ],
+    "governance": [
+     "rules"
+    ]
+   }
+  },
+  {
+   "id": "ae54829e89fc",
+   "title": "Xi pitches China as AI partner to developing world, warns against risks and security overreach",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTzlscE93WDZMdEhMcE9NcUhkZEhtM0tjRU1XUlk4dXA4UWYyb2pFeTZIV1lmZW80Z3VSX2NGX052QWRnLU5JTmRLTnREOFpWMC04U2lnMV9iTGVjQldWTnBrbjhXVlU0T0ZuME44UW5meTRzbk1ONy0yZXZGeWlIaFNEYnIwWGQ1MHlKUTZsVkNpT1RzOW4zSGloNXM0eW94MGxzc0pmd2tWaEx3dE96Y2U3WjVrVDlZcHFJZlV3dTlHR0E?oc=5",
+   "outlet": "CNBC Africa",
+   "outlets": [
+    "CNBC Africa"
+   ],
+   "published": "2026-07-17T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "official"
+   ],
+   "matched": {
+    "official": [
+     "Xi"
+    ]
+   }
+  },
+  {
+   "id": "60da6d7c7701",
+   "title": "China unveils a new paradigm for AI inclusivity in the Global South",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9NbVkyMFV2M2RPTUZ1em5uaDU0V01yMjR6ZU85Z2piX1JyRFlKUzV6bEs5RUV0OTdUODZiUUNzNWN5ZVJNZTNITFFkQ0VUcXRuV2Q3d2tDUFp6cFFBSlhWNExPODcwaW1NQm14aUxUU0Q2T2x4b2lEOTZ4TXNxZw?oc=5",
+   "outlet": "China Daily",
+   "outlets": [
+    "China Daily"
+   ],
+   "published": "2026-07-17T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "global_south"
+   ],
+   "matched": {
+    "global_south": [
+     "Global South"
+    ]
+   }
+  },
+  {
+   "id": "b9039ca5b792",
+   "title": "China Launches Shanghai-Based AI Governance Body With 29 Founding Nations",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQa2IxQ3NqaGlKcWJYS1FQUlJmaTJXZEp3cVhNWUx3T1VlaC1zMkU5dHNKc1YxNEFnRUZrMXdBb0Ric0FWM0NYV2M5blJBTXdwNnFvcTJ1MTNFWUlabHZraTNvQWxXRGhObVBnX1dhV0JOWUdkUWIyZmtCTVBabWRqYjJqMGY4QmVlZ1JLYlFrbFh2ZERSQ3NQZ3NTblBBVVNUQ2JwZnpxZVFSbDB4OGI3QWNyOHIzZGFmb1N6alZzM0NFWkg5V21v?oc=5",
+   "outlet": "Caixin Global",
+   "outlets": [
+    "Caixin Global"
+   ],
+   "published": "2026-07-17T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "institution",
+    "governance"
+   ],
+   "matched": {
+    "institution": [
+     "launch*"
+    ],
+    "governance": [
+     "governance"
+    ]
+   }
+  },
+  {
+   "id": "39dcf879efeb",
+   "title": "Kazakhstan becomes founding member of World AI Cooperation Organization",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOFdXQnJINmw2WU9IbTlrYXdfNXctYjQyMlZQTkFaQWxFbGdvbEo2V2lDeVJLdjc2a2ctLUUxbFk2Q0NhajJ1SC10WS0tSzFmS2tqVHdVQjV4ZE8ySU9Hd0tOZGpvSjIydTNTSWR2ajZMUThnNkxyR2NqREx5eFpfZzN3U2xBai1Oa015bEgyc3UyU0Y2RjlxOWNOZC1OaV9yRXQ2aVBHYk_SAagBQVVfeXFMTTN4UjhMUG9VMmdmdjNCTzAtZWFyZUdrT1pTR1lwbFZBcmZCcFRGTm05QmlMS3UwYUpHeS1qc3Z0VnVwRDlPWjdHMlRaMzdvTTBXVW1EU2pMZFFzMGZDbGlkRlZBN1d4MTl1V3lNLUVnSmlSU2N5V2RDcmdSWEJmRjY1Tm9rdjhXdGluSzVuOXlqUm1DMTJSeUJSSnBBS19TeVM5QmYxR2hR?oc=5",
+   "outlet": "Qazinform",
+   "outlets": [
+    "Qazinform"
+   ],
+   "published": "2026-07-17T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "membership"
+   ],
+   "matched": {
+    "membership": [
+     "member*"
+    ]
+   }
+  },
+  {
+   "id": "44c4e64939b8",
+   "title": "World AI Cooperation Organization aims to ensure AI is beneficial, safe and fair",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWkUzS3pHX0d1VGN1OF9QeTkwVkZoUGh3dVFlZF9YYk5UbFlSUS1MTC01c3V0VG9FTjNIazRDdnA2NHQyYV9KMk15VWM0RVVoVEhBT19RRnVzWE5DcnRsdUpiT2trcUpUbFpuUFZkUmJLVFVqS2lJYklzR2Z2TUtuNUlwcmFmYmxvSkNERlRUNFF4ZzJsOURWMUhDVEJobFY1c1dibl84cnlGdHMyTnhDRXhiZUNEaEljLS1rZVY3ZW00b1E?oc=5",
+   "outlet": "CGTN Radio",
+   "outlets": [
+    "CGTN Radio"
+   ],
+   "published": "2026-07-17T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
+   "id": "06101818f87c",
+   "title": "Brazil joins Cuba, Russia and Venezuela in China-backed AI organization",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVWNrWWswRjk3QmlhVWcxT2ZjeDhtRzdYRHJDWE1VTl92T0EtaTFRTktWLVZQc2dIWm5DOUhSUmRPU3hqSkI1aVgzcEx6SkxZR3FPR2ctQkJPRno0V2tfV29nVnBHZ3R3OWQ2REdNOVB0VlZ3TFlwdGFxM0pPd2daZnFlUDNTT3NXTmtYclNNelV6eXRqSjNhXzdmMk93bmFrUXg1SjNWdDA?oc=5",
+   "outlet": "BNamericas",
+   "outlets": [
+    "BNamericas"
+   ],
+   "published": "2026-07-17T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "membership"
+   ],
+   "matched": {
+    "membership": [
+     "joins"
+    ]
+   }
+  },
+  {
+   "id": "36b631164770",
+   "title": "Full text: Keynote speech by President Xi Jinping at opening ceremony of 2026 World AI Conference",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03cFh5eW83Q3dEQlVrZ0ZnbzBkblFCYkRseEpkRkl6RUZUbEhjX1lhRGxlYUZFcHVCUFJVWG82OUtLMjJFQ09UVGZKS1hpNUk5MVZVZmMyUjBRU2ZKeVdaMHVMNk9mTVdNNGlscEdnMDBJbUNyUWJkamJRa09zdw?oc=5",
+   "outlet": "China Daily",
+   "outlets": [
+    "China Daily"
+   ],
+   "published": "2026-07-17T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "events",
+    "official"
+   ],
+   "matched": {
+    "official": [
+     "Xi Jinping",
+     "Xi"
+    ],
+    "events": [
+     "World AI Conference",
+     "conference*",
+     "ceremony"
+    ]
+   }
+  },
+  {
+   "id": "28a97cf40bea",
+   "title": "29 countries sign agreement to establish World AI Cooperation Organization",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWURtTW5sTDlhcDlVUGlETWJSOWllRUN3WFJCN0FHV1oyZXEyQ3RVTEdaSklwTWFkbGhPTm9tMXhNaTlGaGkzWWI5MVhGakctV3hmUmtZU3V4dTZ3RXQ2LVRLcFN5dGh0UGtCZlBaNEx6azRtMDh1dndKT0FDVE94T19lZHRFZlZQQUF1c3BzeTNfQ0JRVGVVRFJ0NzVpZmxnalphLVhYODRFb0J60gGsAUFVX3lxTFBDdWVXM0VXT1loQTlPMnk3UHhvVl9oSENjMVhrc2tfMURjNElFU0FJYXY3bF8xT3hMdDBFeF9BUVp3Qnh3QVp0RjBZdFhoRVdqVTZKRUhIYVFyNFUyWUFPb2VrMWZ5N1ZpdTNGYXNpWXRiRTFTazZkUnRLWHFzeXFNNldJUVFBMnE2SlNzR1BKUm9LRmJkZ2FlUDlBQnNWQzRxUGIwOFVIcDBQX04?oc=5",
+   "outlet": "Qazinform",
+   "outlets": [
+    "Qazinform"
+   ],
+   "published": "2026-07-17T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "membership",
+    "institution"
+   ],
+   "matched": {
+    "membership": [
+     "sign",
+     "29 countries"
+    ],
+    "institution": [
+     "establish*"
+    ]
+   }
+  },
+  {
+   "id": "0b822e40b8e2",
+   "title": "Xi Jinping positions China as open-source AI leader at WAIC 2026",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51VU12SHhJb0tVeXRjaEtnUXNsY0RqWnBaWTk1eFRRcThuZVRaNld1eWhRcDhKTmlraGZvd0ladFJkdlJWSGJjVnVyN0NpWGxUcm1kem5faW9kenNuTnJ1bDM0WHk1dUZoTE5haVM4bzJlOTdsNGxnYg?oc=5",
+   "outlet": "Quartz",
+   "outlets": [
+    "Quartz"
+   ],
+   "published": "2026-07-17T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "official",
+    "tech_industry",
+    "events"
+   ],
+   "matched": {
+    "official": [
+     "Xi Jinping",
+     "Xi"
+    ],
+    "tech_industry": [
+     "open-source"
+    ],
+    "events": [
+     "WAIC"
+    ]
+   }
+  },
+  {
+   "id": "33d2dae0d204",
+   "title": "China forms alliance for next phase of AI battle",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOVpOMGdvano1VVZ1MHpNWXczTS15VkpZd1MyUjZBV1V1LU5oVXhqZk5MdHhuWDd0NVNiZFd5S0VPVVoyWjltUFNRcWpVb0UzbkU0M19pMkZDNS1CWEZTZUV4RjJLc2xjZXNHUlM0U25OZHhEX3lzbFhfNUxlZVZqZUo3MA?oc=5",
+   "outlet": "Tomorrow's Affairs",
+   "outlets": [
+    "Tomorrow's Affairs"
+   ],
+   "published": "2026-07-17T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
+   "id": "d89c12b16a26",
+   "title": "Kassym-Jomart Tokayev welcomes establishment of World AI Cooperation Organization",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaHdZdzN1MGhLV1o4eW9FZllwUThUcmszZFV4N253bW5WZEc2OHVYbV9MM2NMNjZIQkxTdi1QOXZxRDYwa2ZQdUxxMDJ0XzJsMVZLRF9SUTV6T05UWTNYMFNUUHdKX3hUN2tFaW1wSlczck1RU1h2MVpoQm8tTnJBZjQwS1M3bGFudi1XdlRPY3BsTkQxSkF2MG42SmpVTV9MSHdyR2xGc0VIWk5xc2UwTUxpWXlVZ9IBtgFBVV95cUxNU0NqR1psNjJnaVhyQVNCdm9rNzQyYkp6dVVxeGlLTXJISTRPLTE3T25uUXRXWWVud3RfVXBNeFMySUlfQzZuYWtGb1EzWVdXYmwyVy1yNnFZSmZ4M0R0QzRhX3ZHQWVXcEMwd0lVVDZpVzlieEhCVDJxUmZHMUhaQjQ5TDNBT0JBNm0tNG52N1V1dlB1cHFNUDR6ZklCU0EzR29UaWUxWFVGSlBueXlDMDk0RE43Zw?oc=5",
+   "outlet": "Qazinform",
+   "outlets": [
+    "Qazinform"
+   ],
+   "published": "2026-07-17T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "institution"
+   ],
+   "matched": {
+    "institution": [
+     "establish*"
+    ]
+   }
+  },
+  {
+   "id": "6047bbe4fa67",
+   "title": "Xi announces creation of World AI Cooperation Organization",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JZ2NpM1RtSVNXR0huWS1oUlpQV3h1ell0RWdkcEZmMHhSY2Nfdk1OVHJwSy1MTXJfeC1YaUMwYURjTGI1enBuMXpzNzd3bGVheUtEdVdseEJIUDNOa3lkblJ3?oc=5",
+   "outlet": "Global Times",
+   "outlets": [
+    "Global Times"
+   ],
+   "published": "2026-07-17T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "official"
+   ],
+   "matched": {
+    "official": [
+     "Xi"
+    ]
+   }
+  },
+  {
+   "id": "ac326e20b951",
+   "title": "世界人工智能合作组织在沪成立 中俄等29国为创始成员国",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50UzdvWlJ5NlpZVlJfaUw5eV9aLW94SElNcFZvSlhSUkloMkZRckZPRGxCR3RxRlFkWHdFQTlzNGtWRUEyZ1hmQXA4andtUWZvS3RmN0JYU0RGemJBUDBMcVUyNmlBSDJ1bGc?oc=5",
+   "outlet": "财新",
+   "outlets": [
+    "财新"
+   ],
+   "published": "2026-07-17T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-CN"
+   ],
+   "categories": [
+    "membership",
+    "institution"
+   ],
+   "matched": {
+    "membership": [
+     "成员",
+     "创始成员"
+    ],
+    "institution": [
+     "成立"
+    ]
+   }
+  },
+  {
+   "id": "52f5c6c1d817",
+   "title": "习近平在2026世界人工智能大会暨人工智能全球治理高级别会议开幕式上的主旨讲话（全文）",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRWNKMkZoYjZ5WmxTbTYzY0ZBY1ZVVlAwRlVZYkw5b0pNeVhxSW0tb2JsZFY1YkFuQjlhS3lUYUdSR1ZWRnNFYUMzd3pEVGtZTWc1N3M0ZElrVmVOU3dsdjlaam9FMEVVMEJJaG10TldPTFh3c2p4NE96ZUdwb0VZTERfM3VTSVU0Z0FzUHpB?oc=5",
+   "outlet": "新华网",
+   "outlets": [
+    "新华网"
+   ],
+   "published": "2026-07-17T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:zh-CN"
+   ],
+   "categories": [
+    "events",
+    "official",
+    "governance"
+   ],
+   "matched": {
+    "official": [
+     "习近平"
+    ],
+    "governance": [
+     "治理"
+    ],
+    "events": [
+     "世界人工智能大会",
+     "会议",
+     "大会"
+    ]
+   }
+  },
+  {
+   "id": "8a1ef97568c1",
+   "title": "习近平出席2026世界人工智能大会暨人工智能全球治理高级别会议开幕式并发表主旨讲话",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbTVsTy02RWhGU3BsWVpvUDNoOVZIX0ZQcmkxTTZ3Y2hNR0lfbjgtdWNuMGJhbVl5WGpNM29zaERYaFRGc2RDRTVPQ0JrUDBrRmhWdmpjbTZGWjhCdDR0T2hfSVdJRE5yMmM0aXFCWk1DMi1SRVRYRE4yNVIyeXFJM3VyQXFla3RPQy11dURR?oc=5",
+   "outlet": "新华网",
+   "outlets": [
+    "新华网"
+   ],
+   "published": "2026-07-17T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:zh-CN"
+   ],
+   "categories": [
+    "events",
+    "official",
+    "governance"
+   ],
+   "matched": {
+    "official": [
+     "习近平"
+    ],
+    "governance": [
+     "治理"
+    ],
+    "events": [
+     "世界人工智能大会",
+     "会议",
+     "大会"
+    ]
+   }
+  },
+  {
+   "id": "6a7c08013dcd",
+   "title": "中國成立世界人工智能合作組織29國參與 促進AI國際合作全球治理",
+   "url": "https://news.google.com/rss/articles/CBMiwANBVV95cUxOSzh1UkxtTzVuU1hPUzN4VkFLaW9Pc2ttc25IckJYaGFBOHkzWVhORHVydmczMXNvdnVjSmZWT180SEhmSl9zd1FqNjl1VXFPSUV2QXM1bjhpbE54RnFJU2VwWmRkREJBMnpYT2JUM21pNmtIQ0VQNk93eVVuREh3MW83UlItZVN2Nzk2alpmNWVwQ1hlYV9STW5GX08wbGpOMlE4RXFhSDE1VVlhR1pOTV9jYXRERHp3QUY5SE1adjhuSktiMmlfR3R6aG5kLWktVUlaNEUyQkpDR3ZVY1JkakRqelFpWUVleXY5aTVhSmZBY25LWlhvRGFsaG0yblotRXhUSG1QbVhMekxNOFd2X2RmZkVQek5QMXZDRFk1dmJIU2JMX3pERnFRanhBMTZPX1RDbnRCcUlfOG0tcWZBWi1KNDBySENYNi1IdHRlYTEtcWRhdmlVNVZzbXZuREtHMURicVoxalpOWGl1Nnd3dnpvY2ZteUJLR3N2cUt6Z2JDV3REUDZwMzNnbXZNdjFEbmFGWjdDT0tldzI4TVlCVS02clUtNGx2Y1RIM3hYNWxTTnM0dlVGaWxPcVBHcXFO?oc=5",
+   "outlet": "香港01",
+   "outlets": [
+    "香港01"
+   ],
+   "published": "2026-07-17T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-TW",
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "institution",
+    "governance"
+   ],
+   "matched": {
+    "institution": [
+     "成立"
+    ],
+    "governance": [
+     "治理"
+    ]
+   }
+  },
+  {
+   "id": "8fc37103247f",
+   "title": "29個國家在上海簽署協議成立世界人工智能合作組織",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSnh2WDQwZUltbDhuWmQ1aUtZbmoydjAyQ1BuZHZCM2Z2QUMzLTE4TkRjS3NqT1pkdHBPekMzd2ZZRENrVWFDdUROd2x5eXNSQUpYYW9ZTTY0a1pjbFoyZ1U4dWRZQ0NhM2RzTENQMndPS1ZhcGt3bFZPME5GYkRGNzV0dVl1UEV4b05IcjBkZlJoWTk0Vm1MV2wtT3E0WFRqTjBrRW53SV9mM0EzVVltejV1M3h2Ym1TekxTbDRMdlRwd2FwWWc?oc=5",
+   "outlet": "Human Resources Online",
+   "outlets": [
+    "Human Resources Online"
+   ],
+   "published": "2026-07-17T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-TW",
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "institution"
+   ],
+   "matched": {
+    "institution": [
+     "成立"
+    ]
+   }
+  },
+  {
+   "id": "a194029e9212",
+   "title": "世界人工智能合作組織成立 29國簽約成創始成員國 中方倡建 促智能向善全球共治 總部設於上海",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9nNkt4Y3dFRGhQRFJ4ZTgtOXd4M3ltb3d6eW9CT0EtcWJBU1BZTVdOQW95SjcwR2dWRHRxNm9oQ0ZWaDdrS29jZWRjc2s1bzBralpyb1NyeWdPNWdGZ0UteURzUzV4TkhZZ0Z6cndrZE14NFZtRW5J?oc=5",
+   "outlet": "香港文匯報",
+   "outlets": [
+    "香港文匯報"
+   ],
+   "published": "2026-07-17T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-TW",
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "institution"
+   ],
+   "matched": {
+    "institution": [
+     "成立"
+    ]
+   }
+  },
+  {
+   "id": "cebbc9ab352a",
+   "title": "硬槓美國AI霸權 中國主導成立「世界人工智能合作組織」",
+   "url": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPY3ByYmJQenRPWHU0bXJtbzc0MVFIejEtOXM4LWUyLTU2R0VQc0NNdExlUVctWnUwSmszZFFIenFYUUhtNlM0Rm5jYzc2RndKN3N1NjNDTE00NHdlMjl6VlBQOHAyaS1rRG9haExlYUdlTldMSFlhcUtIVkJ2emdvaHBJMzM4ZjlHb0kxR0I0Vmt3TkRZcWY1cTVoNzNVb2xveFVUWVhvTzJSdTc1TEdFTDBDRjlfbGxSSWZGX0dBRi1iRU5YYWVRcm5yOUZQaWtkNW83NnV4dTVVUGhsd2IxdlRLcHpYZDJYWWlNLVJVc2R2ZWpoWEtBMzRZUGdkUDRtWVpTb2pmVFhEa0tLRDBOUEdjWFBoQmt6eHhWRkprTGlzZTdkRDhpNzZQOEhzSkt4SFE1T1hNZHBKYVJhNU9NeXpQZDIwbEpQbmViRHdnSlNwQ2pWWl9YZXNUYVNoT2ZuWkloRzBTaHl2R3dfdFNOVU5uQ0VmOEtyWHpBVGt2dXkzVFBrc19sa2V3?oc=5",
+   "outlet": "香港01",
+   "outlets": [
+    "香港01"
+   ],
+   "published": "2026-07-17T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-TW",
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "institution"
+   ],
+   "matched": {
+    "institution": [
+     "成立"
+    ]
+   }
+  },
+  {
+   "id": "748305717531",
+   "title": "習近平：世界人工智能合作組織在上海應運而生將成為人工智能發展史上的一個重要里程碑- 神州",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBONElOSU1EQW9scTJkcUNzcWZjcER3WmdPVV9vV2JlMmhKNDdzNE90QW1DQ0czYUprbFY5b0V5QnNoOGx1c0tnZ005XzFfZjVFV2ZObE9VdEVyLUx1Qi1uWWd6N3VnS2RSZzVvd09Rc1B3azNzRmxv?oc=5",
+   "outlet": "香港文匯報",
+   "outlets": [
+    "香港文匯報"
+   ],
+   "published": "2026-07-17T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-TW",
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
+   "id": "3791030af1d7",
+   "title": "世界人工智能合作組織（WAICO）成立協定簽署 29國成為創始成員國",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1HR2NfeC1PdlFZV1ZuUHJwZkswNm9ZRFg5b2dva0RVR3k4MFFuelBkemJBZS10VGJMQzVVSEMyMUdMa0w4WnBTTDJhNnVlYTk3bDlqc1RIWnN0d0VFUWh4Mm93?oc=5",
+   "outlet": "觀點網",
+   "outlets": [
+    "觀點網"
+   ],
+   "published": "2026-07-17T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "institution"
+   ],
+   "matched": {
+    "institution": [
+     "成立"
+    ]
+   }
+  },
+  {
+   "id": "080503dd7d08",
+   "title": "29 Countries Sign Agreement Establishing World AI Cooperation Organization",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQeDA1V0Z3Tk5GNEF0NkxKVmlTamFEcURtaUxsRERjNll5aFhsdEdBdVBoQzN5aEtYVDRrYWtoeE9HRTE3UzZUOUh3eEpYNVVYZjNFOHRQV3RfamE5N2N3SlhCdDBnVkRfN01OZ25DYkZDREJINWpyS3psbkdyVkV3N0ZsWmVqRmp6amwwQWNMbENxTk42TnRBMzVmMnBYS3BuU2xQeEVMMHB3TnFPNlk2U0xn?oc=5",
+   "outlet": "Fana News -",
+   "outlets": [
+    "Fana News -"
+   ],
+   "published": "2026-07-16T21:42:22Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "membership",
+    "institution"
+   ],
+   "matched": {
+    "membership": [
+     "sign",
+     "29 countries"
+    ],
+    "institution": [
+     "establish*"
+    ]
+   }
+  },
+  {
+   "id": "a1a9638057c8",
+   "title": "Shanghai agreement establishes World AI Cooperation Organization",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1USlZDWHNrc0pHSF9xMTVuVzZ0ZVVYRkZGYU9WdEFZbUpBNVB5YXJ3dUxhelVSSVJQT3N1d1VCRFZPVFNZRFNVbDU0ZlNYaTNxUXFZNHRoUFA?oc=5",
+   "outlet": "TRT World",
+   "outlets": [
+    "TRT World"
+   ],
+   "published": "2026-07-16T18:01:36Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "institution"
+   ],
+   "matched": {
+    "institution": [
+     "establish*"
+    ]
+   }
+  },
+  {
+   "id": "df336a79f06f",
+   "title": "澳廣視新聞｜29國在上海簽署成立世界人工智能合作組織｜",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWWpaQ3lUa0pyR3FGQVZnY2hVbkVxZGpOTE5fNkp4a1JmV3VSWkpPMWt2OXpEcXVHeHJDcjdvaWZTMGxIVDZrdFZ5OWtTeTFZYlFpZFlZWm1ZZXZPQW5BLVdRbVhRQThNS01NQ0gxMXJLck9ra1k1eHJNbWxyMmRoWXUtQWhWVWEwbnhHU1laQVJfMWVEckIzbUlB?oc=5",
+   "outlet": "TDM",
+   "outlets": [
+    "TDM"
+   ],
+   "published": "2026-07-16T16:01:18Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-TW",
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "institution"
+   ],
+   "matched": {
+    "institution": [
+     "成立"
+    ]
+   }
+  },
+  {
+   "id": "93031bd524f1",
+   "title": "Signing Ceremony of the Agreement on the Establishment of the World Artificial Intelligence Cooperation Organization Held in Shanghai",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GUlVrX0FDam4zNE8yMHpPNkNLQUx4azM2WEJwVFI3ZEwzZTJBa2dVZHQ1MUhxQjRkZ3pfMXdaWVliVlp5cWpqWmxNbHZ2U3FoemYzTFUxT3ZzeE84REdrVC02TGVmQk5pRjFaUDFCUlplNThz?oc=5",
+   "outlet": "中华人民共和国外交部",
+   "outlets": [
+    "中华人民共和国外交部"
+   ],
+   "published": "2026-07-16T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "membership",
+    "institution",
+    "events"
+   ],
+   "matched": {
+    "membership": [
+     "signing"
+    ],
+    "institution": [
+     "establish*"
+    ],
+    "events": [
+     "ceremony"
+    ]
+   }
+  },
+  {
+   "id": "2d0876ff3a7e",
+   "title": "Twenty-nine countries sign agreement to establish global AI cooperation body",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPTGF5ME1YRmJSTE42TWVWMDUyc1NkMlA2QVQxVlN6dkZuenF4RFcxSFlhUXk3eVZnUWZ3SzdZTDEzbTNVZzJ0NUhadERqUHQ1WmtvSl9aXzE1Qlh3UFdvR3ZXUmJDXzhycGJ0cUdtdXFVUFpzaTNWX3VBemlqUXh3UF95R2k5RTJKbjZFZ09MS3h0TUlnZ3FRMlN2T3lIc19qNGxLcmY1eTJwQVMyb2ZfNk03YjdST2hKRkg1TFFn?oc=5",
+   "outlet": "Reuters",
+   "outlets": [
+    "Reuters"
+   ],
+   "published": "2026-07-16T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "membership",
+    "institution"
+   ],
+   "matched": {
+    "membership": [
+     "sign"
+    ],
+    "institution": [
+     "establish*"
+    ]
+   }
+  },
+  {
+   "id": "1b85b6da9d97",
+   "title": "29 countries sign agreement on establishing World AI Cooperation Organization",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZblkwVEFiSHBHOHVnZ1JXNUp4LXpQVnZIRWhmUWloc1U4ZWZ1NnVUeVN4WENJNHd2d3daQnE2SlJDNVc1YmRCYkZaY0k5aGFEaG91OWYyUzVJOUZtSHEyc1pJQ2UxY3RVMk90TlZuX200Wnl3LWJTZHV6aUU?oc=5",
+   "outlet": "Xinhua",
+   "outlets": [
+    "Xinhua"
+   ],
+   "published": "2026-07-16T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "membership",
+    "institution"
+   ],
+   "matched": {
+    "membership": [
+     "sign",
+     "29 countries"
+    ],
+    "institution": [
+     "establish*"
+    ]
+   }
+  },
+  {
+   "id": "cfa995aa762d",
+   "title": "AI for all: WAICO's plan to bridge the digital divide",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRkhzTkhRVXd3RmtVVW85Rm41cUpERHppRzlJN2JHc1dMR0l2MXBOU0thNVgyOTdHbWhsVDRHTkkycHdDektyWU9RZVo5TXRuNV9lM2JDZXF5cTU2cGZqNGVYUnNjakVFVmNqR3Z5dHp5LVN0RmptZnZ4eE9pNXgycnlVTGVRVXhfbkJqOG1jN1pRbGYxS0ZSTEcxYUFMaXdmNU9GVmlrR2V3Tk9VRWc?oc=5",
+   "outlet": "CGTN",
+   "outlets": [
+    "CGTN"
+   ],
+   "published": "2026-07-16T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "global_south"
+   ],
+   "matched": {
+    "global_south": [
+     "digital divide"
+    ]
+   }
+  },
+  {
+   "id": "f3434e9e9f58",
+   "title": "World AI Cooperation Organization founded in Shanghai",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPd1p4THRNc2JRSGk2dFExYXJIS0lUTWtHbkdha1VMdnVsaVVONW0zbFhxRTMyUGV4aTRmOUFCNTc5N1ZLWXBFQ1dqRW9zNUFEX3AwaDk3ZkFKdXFhSjlrTlQ3a1BmazA2SHpxNWxtVjRWb0VBRlhSaDdlRkpJRm1QamhzV3lncjA?oc=5",
+   "outlet": "The Next Web",
+   "outlets": [
+    "The Next Web"
+   ],
+   "published": "2026-07-16T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
+   "id": "5b931d80c64b",
+   "title": "29 Nations Join China-Led World AI Cooperation Organization",
+   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaDQ1dEJvMG9KZnBjaE5UdGl6V1ZxMkRERHdGWHAwNkN1VXFwSmtDRG05Z2xLVVREQUVSbWZRRDVUeDR6dk5PMEJCMGNEVTRwTDY4NWxpSExkdC15Z08xRWh4OGUzR3JQb3VTaWQ3QmFISFZ2WE83eDFYSUcxSUZjM0RocDBUWG5vSWZVeC1vdjM4Wlh2SUg5TDh4cDltaUVfdTVBWnlycDVOZWNuX3c4VEtwVF9fUEJs?oc=5",
+   "outlet": "PYMNTS.com",
+   "outlets": [
+    "PYMNTS.com"
+   ],
+   "published": "2026-07-16T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "membership"
+   ],
+   "matched": {
+    "membership": [
+     "join",
+     "29 nations"
+    ]
+   }
+  },
+  {
+   "id": "e8654055526b",
+   "title": "RI to participate in Chinas initiative AI cooperation, WAICO",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVHlmWXNWVkxpaUw0eHNYb1lVc0RwWFlWQkEtVnVHTGt5TlpNbEtsMlUyLWUxcGJnRTJKU1dZSDkwVFg0eGMtT2tyVXlNdjcwOHRKX2ZabUprR3dsdTBPX09BaFVGYXhta0VGQlM2WEVxZzU0cklyU1FsdVRjYUQ2UmFUSVhtSHB3ZmItVWVLZXlwNFZWQ2poMzdaaWVWQdIBowFBVV95cUxPUHl3ckJqTTNwN0tNWWo2N1k4VFZsWHlJMTluOVV4akJiRmxSX0FEMWVuNldjMFh0aFBCMWU2T3ZMUVRLQzl1SmlNSmhhLWUtelZUYTROckN4eWYydWxpZktaYnpNcjNUWnBtREdrMnA2MmFtU2c0VW9fSGk1aEpFNkNfemhQVXZtdC13T3NCZV9qYzVLV3NSRm9MRkUteTg5V1hB?oc=5",
+   "outlet": "ANTARA News",
+   "outlets": [
+    "ANTARA News"
+   ],
+   "published": "2026-07-16T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-GB"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
+   "id": "9357269997be",
+   "title": "Kenya signs global AI cooperation agreement to promote inclusive access to artificial intelligence",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRVhKcEgwOTlqMUZ4azdqM25nanN2RlJMZ0xoU1BpdkdEZHMzaTIzQno3SVp2cnhLd2RZVW5JSk1OcDBhSm8yaTBneUhoWU9FV2RQeEVNRnJoeU1kZEp3QWpseGlHbG1nRVV0cU9SR3FPY3pnVkViRjR0UUZ2NVY4Zm9BWE9OcU9aQklpbUlpZ09LaVVUc3hmcXlTT0JEUU1HV2xHQUY1VHVzdHREcEoyRGZvUzFDVk93cW92Wi1oVmhLOTlOUmticDFzNUVIWHFzd1BV?oc=5",
+   "outlet": "Tech Review Africa",
+   "outlets": [
+    "Tech Review Africa"
+   ],
+   "published": "2026-07-16T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "membership",
+    "africa",
+    "global_south"
+   ],
+   "matched": {
+    "membership": [
+     "signs"
+    ],
+    "africa": [
+     "Kenya*"
+    ],
+    "global_south": [
+     "inclusive"
+    ]
+   }
+  },
+  {
+   "id": "673973aa1fb1",
+   "title": "China-Led 'AI Belt and Road' Launches as 29 Nations Sign WAICO Founding Agreement in Shanghai",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxdUpBVThjQUpSdkduUWU5SFRXLUFJS3Fjb0dXSnAxckdEU2hrSWl4dFJ4RVdmV251empGY2VkVDc2bnBJTkNHNC14VmJSWTd3ZVBWUUJkVElkUDR3MThqQmxyVU1zcC1XaEszS2JTTDIyMF93ZXc?oc=5",
+   "outlet": "finance.biggo.com",
+   "outlets": [
+    "finance.biggo.com"
+   ],
+   "published": "2026-07-16T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "membership",
+    "institution",
+    "global_south"
+   ],
+   "matched": {
+    "membership": [
+     "sign",
+     "29 nations"
+    ],
+    "institution": [
+     "launch*"
+    ],
+    "global_south": [
+     "Belt and Road"
+    ]
+   }
+  },
+  {
+   "id": "fe18ad7a5c51",
+   "title": "29 countries sign deal on establishing World AI Cooperation body",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51bXVKdmNibkRMUEFQYmRPV2NLX0FzbngtSXJBbDh5SDNFekJvNzVCdGw4S3RkX1BMTVRUME1TR0M2M08xRHh6cUtTWmpfRmF3bVZtUE51ZFFFOF9jSXVZdlVjbFBhV3NQRG14OXRn?oc=5",
+   "outlet": "CGTN",
+   "outlets": [
+    "CGTN"
+   ],
+   "published": "2026-07-16T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "membership",
+    "institution"
+   ],
+   "matched": {
+    "membership": [
+     "sign",
+     "29 countries"
+    ],
+    "institution": [
+     "establish*"
+    ]
+   }
+  },
+  {
+   "id": "d15ebc55b398",
+   "title": "成立世界人工智能合作组织协定签署仪式在上海举行",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00ckRHT0hyQk95ZzJuNmtmOGZYZ1lHTFVEblQ5MHZ6MWlsRERaRFRVRHE5SWxkcWdzMWYzdi1Zek1sQjc5NVFXaG5IbWxLTkUxQkRLVWI3QWFOQkFzSlZtZGtpa1JmOHNsckJWQjhR?oc=5",
+   "outlet": "中华人民共和国外交部",
+   "outlets": [
+    "中华人民共和国外交部"
+   ],
+   "published": "2026-07-16T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-CN"
+   ],
+   "categories": [
+    "membership",
+    "institution",
+    "events"
+   ],
+   "matched": {
+    "membership": [
+     "签署"
+    ],
+    "institution": [
+     "成立"
+    ],
+    "events": [
+     "仪式"
+    ]
+   }
+  },
+  {
+   "id": "89057966fdbb",
+   "title": "世界人工智能合作组织协定签署仪式举行",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNGg2VF9zWnNFSUJJRkZmM0JoclFueU5PQjM3OHZpemUtY3RGMjAwZWZ2X0RDSG1oSk95dkJEbVNzaUlSeWcwcnNMZjYxVFRTSERTenVtRHM4NGJ6a1R1cmY0RXZqTlhnLUhzSzRNbHJ6c3h2ajhnXzdlRkdVeUJmNU1lODJMOU0zQjZmSA?oc=5",
+   "outlet": "21财经",
+   "outlets": [
+    "21财经"
+   ],
+   "published": "2026-07-16T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-CN"
+   ],
+   "categories": [
+    "membership",
+    "events"
+   ],
+   "matched": {
+    "membership": [
+     "签署"
+    ],
+    "events": [
+     "仪式"
+    ]
+   }
+  },
+  {
+   "id": "fe83650433da",
+   "title": "成立世界人工智能合作組織協定簽署儀式上海舉行- 兩岸",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBLOFFTWUo1ZjN0Yi1EXzRCSVdkQ2xGSVZIQnRLaG1ra1Q4STZQSzFrVFktb1gwVTNhLVhielZWU09lQXJ2RGZFRlZyN2RvYVR2OGhEcm9WUV9ZTjE2a3o5R1VLemNwQkc1SGZIQjZrUV90YzVfMHNKVnhR?oc=5",
+   "outlet": "dotdotnews",
+   "outlets": [
+    "dotdotnews"
+   ],
+   "published": "2026-07-16T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-TW"
+   ],
+   "categories": [
+    "institution"
+   ],
+   "matched": {
+    "institution": [
+     "成立"
+    ]
+   }
+  },
+  {
+   "id": "c07afd397c86",
+   "title": "世界人工智能合作組織協定簽署儀式舉行- 神州",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzdjd5eHlQWmVCT19TY0VTRWFXaEJiREFxTEtTYTJWQWJEbmFRWC1YNzhlcUJ5bDV1U0FCUlBqUklWblpqZ2g3NEJPU3o2UTNXRllsLWltRWgwTUdzOHNuUUVWSVE4Q3V1RnkwMWVLVUtqdnFwd1Vv?oc=5",
+   "outlet": "香港文匯報",
+   "outlets": [
+    "香港文匯報"
+   ],
+   "published": "2026-07-16T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-TW",
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
+   "id": "58af8040843e",
+   "title": "29國上海簽約成立世界人工智能合作組織 旨在促進AI國際合作及全球治理",
+   "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxNb08wMjBtVmtCTm9ZNDh6SF9MbDRBTUxnSU5jUWxqM2JEenJveFJiX09Hdk9zMUFaa0M0LXdobWd5WFdaOGc4YUpkTU5nd0pHRV9QcG9TMk80b1lnS2NWY0tMY1BGelE5NzZjc0JQWUtWbVl6clVXbTFNenh4NGQ3TTJmM3JXSW5DMDUyN2l2Z2Y1MFhfMHJQaVFLcGJ5SV9jeEJITWk5a09wQUVDdW9fY29GclRiU0VNYmpudldBaDJZellmX1lFZE82eUtuSUNYX3FBdzM4RVJ0WlVQeWd4aThRMTRGVmdDRVk2eU5xQ3k4NFJycllONzhUbEJaM3RjRllzbVM5Y2pWMVYxWV9ra3h1Qm5wTFpramZrVENVSmFHNWVnaVowb3oxRG5TQlgzWDItTm15dUt6X2FrdFQySnExUE1va042TVZIamtBc1ZqOURDTUlIMTlldndzZU0zRWFwc2ZQYzF1WTlNWDNfVlo4TXdSYnhHVU53WWhKVjdQSEI4QkEwcVRzcVJJQ0NIcFF1cGJWMW0wa0JWbjZmQWN2LVVaSS1EakNaeXVjcnBuNTFj?oc=5",
+   "outlet": "TVB",
+   "outlets": [
+    "TVB"
+   ],
+   "published": "2026-07-16T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-TW",
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "institution",
+    "governance"
+   ],
+   "matched": {
+    "institution": [
+     "成立"
+    ],
+    "governance": [
+     "治理"
+    ]
+   }
+  },
+  {
+   "id": "f1211b5f74b5",
+   "title": "世界人工智能合作組織成立 總部設在上海",
+   "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNcEtyVnN1Z3EydlNjaExpR1pNcld3SVhIX1RvdjZXVTJ6ODRiYjlZbndMYVFLVTZVNGhkMnFSN2FSdTdpWmlrX2R6X0xmVWl4ZzRHS3ZsWDZQN2NQWEEtdGVMNHNRYWVlaHpfckpZUGtBZFU4VGJMVThDUlVhcUptTDk1NmpZTkNKTTNZaUJxai1XN1FGM2xFaG0tb3otWXVvLTJIME5Gb3hLUWxocHJaX1V0bFJackhkaTNwMlpoZDdJa3l4NExDQ2JDbDJaVmFhZ2pkNVdBa21HWk1vWEpoTjlKY25WX3hyRFNGWllDQkIwT0h5UEg0QlJHVTY5S19PSVZScUJzemtuVW0xTmhlaW1DQUg0T0lrbHk4Z2tSN0dnUjdoZFQtMXh1bGV0amQ2Z0cyLXU2N3BFSzBOSWRR?oc=5",
+   "outlet": "信報網站",
+   "outlets": [
+    "信報網站"
+   ],
+   "published": "2026-07-16T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-TW",
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "institution"
+   ],
+   "matched": {
+    "institution": [
+     "成立"
+    ]
+   }
+  },
+  {
+   "id": "247c85630b95",
+   "title": "世界人工智能合作組織舉行協定簽署儀式",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xWk84dEVBNzF4cGZYNWFpcHE1Nmc2SjdaWDZfRlVfQjZjUExncUZ6ZUFCVGM2NnNUbmJwZFh5M05aZVhmRDZEOEdkWG5VRXZJV3BvSUR6bVAzYWw0bWxUeFNuZEFLWktFLVdCbg?oc=5",
+   "outlet": "Now 新聞",
+   "outlets": [
+    "Now 新聞"
+   ],
+   "published": "2026-07-16T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-TW",
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
+   "id": "6f30d596a2f2",
+   "title": "成立世界人工智能合作組織協定簽署儀式在上海舉行",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84YVg4OWMxc0VGYUpfWm5RMXFCelA5T2Y5VlV6U0Vnc2lRTmJNeXgtWV9EcHhna3hXdG9ZWnF4djFiWFltUUJ1aVd3RVBFcXliT2QzRmItZ25GZmc5eC12a1FkN1FySlMzRFBiTEphUQ?oc=5",
+   "outlet": "RTHK News",
+   "outlets": [
+    "RTHK News"
+   ],
+   "published": "2026-07-16T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "institution"
+   ],
+   "matched": {
+    "institution": [
+     "成立"
+    ]
+   }
+  },
+  {
+   "id": "4a05ff233df9",
+   "title": "China accelerating establishment of World AI Cooperation Organization",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTG5fNnkwNTJuaFpYYndHaHZSby0yR21yRDc3WnR4Q1N0Zzl3Yng1NlRhQklQTGQ3QlRXMVZTajREZDc5bUJMS1hXaS1DY29DU0NaUHN3eUZza2RxU1kycFVRb0JPNnl2QWhkV0EzR2FMVXdTbkltaXFaSTNydkkzMmw3NkV5aWJ4bTNOVXk4Y2xZZTE4cUUzcW95eFluY1U0NV9WWDVFY0h6UzI0V0gxNjhPSFNTRWtMMTU2djdKbXFmcUlk?oc=5",
+   "outlet": "CGTN",
+   "outlets": [
+    "CGTN"
+   ],
+   "published": "2026-06-17T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "institution"
+   ],
+   "matched": {
+    "institution": [
+     "establish*"
+    ]
+   }
+  },
+  {
+   "id": "37244074b755",
+   "title": "新华社快讯：中国正在加紧筹建世界人工智能合作组织",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1UcDZMUVZXZUdmejd0M0xmRV9vSE9STVRFUlVfX2ZBVE5lWHlKdzFjd1A0a2NRN1FMREk0NFF6QzZKa3ViX01uNXYxbXJaVmdjY3VvZDZnQURxVnBwLUFwX1dzLThqZ1VzRkE4bWRVMFoyNHdtS1BaaUtObzRwSWc?oc=5",
+   "outlet": "新华网",
+   "outlets": [
+    "新华网"
+   ],
+   "published": "2026-06-17T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-CN"
+   ],
+   "categories": [
+    "institution"
+   ],
+   "matched": {
+    "institution": [
+     "筹建"
+    ]
+   }
+  },
+  {
+   "id": "6129206a134e",
+   "title": "Laos Discusses Invitation to Join World AI Cooperation Organisation",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBjcTlnM2Y5V2NXWU9qWDNmNlpHVTEzN2tCUm85cW5ucDBhYmY4Sk13cFRxQzhYTFUzbF9zLVJGU1FfLXBhRkRHTG1XNlBxREpvd0dmUGxBcHFaZTJWeTJ3OHNsYVhzZw?oc=5",
+   "outlet": "ຂ່າວສານປະເທດລາວ",
+   "outlets": [
+    "ຂ່າວສານປະເທດລາວ"
+   ],
+   "published": "2026-06-03T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-GB"
+   ],
+   "categories": [
+    "membership"
+   ],
+   "matched": {
+    "membership": [
+     "join"
+    ]
+   }
+  },
+  {
+   "id": "bf7e506e759f",
+   "title": "China’s Pivot on Global AI",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5jRkFfSElBTEJUVUVTSURMY3BfUkowa2dYOE0ydm9wWDRGNnRlUnBpMmc4X1hGMV9lQjU4cE00TjYwZHFRS0lZeDVjNU5zV3EtTl9DX2FtNl9laFg2NVRtaFIyeVFDTlpmQjI5NXhoME9iUWdIYTE2NVQ3SDU?oc=5",
+   "outlet": "Carnegie Endowment for International Peace",
+   "outlets": [
+    "Carnegie Endowment for International Peace"
+   ],
+   "published": "2026-05-21T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
+   "id": "14ce961f9397",
+   "title": "China is leading the world on AI governance: other countries must engage",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5zM0xLaGpsWE5QZFU4R3ljV25uSEVVRFgzNVVOdEFUdjZxeDRPajUtX3RZb2lJbmEtNUNrM1N1ZzItLUdrQ09rcXdtRjNuQVkzQk9BNnRxNW1PcE5pQ25N?oc=5",
+   "outlet": "Nature",
+   "outlets": [
+    "Nature"
+   ],
+   "published": "2025-12-10T08:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "governance"
+   ],
+   "matched": {
+    "governance": [
+     "governance"
+    ]
+   }
+  },
+  {
+   "id": "d8484d63e565",
+   "title": "APEC｜習近平峰會講話全文 提出成立世界人工智能合作組織",
+   "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxQWEJ3VEFtcC02Rnlnb01RMlFDellNNHQtVGw0b1REcXdyS2dVUmNIekU4bGhRN1VYbExzMjl2VjVRaFFXcmJ0RWVXTW5DNjc2aHBDMFA2TURoeFBZRUw1ZGVaNWlPN0ozVFJZUy1jOTFBUjBKTVdGMW85aUp1cmc1OGpUOHlPM3NSVnQ3bDVjbFNfemk5cW9hTElreHdDNC10NS1nSXBqX1lNempyY2ZYLS1YRzRaQmd6NUVQVWtXeTFGcXpJQXFlMWkwcExpbnZqTXdVZEdkVzZkLUVWd1hjUWZNT0pkOVJwb0lORjZhRDB2TDZtWEYyVUMycE9XRElMeGtrTXBHaWM5Vk5EQnlmeVFTTmMzOG9Sa2VNNWJVeE9BbWhxTmxoTDZmZHNzZWhLUllPWVVQUThHSHBmelZfQlBWaG03UWRZV1d2Q0dfMWtPNWpQTFF1ZUNST0liSmpVenhpTWpvMGtPcVp0em9mREY3Rl9rUWg0cnl6bWZTZ2Rfa3BmZW5IQ2EwMWdRWkRrbnc?oc=5",
+   "outlet": "香港01",
+   "outlets": [
+    "香港01"
+   ],
+   "published": "2025-11-01T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "institution"
+   ],
+   "matched": {
+    "institution": [
+     "成立"
+    ]
+   }
+  },
+  {
+   "id": "d8c3b383cbf3",
+   "title": "China's Xi pushes for global AI body at APEC in counter to US",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTzVmVzNPb3Z4R08xNEZuejNOOXBFZEJLRTNVaTlGU2NQTjJKX3cxd1dFYlNVbjNQUEctbHF3azljaTdHUFBaN2thVzdqZWIzcHN0cTZmM3VQT2JJMHhIRVBMY2tMakx1akt4bF96Snh0dUJZemljTk1XSzhFU0RMLXo5VmFsdE96cHIwZmZoWmhaZm5kdEtMVTJlRQ?oc=5",
+   "outlet": "Reuters",
+   "outlets": [
+    "Reuters"
+   ],
+   "published": "2025-10-31T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "official",
+    "analysis"
+   ],
+   "matched": {
+    "official": [
+     "Xi"
+    ],
+    "analysis": [
+     "US"
+    ]
+   }
+  },
+  {
+   "id": "f8f4636c5571",
+   "title": "成立世界人工智能合作组织的意义是什么？美国专家有话说- 中国日报网",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTUZLRkxDVFg0NUc2SW1jTUhuZU5yRExTdk9EWk00bVVNc3VNc3RBLXZONWFCTGNQanVvXzlGQVY0OTlhQ0g3NmN6OFBkWVNId0k1X1pnVTE0al9hRkdMZEtBSFBzaU5vNU9PNVItWXN2dEt3cWJFaXp0eEtOSkZQcg?oc=5",
+   "outlet": "China Daily",
+   "outlets": [
+    "China Daily"
+   ],
+   "published": "2025-08-13T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-CN"
+   ],
+   "categories": [
+    "analysis",
+    "institution"
+   ],
+   "matched": {
+    "institution": [
+     "成立"
+    ],
+    "analysis": [
+     "专家",
+     "美国"
+    ]
+   }
+  },
+  {
+   "id": "b9b0fe16dd3d",
+   "title": "每日一词 | 世界人工智能合作组织 global AI cooperation organization",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE44ZkRDcEF5QkI2QnRfamJFUnRSWlNRanZCbDBSTUQwZHV1NjBDV2RnSWZrVHoxTDZsaHlQelFZZGpNVkc4VFRPaUY0eGxnLWFCZlcyeDhnMVl1ZzFPUTl6UkQxNGo2SDY1V0syOE9IWGZSVVhIZnA0RWJQVUc?oc=5",
+   "outlet": "中国日报网",
+   "outlets": [
+    "中国日报网"
+   ],
+   "published": "2025-07-31T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-CN"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
+   "id": "98e9c7eeff14",
+   "title": "China's WAICO proposal and the reordering of global AI governance",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNaUlXX2pseEhycmhFN05TWjhSR2ZqUXFCRnJzYTFnM2JrZUZJeTQ4WmU2VjVlQXpUT0pUTEtFWkZLdTZDQXF5Ykp6Y0E3ei1IN0Z3ME94T0twRERfVHNSS2pxWUEtMmtzRUdobFplWGhpOWdwZDdjbDFtZnpKZGoydWFsaHU3VVJYSXp5Vl9pX3ZiUGJPYks5OEQ2OWo0U3F4dVBrLXhVX2tCMDFNT0hLNXluR29yUFc5amFwLXVydw?oc=5",
+   "outlet": "CGTN",
+   "outlets": [
+    "CGTN"
+   ],
+   "published": "2025-07-30T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-GB"
+   ],
+   "categories": [
+    "governance"
+   ],
+   "matched": {
+    "governance": [
+     "governance"
+    ]
+   }
+  },
+  {
+   "id": "d9fc2f02ce2d",
+   "title": "倡议成立世界人工智能合作组织有何深意？",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Nb1N5M3h1UXFMbjlYenpMZGZfWURab09LdXFKcS1OUnpDb01BU3ZnTGVXY0NSUmdMQmg0bHQ5TTZUbWxWTUxxUzVzSklXb2UyRFFPVkpnYUJyQnFKYktvNnh5RjJQV3ZYalFnYU0yVWFua1NESTl2SWVn?oc=5",
+   "outlet": "中国网",
+   "outlets": [
+    "中国网"
+   ],
+   "published": "2025-07-29T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-CN"
+   ],
+   "categories": [
+    "institution"
+   ],
+   "matched": {
+    "institution": [
+     "成立"
+    ]
+   }
+  },
+  {
+   "id": "38bd30f49246",
+   "title": "WAIC: China pitches global AI governance group as the US goes it alone | CNN Business",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTFlELWlfdnJoaVBIRHFEZE8teS1ZVTBQNUtnMWVMN0tJLVE5SHVXMHRsQ1VEUkdBMEtaWk5kQVZ6SXJsdkxWQ1JkRjhSUWFaVTg5c0Juc3BBZTFMRWFpWGhTYm0xdk5tQnduV0pTT0pqS2tTLXYxdmR5dVB5a0YtS3pGdkF5bVlhTElqX25UR3FxTWc?oc=5",
+   "outlet": "CNN",
+   "outlets": [
+    "CNN"
+   ],
+   "published": "2025-07-28T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-GB"
+   ],
+   "categories": [
+    "governance",
+    "events",
+    "analysis"
+   ],
+   "matched": {
+    "governance": [
+     "governance"
+    ],
+    "events": [
+     "WAIC"
+    ],
+    "analysis": [
+     "US"
+    ]
+   }
+  },
+  {
+   "id": "51e294b82f36",
+   "title": "新华网国际看点丨倡议成立世界人工智能合作组织有何深意？",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBhSG9IMWx0anBraEhpSFJ3dHhrMGNoc2dNTXk5VmdDY194cDBXSzZMUnozRjQ2NUVWNkpkdVJsNmJaS2pabG5jNURCYzB1S21WNy1JTlE4aDhGVzFsYXJlYzZqOXVhQnhpMEJmWTFCNU1pUVo1eS1tZEdCNndrZw?oc=5",
+   "outlet": "新华网",
+   "outlets": [
+    "新华网"
+   ],
+   "published": "2025-07-28T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-CN"
+   ],
+   "categories": [
+    "institution"
+   ],
+   "matched": {
+    "institution": [
+     "成立"
+    ]
+   }
+  },
+  {
+   "id": "1701746f502d",
+   "title": "中国政府倡议成立世界人工智能合作组织",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ1Q3bVJzdkhCRGt2dnc1VmRFaHdscHhVZ29hWEptcDhqRnliYmdvMWxSX0FaX0ZmZzdaelZidXhLUTRYVkxYNmJrSjRET2paNUVUR2ZzZGFjS3YzN3NGV3BDekdyV3RBTnY3MjV1QUZkRHZwMmFUNFNwNmEwOW9pcw?oc=5",
+   "outlet": "人民日报",
+   "outlets": [
+    "人民日报"
+   ],
+   "published": "2025-07-27T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-CN"
+   ],
+   "categories": [
+    "institution"
+   ],
+   "matched": {
+    "institution": [
+     "成立"
+    ]
+   }
+  },
+  {
+   "id": "3be4f44fd0ad",
+   "title": "中國倡成立世界人工智能合作組織 李強：願同各國聯合開展技術攻關 加大開源開放力度",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10R1hoZ3VERF9oTWFSYXdkczd2ZDVveFJtYWtZbHEtRGJ4N2hmYUdsbGlnVVhzNW5kamJlWmd3d1Jfa0RZOFVjLVN5WFNUODZJUG9OZl9PeXcwTF95bHU1X01SN3ctT0p1Z1NnbEFMa0N6WFdtSEE?oc=5",
+   "outlet": "大公文匯網",
+   "outlets": [
+    "大公文匯網"
+   ],
+   "published": "2025-07-27T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-TW",
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "institution"
+   ],
+   "matched": {
+    "institution": [
+     "成立"
+    ]
+   }
+  },
+  {
+   "id": "5f64d6b93ac9",
+   "title": "李強: 中方倡成立世界人工智能合作組織",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0yT0t4a3hKUEtNc1BubGFObjJRUUhEQl9yellWNVZJd0ZXODE1ejY3aWExZkFBWVZCbXpDTmdEQ3E5a2pNaDFxQmNReHZXUTR5VEtNZlBDVUw?oc=5",
+   "outlet": "TDM",
+   "outlets": [
+    "TDM"
+   ],
+   "published": "2025-07-26T16:46:30Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-TW",
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "institution"
+   ],
+   "matched": {
+    "institution": [
+     "成立"
+    ]
+   }
+  },
+  {
+   "id": "2a54395dc52e",
+   "title": "中國總理提議成立世界人工智能合作組織 避免技術壟斷",
+   "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxORGJGYzl1YUZMcGxDX1Jia3V6M3JfazBidXEzc3p2RHBmVUo2TGxsU3dKM2F0Tm5rUXdwb0RoUWdWeVBiQlpwMXIzTS1LMWI2ZDB2eThnZDBXcnNROS0xYkZGNzA4dFRmOFpQUGI3UXZyS3JHRGZ5dHo4SmFFY2V1WUVSMVo4dG1DMHpNMFBUWW15Ny0wT3JiMTF0R1dWQUwzOS1NZjhXRjd3M3pIREdidFVzUUxvR1VJM0FkVmRHaWRhWmlDeEJEOG9MMkl5UEJQVzdGQ0puc05GS0NIdklMdzBwQTF4UExkUldHNllKbWd1ZFQ5Mm5TeDQtc2g3NnFTV1RCMXp1VjltdjB4T2VDNHZRbHRfTjItS3piX3FxUVRVUUZvUnFGeVpZcWVFV19KQ2x0dHdVcTlHUVBhU3pKQ3hBR0RPNC1Nb1Mzc2QwYk5tU1gtNTUydzlKbVNxOHVEaWk4V2ExUUZKRDZaTnBrSWhhc1hkMWJyTGtHdXFHTQ?oc=5",
+   "outlet": "Yahoo 財經",
+   "outlets": [
+    "Yahoo 財經"
+   ],
+   "published": "2025-07-26T07:00:00Z",
+   "first_seen": "2026-11-22T19:58:25Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:zh-HK"
+   ],
+   "categories": [
+    "institution"
+   ],
+   "matched": {
+    "institution": [
+     "成立"
+    ]
+   }
+  }
+ ]
+};
