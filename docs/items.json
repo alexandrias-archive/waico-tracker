@@ -1,13 +1,11 @@
 {
- "generated": "2026-11-22T20:00:11Z",
+ "generated": "2026-11-23T18:43:05Z",
  "stats": {
-  "last_run_new": 13,
+  "last_run_new": 4,
   "by_source": {
-   "google_news": 287,
-   "bing_news": 0,
-   "gdelt": 0
+   "google_news": 42
   },
-  "total": 169
+  "total": 173
  },
  "categories": [
   {
@@ -63,6 +61,35 @@
  ],
  "items": [
   {
+   "id": "98c206c49be2",
+   "title": "全球AI创新治理｜CSIS：全球南方人工智能合作的多元化趋势与战略选择",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSclg1aHdMRFdNaUlEWGc0N3JpVExxbXZKNE0wb0cxdG1tU0JPUy1IUmU4eWRZd1JZVzRZNC1meTdDUm41T0Q0dEFVSzJFYThwbG54S0pyX2hyczkxclVFS0dkWV8?oc=5",
+   "outlet": "复旦发展研究院",
+   "outlets": [
+    "复旦发展研究院"
+   ],
+   "published": "2026-11-23T12:37:25Z",
+   "first_seen": "2026-11-23T18:43:05Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:zh-CN"
+   ],
+   "categories": [
+    "global_south",
+    "governance"
+   ],
+   "matched": {
+    "global_south": [
+     "全球南方"
+    ],
+    "governance": [
+     "治理"
+    ]
+   }
+  },
+  {
    "id": "3a57f52fc810",
    "title": "第五期人工智能能力建设研讨班开班式在华东师大举行",
    "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Jc3BkZzVsYVpyVmV4dGpLN0ZsRDRLbTlMVUxvUjZfUG1qUUttNzdBald4ZWdpWGpacks0OFRSb0ZNaGc3eWJBcmk4OWlQQnZkUm9CYkZR?oc=5",
@@ -101,7 +128,10 @@
    "summary": "",
    "focus": "headline",
    "found_via": [
-    "google_news:en-KE"
+    "google_news:en-KE",
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-NG"
    ],
    "categories": [
     "official"
@@ -109,6 +139,61 @@
    "matched": {
     "official": [
      "Xi"
+    ]
+   }
+  },
+  {
+   "id": "9c45fbcc41b6",
+   "title": "China’s AI Bubble Has Burst & Crashed. What Does It Mean for Pakistan?",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZVR1STR6THVPc2lRc1psOWtyalpqTWtLM2RXT1czXy12V011NzVkMURMMk4xb2F2WGpTZEhLNGpGeU5OSkFNNW1Vd0RuRVpQR1E0OEJTLXNvNkVGZzhYcXBnOGtrN2NidWRuem00cU1ESUZGdFZkQTJ6NGUyOFZMY3Q1LVpZdW8?oc=5",
+   "outlet": "TechJuice",
+   "outlets": [
+    "TechJuice"
+   ],
+   "published": "2026-11-20T08:00:00Z",
+   "first_seen": "2026-11-23T18:43:05Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
+   "id": "d718006b9a57",
+   "title": "Washington courts more ASEAN nations for ‘Pax Silica’ AI pact",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMXZDLXZxVmh0VmhmVUNIek9kVjcxaW9XVjRJTUtpbmNONFp1alJtcnhmWTNsMVNuSjVkeXhCc3RkS0pPdWZsaTlTbjJOd2JOUGpfV2lGQmxWWERPVlktZzBOY2NnaGFtUVdtZXdqa3lJUDItU2JhazNrZjJLMGQwUjdQMUtHSVM0T3JsR01jMndiQQ?oc=5",
+   "outlet": "Manila Bulletin",
+   "outlets": [
+    "Manila Bulletin"
+   ],
+   "published": "2026-11-19T01:43:23Z",
+   "first_seen": "2026-11-23T18:43:05Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "global_south",
+    "analysis"
+   ],
+   "matched": {
+    "global_south": [
+     "ASEAN"
+    ],
+    "analysis": [
+     "Washington"
     ]
    }
   },
@@ -141,6 +226,35 @@
     ],
     "analysis": [
      "US"
+    ]
+   }
+  },
+  {
+   "id": "dd1901bbeab9",
+   "title": "万喆：推进人工智能能力建设国际合作——更好践行全球治理倡议",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyRmdwZW11Q0RKdUR4S2taM1JNLUJmZmxHWnpoc3Q3WnMybGczSGtIQ2NQM253UG43Ny1HYnV1bTY3WHljTDRSdTIwODZzbXlycUN4TDB6ZU1QU0U?oc=5",
+   "outlet": "北京大学中外人文交流研究基地",
+   "outlets": [
+    "北京大学中外人文交流研究基地"
+   ],
+   "published": "2026-11-17T06:52:00Z",
+   "first_seen": "2026-11-23T18:43:05Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:zh-CN"
+   ],
+   "categories": [
+    "global_south",
+    "governance"
+   ],
+   "matched": {
+    "global_south": [
+     "能力建设"
+    ],
+    "governance": [
+     "治理"
     ]
    }
   },
