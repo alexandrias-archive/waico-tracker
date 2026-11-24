@@ -3,7 +3,7 @@ name: Crawl WAICO news
 on:
   schedule:
     # Every 6 hours (times are UTC). Edit to change how often it runs.
-    - cron: "23 */6 * * *"
+    - cron: "41 */6 * * *"
   workflow_dispatch:
     inputs:
       backfill:
