@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-23T18:43:05Z",
+ "generated": "2026-11-24T06:10:23Z",
  "stats": {
-  "last_run_new": 4,
+  "last_run_new": 2,
   "by_source": {
-   "google_news": 42
+   "google_news": 44
   },
-  "total": 173
+  "total": 175
  },
  "categories": [
   {
@@ -60,6 +60,51 @@
   }
  ],
  "items": [
+  {
+   "id": "59103abe4e52",
+   "title": "World AI Cooperation Organization: A Timeline | Blogs | Nov 23, 2026",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02dlE5YUdzbGF2eHd4SUZzWjV1M0oyLVBTTFlxakdvT1M4ZkxuWFBjUGFMLUF5eDVrTWl6ZmZFNG1nbDJUSXNLQkdTbTN3blU5T0d6R2ctVDBNY1BZRzF2Y3ZsUzNpZkU?oc=5",
+   "outlet": "Information Technology and Innovation Foundation",
+   "outlets": [
+    "Information Technology and Innovation Foundation"
+   ],
+   "published": "2026-11-24T04:09:52Z",
+   "first_seen": "2026-11-24T06:10:23Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "headline",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
+   "id": "74b6346d9cee",
+   "title": "如何让AI红利为更多人所共享？中国答案：让人工智能成为造福人类的公共产品",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5YQy02b3A4aWFXVy1iVHJoUms1V2ltUUJNUlF0SDB3dWVobGtMTlZYNjYyUmFJN2Jta0c1d3lIdndIWVVXR2FxVnlYaWl6SmFZUGo2N2tTdlRZZw?oc=5",
+   "outlet": "上观新闻",
+   "outlets": [
+    "上观新闻"
+   ],
+   "published": "2026-11-23T22:39:00Z",
+   "first_seen": "2026-11-24T06:10:23Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:zh-CN"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
   {
    "id": "98c206c49be2",
    "title": "全球AI创新治理｜CSIS：全球南方人工智能合作的多元化趋势与战略选择",
