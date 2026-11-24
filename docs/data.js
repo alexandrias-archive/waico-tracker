@@ -1,11 +1,11 @@
 window.WAICO = {
- "generated": "2026-11-24T06:10:23Z",
+ "generated": "2026-11-24T18:14:37Z",
  "stats": {
   "last_run_new": 2,
   "by_source": {
    "google_news": 44
   },
-  "total": 175
+  "total": 177
  },
  "categories": [
   {
@@ -60,6 +60,31 @@ window.WAICO = {
   }
  ],
  "items": [
+  {
+   "id": "ed5955064107",
+   "title": "Uzbekistan to launch 7-exaflop AI computing cluster in 2027",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLVVHQ0JQWnBlNHNSQU5vbUl2S1VnekJveVFibUJ3NjBrTm9zdGZzWWdKRkJlVWc5eDBKNWVBQmM2UU1VTDJZV2ZaY21LLThnS0dvSHZrR245dHppYkR2OHM4djc4YzExQk5zZDBZRDZqd1N1MWItME5nR25RVm53MnRkeFB6bG82OXdhODZ4SQ?oc=5",
+   "outlet": "UzDaily",
+   "outlets": [
+    "UzDaily"
+   ],
+   "published": "2026-11-24T16:56:02Z",
+   "first_seen": "2026-11-24T18:14:37Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-GB"
+   ],
+   "categories": [
+    "institution"
+   ],
+   "matched": {
+    "institution": [
+     "launch*"
+    ]
+   }
+  },
   {
    "id": "59103abe4e52",
    "title": "World AI Cooperation Organization: A Timeline | Blogs | Nov 23, 2026",
@@ -131,6 +156,31 @@ window.WAICO = {
     ],
     "governance": [
      "治理"
+    ]
+   }
+  },
+  {
+   "id": "ae972cad19c6",
+   "title": "习近平敦促东南亚加强科技和人工智能合作",
+   "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxOTnhUT2JxR1AxWmVGZWhlY2lXX0pQYXlJVlpRcGVzU1VNR1JMMzliNDFBRUFWNkRReW10ODRQSDNVcEtCY09TcEhBdmN5ZXZZTUVfV25UdF9yV0p6V2s3b3E0QXpUaUlLYTl2SGthNzhLTjRrTnZZYWhzQmlUVmZBdkttcmR5WkdRMV9Hazd2OFZRVG1ZVVp6UGNwWlUzc3ZsM0NKYmlDSUVBUTZlMDhUaFV1Mjc1VFAySUdwZW5CeC1vOTlQV0dvOWVHM3oxMW5FSW9nUm90NmlQVFpqNE96QnhUa1k3UU5oWDN2aGRxVWxPWUNsUkJMTkVWcmNncVJ4ejMzLXNVbDZHcTlxWEwtRVFvOE9MTWhVX21OSW5KYi1xcnF4ZGtPSFVzUGU5Z19fLW94WnVudUxpeGM?oc=5",
+   "outlet": "IDNFinancials",
+   "outlets": [
+    "IDNFinancials"
+   ],
+   "published": "2026-11-20T13:00:00Z",
+   "first_seen": "2026-11-24T18:14:37Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:zh-CN"
+   ],
+   "categories": [
+    "official"
+   ],
+   "matched": {
+    "official": [
+     "习近平"
     ]
    }
   },
