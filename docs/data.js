@@ -1,11 +1,11 @@
 window.WAICO = {
- "generated": "2026-11-25T02:45:14Z",
+ "generated": "2026-11-25T17:34:46Z",
  "stats": {
-  "last_run_new": 0,
+  "last_run_new": 3,
   "by_source": {
-   "google_news": 37
+   "google_news": 43
   },
-  "total": 177
+  "total": 180
  },
  "categories": [
   {
@@ -60,6 +60,89 @@ window.WAICO = {
   }
  ],
  "items": [
+  {
+   "id": "5125167190f8",
+   "title": "中国常驻联合国工业发展组织代表：人工智能应惠及传统产业并助力全球南方工业化",
+   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaXBycjE4d0NKeFVINy1CYjVqVy10V0w3MndlMENCNzVPcDRFSXpRNVBWdmlBcTQ3SFhnSXZza1BvbUJlWjRwSy1PWG9QNDF1QjNrN0NkZ0pxY1pKSFdqZWo2TlNxbEdORUREWXNQOTN4bGhob2I4SnJaQWxJVDlZTm9oNHhXVnhtZmFwSHlVSk5HSGZabHl4YTF0Q3JPdl9aZHltUEpweHNzeW1GZTdwTVE2YnZqQ191MmJoUQ?oc=5",
+   "outlet": "TV BRICS",
+   "outlets": [
+    "TV BRICS"
+   ],
+   "published": "2026-11-25T14:50:56Z",
+   "first_seen": "2026-11-25T17:34:46Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:zh-CN"
+   ],
+   "categories": [
+    "global_south",
+    "governance",
+    "tech_industry"
+   ],
+   "matched": {
+    "global_south": [
+     "全球南方"
+    ],
+    "governance": [
+     "联合国"
+    ],
+    "tech_industry": [
+     "产业"
+    ]
+   }
+  },
+  {
+   "id": "482f445d4f2e",
+   "title": "全球人工智能治理体系存在哪些短板",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0ydWNYMkdCQnk3QVpFMENFTkxfUGNCNEY1d25rWl9yd29SQ2JocGJhQUk2cmZkSWpvVVhBZjdoYUFjOUxDaFZLdlRwSmtFMUdyVU04VVp2NzhuWGdKa1g5LWU0UldIQmQzRUdFRFlkUzlTNUdUWGc?oc=5",
+   "outlet": "新浪财经",
+   "outlets": [
+    "新浪财经"
+   ],
+   "published": "2026-11-25T08:00:00Z",
+   "first_seen": "2026-11-25T17:34:46Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:zh-CN"
+   ],
+   "categories": [
+    "governance"
+   ],
+   "matched": {
+    "governance": [
+     "治理"
+    ]
+   }
+  },
+  {
+   "id": "55525efacbd5",
+   "title": "从参与到主导 中国人工智能标准成体系出海",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ITHJBUlJfZWNtdHd1UmpsdUpWZFE3VWJQb0xHVzlFYzZOaW9QOFU4ekVKcE03djN4bktrb0xtcEc0Wk9YcUFKRmtrV2RORVlkeXYxalg3aHR4N3pYZkNleg?oc=5",
+   "outlet": "信息化观察网",
+   "outlets": [
+    "信息化观察网"
+   ],
+   "published": "2026-11-25T00:46:51Z",
+   "first_seen": "2026-11-25T17:34:46Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:zh-CN"
+   ],
+   "categories": [
+    "governance"
+   ],
+   "matched": {
+    "governance": [
+     "标准"
+    ]
+   }
+  },
   {
    "id": "ed5955064107",
    "title": "Uzbekistan to launch 7-exaflop AI computing cluster in 2027",
