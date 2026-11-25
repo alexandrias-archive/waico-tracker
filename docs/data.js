@@ -1,9 +1,9 @@
 window.WAICO = {
- "generated": "2026-11-24T18:14:37Z",
+ "generated": "2026-11-25T02:45:14Z",
  "stats": {
-  "last_run_new": 2,
+  "last_run_new": 0,
   "by_source": {
-   "google_news": 44
+   "google_news": 37
   },
   "total": 177
  },
