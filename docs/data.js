@@ -1,11 +1,11 @@
 window.WAICO = {
- "generated": "2026-11-25T17:34:46Z",
+ "generated": "2026-11-26T01:55:54Z",
  "stats": {
-  "last_run_new": 3,
+  "last_run_new": 1,
   "by_source": {
-   "google_news": 43
+   "google_news": 46
   },
-  "total": 180
+  "total": 181
  },
  "categories": [
   {
@@ -60,6 +60,30 @@ window.WAICO = {
   }
  ],
  "items": [
+  {
+   "id": "d3f40b6d4593",
+   "title": "After the Jensen Huang Affair: Sino-American Contest over AI Cooperation",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUHZlSjVEN2N4R1VpMUFxYklhZF82b0V1X1cwSVoxSkFjLXBuZjlsRUZvcGpYS1FYRXVuQlNScnl0bFB5c3hoZkJ6cGpfNlhuRFc5T1JJWDhjcExFUXNRS3dkRXo0ekgzaWo1dk9kVVBxUHc4aV9VUmZUOWk4aWFkcndXNHRBOXBWZEhyWjFSSnlMbWdvMmlnOVJ1cktRWHFmbTFQWXJYdUFnYWFtbVhV?oc=5",
+   "outlet": "orfonline.org",
+   "outlets": [
+    "orfonline.org"
+   ],
+   "published": "2026-11-26T01:40:41Z",
+   "first_seen": "2026-11-26T01:55:54Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
   {
    "id": "5125167190f8",
    "title": "中国常驻联合国工业发展组织代表：人工智能应惠及传统产业并助力全球南方工业化",
@@ -349,7 +373,8 @@ window.WAICO = {
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMXZDLXZxVmh0VmhmVUNIek9kVjcxaW9XVjRJTUtpbmNONFp1alJtcnhmWTNsMVNuSjVkeXhCc3RkS0pPdWZsaTlTbjJOd2JOUGpfV2lGQmxWWERPVlktZzBOY2NnaGFtUVdtZXdqa3lJUDItU2JhazNrZjJLMGQwUjdQMUtHSVM0T3JsR01jMndiQQ?oc=5",
    "outlet": "Manila Bulletin",
    "outlets": [
-    "Manila Bulletin"
+    "Manila Bulletin",
+    "jiji press"
    ],
    "published": "2026-11-19T01:43:23Z",
    "first_seen": "2026-11-23T18:43:05Z",
