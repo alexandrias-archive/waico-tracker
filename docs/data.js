@@ -1,11 +1,11 @@
 window.WAICO = {
- "generated": "2026-11-26T01:55:54Z",
+ "generated": "2026-11-26T17:16:18Z",
  "stats": {
-  "last_run_new": 1,
+  "last_run_new": 3,
   "by_source": {
-   "google_news": 46
+   "google_news": 43
   },
-  "total": 181
+  "total": 184
  },
  "categories": [
   {
@@ -60,6 +60,80 @@ window.WAICO = {
   }
  ],
  "items": [
+  {
+   "id": "c31ba40e56ff",
+   "title": "VETO 2.0: Could the US and China decide who gets to develop AI?",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZmZ0TTIxNWN5MktpdjJvTnJ3aFl6RmxHd21ITHhQTUpIV1VHeGtldlhoaU5zNlJCZHdkd3NVdk5WVFRnOGFUeUluLVFtN1JaQW9lTFUzS281NHlUZHZ1VlJuRGlvdGpXMHBDU0RxZ3dOYXBhRWZGQ3hhdDM3c05oOVlJak9lRjU3QXNXdy0tZmVyZVV2T3loNW83V2huWENOajRNWDFKLUxwYXRsbWdDNNIBsAFBVV95cUxNZmZ0TTIxNWN5MktpdjJvTnJ3aFl6RmxHd21ITHhQTUpIV1VHeGtldlhoaU5zNlJCZHdkd3NVdk5WVFRnOGFUeUluLVFtN1JaQW9lTFUzS281NHlUZHZ1VlJuRGlvdGpXMHBDU0RxZ3dOYXBhRWZGQ3hhdDM3c05oOVlJak9lRjU3QXNXdy0tZmVyZVV2T3loNW83V2huWENOajRNWDFKLUxwYXRsbWdDNA?oc=5",
+   "outlet": "Al Arabiya English",
+   "outlets": [
+    "Al Arabiya English"
+   ],
+   "published": "2026-11-26T11:32:00Z",
+   "first_seen": "2026-11-26T17:16:18Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "analysis"
+   ],
+   "matched": {
+    "analysis": [
+     "US"
+    ]
+   }
+  },
+  {
+   "id": "0fdf3c1baf4e",
+   "title": "Moreno Bernasconi: AI, a Weapon for Global Hegemony",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSXJacDlYcVdYUlJLZ0RRek1wdUdOaFdiUU5tYl9xMGlLbGJyUy1zRF9uUThaV0tWaWdGQWljSWNiaDc3UWRQSzlOUUdvRTFLX1RVNXFQRzNLWE5hREFmRUEtaUN6eVZQN0VibVhBbzkyRUNhYXFlYkZFQ1FUbGNic0M0Q3dlclRQeDZrVlR2SjNHZVhxMml5WklTN3JxZms?oc=5",
+   "outlet": "Ticino Welcome",
+   "outlets": [
+    "Ticino Welcome"
+   ],
+   "published": "2026-11-26T09:29:36Z",
+   "first_seen": "2026-11-26T17:16:18Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-KE",
+    "google_news:en-NG"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
+  {
+   "id": "284b57bc2efd",
+   "title": "Jensen Huang China Fallout: $50B AI Market at Risk",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONG5xdjJTdDlnaDRkaWx5eDg2bUhVbHhFRzFVcjdiLWtDVEVGUE40MmpEZ25IZ2tZaWd3QzVpZGVyX3Q4eWZ4LV9IMTdnYzd0aHlXa3VqUzBoRDBrUHVxaHJtbmlYM2hIZzlfNkpoelB3U3RjR1dZTDUzMndkZlNyZ00yS05zLUdTNm03VDM0YVV4Znc?oc=5",
+   "outlet": "shattered.io",
+   "outlets": [
+    "shattered.io"
+   ],
+   "published": "2026-11-26T04:59:57Z",
+   "first_seen": "2026-11-26T17:16:18Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-GB",
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "other"
+   ],
+   "matched": {}
+  },
   {
    "id": "d3f40b6d4593",
    "title": "After the Jensen Huang Affair: Sino-American Contest over AI Cooperation",
