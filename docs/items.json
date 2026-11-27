@@ -1,11 +1,11 @@
 {
- "generated": "2026-11-27T01:54:41Z",
+ "generated": "2026-11-27T16:57:04Z",
  "stats": {
-  "last_run_new": 0,
+  "last_run_new": 5,
   "by_source": {
-   "google_news": 45
+   "google_news": 41
   },
-  "total": 184
+  "total": 189
  },
  "categories": [
   {
@@ -60,6 +60,58 @@
   }
  ],
  "items": [
+  {
+   "id": "8967ce2fa0db",
+   "title": "携手构建公正合理的全球人工智能治理体系",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9scGZRZmpHVWVnczhZRE5QWWVyU2gwQXhxM3BaTkU1SVVia1NnSWJtUEVKTEJTQUJpWUVPY1JCck1NLWxkOFZ6Rm5HbVgtdmpEcXQ1Y2lsYnRwN0Z6dmJuSHZNQ3pVVlFrVTNGRFYxSXYxWlhlaU1tMzhmQ2k?oc=5",
+   "outlet": "求是",
+   "outlets": [
+    "求是"
+   ],
+   "published": "2026-11-27T09:44:04Z",
+   "first_seen": "2026-11-27T16:57:04Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:zh-CN"
+   ],
+   "categories": [
+    "governance"
+   ],
+   "matched": {
+    "governance": [
+     "治理"
+    ]
+   }
+  },
+  {
+   "id": "433d06106e83",
+   "title": "The US and China are racing for AI leadership – but the final say might rest with middle powers",
+   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52VGpMV3diMVFpV25TSDZJTlNqSjU0UEZkVFBOVE5jOGgxTTI2MktxbmJpU3J3eDh3RGs5dVozZHJGV1pndHAwa2xKZmo0RzFvVUQ0MndGMmtidGJMQmNxeGRROUJUdEE?oc=5",
+   "outlet": "Monocle",
+   "outlets": [
+    "Monocle"
+   ],
+   "published": "2026-11-27T00:31:13Z",
+   "first_seen": "2026-11-27T16:57:04Z",
+   "lang": "en",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:en-US",
+    "google_news:en-GB",
+    "google_news:en-KE"
+   ],
+   "categories": [
+    "analysis"
+   ],
+   "matched": {
+    "analysis": [
+     "US"
+    ]
+   }
+  },
   {
    "id": "c31ba40e56ff",
    "title": "VETO 2.0: Could the US and China decide who gets to develop AI?",
@@ -127,12 +179,39 @@
    "focus": "search",
    "found_via": [
     "google_news:en-GB",
-    "google_news:en-KE"
+    "google_news:en-KE",
+    "google_news:en-US",
+    "google_news:en-NG"
    ],
    "categories": [
     "other"
    ],
    "matched": {}
+  },
+  {
+   "id": "2cbcc3ddaf22",
+   "title": "上合组织秘书长参观中国—上合组织国家人工智能应用合作中心",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kRmV3UU5kMDhQS2NuRkZXYmxQZ09LN0Z2UTdscVoyakluWGZKQS1ncFA2VEJ3TGRIN1R3V1VtMldfM2NOVDV2TmU1Zjc1cC05LVBWUWZfQ0k?oc=5",
+   "outlet": "sectsco.org",
+   "outlets": [
+    "sectsco.org"
+   ],
+   "published": "2026-11-26T03:35:23Z",
+   "first_seen": "2026-11-27T16:57:04Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:zh-CN"
+   ],
+   "categories": [
+    "institution"
+   ],
+   "matched": {
+    "institution": [
+     "秘书长"
+    ]
+   }
   },
   {
    "id": "d3f40b6d4593",
@@ -197,7 +276,8 @@
    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0ydWNYMkdCQnk3QVpFMENFTkxfUGNCNEY1d25rWl9yd29SQ2JocGJhQUk2cmZkSWpvVVhBZjdoYUFjOUxDaFZLdlRwSmtFMUdyVU04VVp2NzhuWGdKa1g5LWU0UldIQmQzRUdFRFlkUzlTNUdUWGc?oc=5",
    "outlet": "新浪财经",
    "outlets": [
-    "新浪财经"
+    "新浪财经",
+    "求是"
    ],
    "published": "2026-11-25T08:00:00Z",
    "first_seen": "2026-11-25T17:34:46Z",
@@ -213,6 +293,32 @@
    "matched": {
     "governance": [
      "治理"
+    ]
+   }
+  },
+  {
+   "id": "d9186802ba16",
+   "title": "我国牵头制定78项人工智能国际标准，涉及数据治理、人机交互等关键领域",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5nTjBSOGg1NDltaGtLdXE2b2tBazRJaG1BNkE3RVlVU2VJRHNheU1DOHBpdmZwMEZIWGtvMTdvS3JmZlV1NnM1bU56SGxZRWVJYWkwRFVIZ1lFWThobUhhVWhDaUY1Nlk1bHVrMjFfcw?oc=5",
+   "outlet": "中山网",
+   "outlets": [
+    "中山网"
+   ],
+   "published": "2026-11-25T02:26:44Z",
+   "first_seen": "2026-11-27T16:57:04Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:zh-CN"
+   ],
+   "categories": [
+    "governance"
+   ],
+   "matched": {
+    "governance": [
+     "治理",
+     "标准"
     ]
    }
   },
@@ -335,6 +441,31 @@
     "global_south": [
      "全球南方"
     ],
+    "governance": [
+     "治理"
+    ]
+   }
+  },
+  {
+   "id": "bf7ac46a6472",
+   "title": "21专访丨清华大学苏世民书院院长、人工智能国际治理研究院院长薛澜：AI治理是全球公共产品- 21经济网",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNU1IWkpSX0FqZS1IN0ZXRnlMVmZsM2prXzE3NjM5OGRXUkVoVVpxSWphYjBxa0tJVzhBN2dhMl9CcEYzYWZWVUxZTXlsV1d4MXNFTmxYbG9URWxNb1gyRWMwWUFYUnh2aWhwZ1ZZOVI3bGVwcTB5bTRVcmJaZW9NdzRlbTlsZw?oc=5",
+   "outlet": "21财经",
+   "outlets": [
+    "21财经"
+   ],
+   "published": "2026-11-20T23:00:00Z",
+   "first_seen": "2026-11-27T16:57:04Z",
+   "lang": "zh",
+   "summary": "",
+   "focus": "search",
+   "found_via": [
+    "google_news:zh-CN"
+   ],
+   "categories": [
+    "governance"
+   ],
+   "matched": {
     "governance": [
      "治理"
     ]
