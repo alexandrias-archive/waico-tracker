@@ -1,9 +1,9 @@
 {
- "generated": "2026-11-27T16:57:04Z",
+ "generated": "2026-11-28T01:38:37Z",
  "stats": {
-  "last_run_new": 5,
+  "last_run_new": 0,
   "by_source": {
-   "google_news": 41
+   "google_news": 46
   },
   "total": 189
  },
@@ -101,7 +101,8 @@
    "found_via": [
     "google_news:en-US",
     "google_news:en-GB",
-    "google_news:en-KE"
+    "google_news:en-KE",
+    "google_news:en-NG"
    ],
    "categories": [
     "analysis"
